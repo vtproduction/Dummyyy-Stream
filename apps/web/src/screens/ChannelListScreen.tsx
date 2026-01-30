@@ -84,7 +84,7 @@ export default function ChannelListScreen() {
     <div className="screen channel-list-screen">
       <header className="channel-list-screen__header">
         <div className="channel-list-screen__title-row">
-          <h1>Dummyyy Stream</h1>
+          <h1>ZapTV</h1>
           <div className="channel-list-screen__sort-container">
             <button 
               className="channel-list-screen__sort-btn"
