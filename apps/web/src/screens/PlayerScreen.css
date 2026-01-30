@@ -1,0 +1,148 @@
+.player-screen {
+  position: relative;
+  background: #000;
+}
+
+.player-screen__video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #000;
+}
+
+/* Overlays */
+.player-screen__overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-size: 1.2rem;
+  gap: 16px;
+}
+
+.player-screen__overlay--error {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.player-screen__error-text {
+  color: var(--accent);
+}
+
+.player-screen__spinner {
+  width: 48px;
+  height: 48px;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  border-top-color: white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Controls */
+.player-screen__controls {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.7) 0%,
+    transparent 20%,
+    transparent 80%,
+    rgba(0, 0, 0, 0.7) 100%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.player-screen__controls.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.player-screen__top {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 24px;
+}
+
+.player-screen__back {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+
+.player-screen__back:hover,
+.player-screen__back:focus {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.player-screen__channel-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.player-screen__logo {
+  width: 48px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 4px;
+  background: white;
+}
+
+.player-screen__name {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.player-screen__fav {
+  color: var(--accent);
+  font-size: 1.2rem;
+}
+
+.player-screen__bottom {
+  padding: 24px;
+}
+
+.player-screen__hints {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.player-screen__error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 16px;
+}
+
+.player-screen__error button {
+  background: var(--accent);
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}

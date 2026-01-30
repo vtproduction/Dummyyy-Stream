@@ -1,0 +1,164 @@
+.channel-list-screen {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  background: var(--bg-primary);
+}
+
+.channel-list-screen__header {
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.channel-list-screen__title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.channel-list-screen__header h1 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.channel-list-screen__hint {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* Sort dropdown */
+.channel-list-screen__sort-container {
+  position: relative;
+}
+
+.channel-list-screen__sort-btn {
+  background: var(--bg-card);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--text-primary);
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.channel-list-screen__sort-btn:hover,
+.channel-list-screen__sort-btn:focus {
+  background: var(--bg-focus);
+  border-color: var(--border-focus);
+  outline: none;
+}
+
+.channel-list-screen__sort-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 8px;
+  background: var(--bg-card);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+  z-index: 100;
+  min-width: 160px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.channel-list-screen__sort-option {
+  display: block;
+  width: 100%;
+  padding: 12px 16px;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.15s;
+}
+
+.channel-list-screen__sort-option:hover {
+  background: var(--bg-focus);
+}
+
+.channel-list-screen__sort-option.active {
+  background: var(--accent);
+  color: white;
+}
+
+/* Content area */
+.channel-list-screen__content {
+  flex: 1;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+/* Section styling */
+.channel-list-screen__section {
+  margin-bottom: 32px;
+}
+
+.channel-list-screen__section-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.channel-list-screen__section-title:first-child {
+  color: var(--accent);
+}
+
+/* Grid */
+.channel-list-screen__grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 16px;
+  padding: 8px;
+}
+
+/* Responsive grid for different TV sizes */
+@media (max-width: 1600px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (max-width: 1280px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 960px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Loading & empty states */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+}
+
+.channel-list-screen__empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  color: var(--text-secondary);
+  text-align: center;
+  gap: 8px;
+}
+
+.channel-list-screen__empty p:first-child {
+  font-size: 1.2rem;
+}

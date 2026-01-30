@@ -1,0 +1,20 @@
+{
+  "name": "dummyyy-stream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TV streaming monorepo for web and mobile platforms",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev -w web",
+    "build:web": "npm run build -w web",
+    "dev:mobile": "npm run start -w mobile",
+    "build:channels": "npm run build -w @dummyyy/channels",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
