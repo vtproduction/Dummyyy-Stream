@@ -1,0 +1,9 @@
+[
+  {
+    "item_id": "example-uuid-1234",
+    "name": "Example Channel",
+    "description": "Example channel description",
+    "image_url": "https://example.com/logo.png",
+    "m3u8_url": "https://example.com/stream.m3u8"
+  }
+]
