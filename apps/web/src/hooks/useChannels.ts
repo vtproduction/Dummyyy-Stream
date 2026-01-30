@@ -5,7 +5,7 @@ import {
   loadFavoriteIds,
   saveFavoriteIds,
 } from '@dummyyy/channels';
-import channelsData from '../../../../packages/channels/data/channels.json';
+import channelsData from '../../../../packages/channels/data/channels.encoded.json';
 
 // localStorage adapter for web
 const webStorage: Storage = {

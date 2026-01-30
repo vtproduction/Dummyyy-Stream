@@ -1,0 +1,4778 @@
+[
+  {
+    "item_id": "aa595bbc-13b1-41e6-9184-44e03be4fa70",
+    "name": "VTV1",
+    "description": "VTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFAYMAlEWF5FdBIdPTodU1pDNAocPSVGb1ADalFAZGYCHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "5832c7c2-311d-47e2-92ee-e35bc552efee",
+    "name": "VTV2",
+    "description": "VTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFMvIj5eQxxFNwgcezVaRVxdNggDIAlQBQIGalFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "9b271c2d-77a1-4248-9df3-b39685766cbf",
+    "name": "VTV3",
+    "description": "VTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8INz4AH0RCLFIYMAlTUkAYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b5ec1c77-c975-4f15-bb30-6b6b84c01381",
+    "name": "VTV4",
+    "description": "VTV4 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv4.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFUvIj5eQxxFNwgcezVaRVxdNggDIAlQBQIGalFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "5a35de83-ddc7-4e7c-8e5f-5f60cd6e275e",
+    "name": "VTV5",
+    "description": "VTV5 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv5.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVeTccVkJCKg0RLWMBHlxTLk4cPSBXH19TPggRewBmZgd+Hk4cPSBXb1paKT4RIjUdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ca6bb239-d830-405d-be3e-4143a0bf7f68",
+    "name": "VTV5 Tây Nam Bộ",
+    "description": "VTV5 Tây Nam Bộ channel",
+    "image_url": "https://vn.xemtv.net/image/vtv5-taynambo.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFQEOjRtRlpaKU8DOT9eH1FeLw8bOD9BRG1Ub1FAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "4f252e21-64b9-4d42-b3ec-11e815fb5210",
+    "name": "VTV5 Tây Nguyên",
+    "description": "VTV5 Tây Nguyên channel",
+    "image_url": "https://vn.xemtv.net/image/vtv5-taynguyen.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFQENS9cV0dPPw8vIj5eQxxFNwgcezVaRVxdNggDIAlQBQIGalFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "9d27b839-1300-4b61-b178-4e067ca0d13a",
+    "name": "VTV Cần Thơ",
+    "description": "VTV Cần Thơ channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcantho.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLAIROiJaX21AMg0DeiVfWV4ZOQkFOj1eWUFCBQNFZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "fc19b8db-8720-4f26-bf46-e7069ba8ac0b",
+    "name": "VTV7",
+    "description": "VTV7 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv7.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFYYMAlEWF5FdBIdPTodU1pDNAocPSVGb1ADalFAZGYCHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "fef8f696-a9bc-4a4f-ab81-e8ec54a1f804",
+    "name": "VTV8",
+    "description": "VTV8 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv8.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH0RCLFkYMAlEWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6b8bcc18-4d46-431f-9270-fded290b7eaa",
+    "name": "VTV9",
+    "description": "VTV9 channel",
+    "image_url": "https://vn.xemtv.net/image/vtv9.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RCLFgvIj5eQxxFNwgcezVaRVxdNggDIAlQBQIGalFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "14a04dfe-a9fd-4ec4-8549-4927ac355fe2",
+    "name": "Vietnam Today",
+    "description": "Vietnam Today channel",
+    "image_url": "https://vn.xemtv.net/image/vietnamtoday.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIDH0RYLg4UNS9tRlpaKU8DOT9eH1FeLw8bOD9BRG1Ub1FAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "e9fa9693-9c3c-4a62-8d37-8411f4542126",
+    "name": "ANTV",
+    "description": "ANTV channel",
+    "image_url": "https://vn.xemtv.net/image/antv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1NYNAgePCJEb0ReNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b5a7029a-a676-4d32-a732-d324b0ce1013",
+    "name": "QPVN",
+    "description": "QPVN channel",
+    "image_url": "https://vn.xemtv.net/image/qpvn.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH0NDNQIAPDlcV0RYMgUvIj5eQxxFNwgcezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "e03763db-f561-4d5f-b7ac-90d168d1e6d0",
+    "name": "HTV1",
+    "description": "HTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/htv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFAvPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f211cff1-e976-4bde-b966-664b82004582",
+    "name": "HTV2",
+    "description": "HTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/htv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFMYMAlEWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "23e22560-9ea2-4fd5-9d2c-61590b0aebd6",
+    "name": "HTV3",
+    "description": "HTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/htv3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFIvPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "40fa7ff0-8322-435b-adf0-ade27caf9f98",
+    "name": "HTV4",
+    "description": "HTV4 channel",
+    "image_url": "https://vn.xemtv.net/image/htv4.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFUvPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f16336af-d39e-4cb7-a8d7-4d422f2c8b1f",
+    "name": "HTV9",
+    "description": "HTV9 channel",
+    "image_url": "https://vn.xemtv.net/image/htv9.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFgYMAlEWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2df4f23f-d71e-49a9-ae1c-a574ad104992",
+    "name": "THVL1 HD",
+    "description": "THVL1 HD channel",
+    "image_url": "https://vn.xemtv.net/image/vinhlong1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH0RfNAkcOzhVAW1AMg0DeiVfWV4ZOQkFOj1eWUFCBQNFZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "555466ee-f425-4a83-a46e-7aaea609f3eb",
+    "name": "THVL2 HD",
+    "description": "THVL2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/vinhlong2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH0RfNAkcOzhVAm1AMg0DeiVfWV4ZOQkFOj1eWUFCBQNFZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7943fe1e-29ce-41da-8447-0717934ecb4d",
+    "name": "THVL3 HD",
+    "description": "THVL3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/vinhlong3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH0RfNAkcOzhVA21AMg0DeiVfWV4ZOQkFOj1eWUFCBQNFZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f129b3e0-27d0-453f-8b94-00b8bbc5f70f",
+    "name": "THVL4 HD",
+    "description": "THVL4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/vinhlong4.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH0RfNAkcOzhVBFpSBRcYOCUcQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3d85377b-4963-46b6-8cc1-067432822054",
+    "name": "Hà Nội 1",
+    "description": "Hà Nội 1 channel",
+    "image_url": "https://vn.xemtv.net/image/hanoi1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1pXNA4ZICADb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "414abe1a-9fdb-4b36-a9da-7f3f0f4849f6",
+    "name": "Hà Nội 2",
+    "description": "Hà Nội 2 channel",
+    "image_url": "https://vn.xemtv.net/image/hanoi2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8INz4AH1pYLhdCCzdQQhxFNwgcezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "014b5f85-6330-4367-a014-807c6069d781",
+    "name": "QNgTV",
+    "description": "QNgTV channel",
+    "image_url": "https://vn.xemtv.net/image/qngtv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0NDOw8XOjFTWW1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "5745993b-c10a-48df-bf43-b9b2fec720f1",
+    "name": "ATV1",
+    "description": "ATV1 channel",
+    "image_url": "https://vn.xemtv.net/image/atv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1NYPQgROjECAW1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "06ebe278-18c1-4b5d-8329-a05035582bbc",
+    "name": "ATV2",
+    "description": "ATV2 channel",
+    "image_url": "https://vn.xemtv.net/image/atv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1NYPQgROjFtWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "768bfe83-c67d-4f48-88ed-28fb8bea8f66",
+    "name": "ATV3",
+    "description": "ATV3 channel",
+    "image_url": "https://vn.xemtv.net/image/atv3.png",
+    "m3u8_url": "MhUEJCUIHx1CLE8ROjFbUVxRLhdeIjgdXFtAP04bMyJEAR1dPRUGZXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "3fcf935c-a595-4c3a-b83c-120e7331c98e",
+    "name": "BLTV",
+    "description": "BLTV channel",
+    "image_url": "https://vn.xemtv.net/image/baclieu.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1FXNwAFCz5eQxxFNwgcezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "36d3c27e-93e9-4e88-9264-f644bc15e239",
+    "name": "BTV",
+    "description": "BTV channel",
+    "image_url": "https://vn.xemtv.net/image/bacninh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVQDPFNCYzMLCApXOFVEYGNTAgMFYlFJZTIBVAQEP1kUeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "07af4880-7e8b-4ad0-a7f8-5ff2dd3943f8",
+    "name": "BGTV",
+    "description": "BGTV channel",
+    "image_url": "https://vn.xemtv.net/image/bacgiang.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVQDPFNCYzMLCApXOFVEYGNTAgMFYlFJZTIBVAQEP1kUezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "cba05b46-6500-4632-bd61-1aaeb46cf827",
+    "name": "BRT",
+    "description": "BRT channel",
+    "image_url": "https://vn.xemtv.net/image/brt-logo.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1BXKAgRIiNcV0ZXLz4YOCUcQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c04528d3-2baf-48b9-87ba-61d1b431f48c",
+    "name": "THBT",
+    "description": "THBT channel",
+    "image_url": "https://vn.xemtv.net/image/bentre.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH0RfNAkcOzhVAW1AMg0DeiVfWV4ZOQkFOj1eWUFCBQNFZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "baff682d-4f8c-4a2f-960d-dfe7a0be98a2",
+    "name": "BTV1",
+    "description": "BTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/binhduong1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH1BCLFAvPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e6e6113b-5b26-416f-a780-368ee3c94466",
+    "name": "BTV2",
+    "description": "BTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/binhduong2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFYYMAlEWF5FdBIdPTodU1pDNAocPSVGb1ADalFAZGYCHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7a82696b-95cc-410d-b47b-b5391221c24f",
+    "name": "BTV",
+    "description": "BTV channel",
+    "image_url": "https://vn.xemtv.net/image/binhdinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1VfOw0RPWYDb1paKU8DOT9eH1FeLw8bOD9BRG1Ua1lAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "94cddf50-4660-4501-8e30-3e4f4ca975e7",
+    "name": "BTV",
+    "description": "BTV channel",
+    "image_url": "https://vn.xemtv.net/image/binhthuan.png",
+    "m3u8_url": "MhUEJCUIHx0Aa1kSbG5UBgtTb1ISeiVGQldXNw0fNz0cXldCdSMkAgJkH1BfNAkEPCNTXkZAdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9f46149e-d824-436d-bed2-f3fd808c96fd",
+    "name": "PTP",
+    "description": "PTP channel",
+    "image_url": "https://vn.xemtv.net/image/ptp-hd-phuyen1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZXMQ0RPwlaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a6241a92-efce-45d6-9575-8efee5a83445",
+    "name": "BPTV1",
+    "description": "BPTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/binhphuoc1.png",
+    "m3u8_url": "MhUEJCUIHx1CPxIEeSRGXUIbLA0ZIjMcRkZANggGMXhEXh1aMxcVezJdXlVYOwhBODdcAlpSBRUdJwkFAgJGBRccPSBXHV9XNAgWMSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "25cbaa00-fdaf-4c95-841b-934b8d7527be",
+    "name": "BPTV2",
+    "description": "BPTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/binhphuoc2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZZNAYeNT8Ab1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "d624bfeb-133d-441f-844b-4a88c0e3e22c",
+    "name": "CTV",
+    "description": "CTV channel",
+    "image_url": "https://vn.xemtv.net/image/caumau.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1FXNwAFCz5eQxxFNwgcezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "9193d755-6abc-4500-93fd-d09ca0c98240",
+    "name": "CRTV",
+    "description": "CRTV channel",
+    "image_url": "https://vn.xemtv.net/image/caobang.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscRFpfNAYeMSIcRlwZNggGMXlBXVtaYCIiAAAcQ19fNk4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "bb99c324-4d61-4187-84d7-b2520a56902c",
+    "name": "DRT",
+    "description": "DRT channel",
+    "image_url": "https://vn.xemtv.net/image/daclac.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9eMCRGHkRYdQ0ZIjMdAgoDO1NHY2MCCAQHOFhGYDUAB1NQaFNAbWcEBgBXbVUWZjAdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "cc36a75b-bad0-4e09-8f27-a6cc5305fd2f",
+    "name": "PTD",
+    "description": "PTD channel",
+    "image_url": "https://vn.xemtv.net/image/daknong.png",
+    "m3u8_url": "MhUEJCUIHx1VNg4FMCVGQldXNxUYMDgcRFddbhUGeiBcH15fLARfJztbXAhSOwoeOzhVHkFbMw1fJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f7b04e0b-6595-4845-a2fd-9205777d997e",
+    "name": "LTV1",
+    "description": "LTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/ltv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH15XNwUfOjFtWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "044d3870-795b-49be-b9e2-b4a4d413d2e2",
+    "name": "LTV2",
+    "description": "LTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/ltv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH15XNwUfOjECAW1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8fd45c0f-7cc9-46c1-a869-31fed1743783",
+    "name": "LTV3",
+    "description": "LTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/ltv3.png",
+    "m3u8_url": "MhUEJCUIHx1VNg4FMCVGQldXNxUYMDgcRFddbhUGeiBcH15fLARfJztbXAhSOwoeOzhVHkFbMw1fJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1f7c5cbf-da31-4036-a3c6-75d8566cd33b",
+    "name": "DNRT1",
+    "description": "DNRT1 channel",
+    "image_url": "https://vn.xemtv.net/image/dnrt1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVADYwBBZWdWBwQPbVVCZmNTCFcFalFENjBRAwNXb1FJezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "3ec1043d-acdb-4928-8340-89098d351ff8",
+    "name": "DNRT2",
+    "description": "DNRT2 channel",
+    "image_url": "https://vn.xemtv.net/image/dnrt2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBQsHblRCbWZWAFYBY1VHMTAKCFAAaFVAZWQBUgQEblZEezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "306c886c-5720-4c42-8f9a-508e221b2399",
+    "name": "DN1",
+    "description": "DN1 channel",
+    "image_url": "https://vn.xemtv.net/image/dongnai1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZZNAYeNT8Db1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "60ec8e95-b51e-46a5-b803-fc1da69e29fb",
+    "name": "DN2",
+    "description": "DN2 channel",
+    "image_url": "https://vn.xemtv.net/image/dongnai2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZZNAYeNT8Ab1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "58612511-4508-4355-aa02-ea2719ffe054",
+    "name": "ĐTV",
+    "description": "ĐTV channel",
+    "image_url": "https://vn.xemtv.net/image/dienbien.png",
+    "m3u8_url": "MhUEJCUIHx1CKBQJMThaWVxedBceJCJEUUEYLA9fOD9EVRxbaRRIazUPRkFCLFJGZnBDDVpfPQlWJD1VDUJdPVBBej5cWQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "6274e860-1e31-4038-9a73-7c4544a7c323",
+    "name": "GTV",
+    "description": "GTV channel",
+    "image_url": "https://vn.xemtv.net/image/gtv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1VfOw0RPWYDb1paKU8DOT9eH1FeLw8bOD9BRG1Ua1lAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "e4e13ab0-6d6b-401a-9202-58b7bbd2e45e",
+    "name": "THHN",
+    "description": "THHN channel",
+    "image_url": "https://vn.xemtv.net/image/hanam.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH1pXNAAdCz5eQxxFNwgcezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "baf67a17-1523-48a6-8038-337af40f53fd",
+    "name": "HGTV",
+    "description": "HGTV channel",
+    "image_url": "https://vn.xemtv.net/image/hagiang.png",
+    "m3u8_url": "MhUEJCUIHx1CKBQJMThaWVxedBceJCJEUUEYLA9fOD9EVRxbaRRIazUPRkFCLFJGYXBDDVpfPQlWIC9CVQ9CLEcEOz1XXg96AkwZNhxrYmdHYxEWOARGaXNOPDghciJbXVcLa1RIYmULBQoEakcXNx9WDQMDaVNWISVXQntSZ0cUMSBbU1d/PlxWMDNEWVFTDhgAMWsUXF1VOxUZOzgPfnMQKAQBITNBRGZfNwRNZWMKBgEGY1VCZGEKARRGMQZNJD1VAQMYMg8Z",
+    "_encoded": true
+  },
+  {
+    "item_id": "71a60705-a57a-4928-a990-bba8c3ef300a",
+    "name": "BHTTV",
+    "description": "BHTTV channel",
+    "image_url": "https://vn.xemtv.net/image/bhttv.png",
+    "m3u8_url": "MhUEJCUIHx1BKQRePDdGWVxeLhdeOjNGH15fLARfPCJGRgMZOQkFOj1eWUFCBRZBYWIFBgoGa1FEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7f417e2e-0a68-4342-b5dc-e64d4e4589ac",
+    "name": "THP",
+    "description": "THP channel",
+    "image_url": "https://vn.xemtv.net/image/haiphong.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVMCOVhJYmAHVlZQYlUVbWILBQRVbFcSN2FWUwVTOFQUezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "5a1b4c9c-2f72-4dfe-8221-bfd4c17826d1",
+    "name": "THP+",
+    "description": "THP+ channel",
+    "image_url": "https://vn.xemtv.net/image/thpplus.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBQYOOQBDYW4AA1YCa1VCYjIKUgFSO1YVMG4AUlZXOFBDezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "e6abb05a-1a6f-4745-a461-c0f57a79691d",
+    "name": "THP3",
+    "description": "THP3 channel",
+    "image_url": "https://vn.xemtv.net/image/thp3.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH1pXMxEYOzhVAAFpMg0DeiVfWV4ZOQkFOj1eWUFCBQNBbGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bae6c805-a671-4881-9e5f-a03c0a8cfa7f",
+    "name": "THĐT1",
+    "description": "THĐT1 channel",
+    "image_url": "https://vn.xemtv.net/image/dongthap.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZZNAYEPDdCb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "2836a9d1-dda7-408b-8c11-59538056fc95",
+    "name": "THĐT2",
+    "description": "THĐT2 channel",
+    "image_url": "https://vn.xemtv.net/image/thdt2.png",
+    "m3u8_url": "MhUEJCUIHx0Aa1kSbG5UBgtTb1ISeiVGQldXNw0fNz0cXldCdTU4EAIAH0ZePhUEImQdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b310cebb-6044-4009-ab83-7018e367e0d4",
+    "name": "HDTV",
+    "description": "HDTV channel",
+    "image_url": "https://vn.xemtv.net/image/haiduong.png",
+    "m3u8_url": "MhUEJCUIHx1CKBQJMThaWVxedBceJCJEUUEYLA9fOD9EVRxbaRRIazUPRkFCLFJGbXBDDVpfPQlWJD1VDUJdPVBBej5cWQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "583c3bf8-da66-4f27-9763-26ec2dcdd6c8",
+    "name": "STV",
+    "description": "STV channel",
+    "image_url": "https://vn.xemtv.net/image/sonla.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9eJzlcXFNCLE8GOnleWURTdVNIYW8HAgAEP1ZAYzcBBgYEb1ASbGEABAUHbVlJYDRTUQYAdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a8715af5-2ab0-4598-b245-ebe7f903b5b8",
+    "name": "HGTV",
+    "description": "HGTV channel",
+    "image_url": "https://vn.xemtv.net/image/haugiang.png",
+    "m3u8_url": "MhUEJCUIHx1bPwYRJy9BRFdbKUxGN2AKAAEEawIUejFFHVZCMgIUOnhRX18ZMgAFMz9TXlVCLE4YNSNVWVNYPRUGejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "0dfcc3a0-228a-471c-bd3e-7ad1d2f57445",
+    "name": "KTV",
+    "description": "KTV channel",
+    "image_url": "https://vn.xemtv.net/image/khanhhoa.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1leOw8YPDlTb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "4a3add04-6e62-475c-af6c-e81ffbb61b90",
+    "name": "KRT",
+    "description": "KRT channel",
+    "image_url": "https://vn.xemtv.net/image/kontum.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1lZNBUFOQlaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9c9d0c07-3497-4d03-989a-04f70bc07490",
+    "name": "HBTV",
+    "description": "HBTV channel",
+    "image_url": "https://vn.xemtv.net/image/hoabinh.png",
+    "m3u8_url": "MhUEJCUIHx1eOBUGOD9EVRwFKRIfMiIcRlwZMg4RNj9cWEZAdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "faa83371-ced5-4389-9077-f8d9aa77465d",
+    "name": "TRT",
+    "description": "TRT channel",
+    "image_url": "https://vn.xemtv.net/image/huetv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1pDPz4YOCUcQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8f88bb0a-3c33-4354-ba3d-578e76d640b3",
+    "name": "HYTV",
+    "description": "HYTV channel",
+    "image_url": "https://vn.xemtv.net/image/hungyen.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVQDblVJMGFWB1YEY1VGMWZQVABSb1USYzMEAFQEbwBEezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "abfc46c5-a0fc-4a25-880d-d71ceaf35167",
+    "name": "KGTV",
+    "description": "KGTV channel",
+    "image_url": "https://vn.xemtv.net/image/kiengiang1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1lfPw8XPTdcV21eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b186481c-46ca-416d-8338-92031c076426",
+    "name": "KGTV1",
+    "description": "KGTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/kgtv1.png",
+    "m3u8_url": "MhUEJCUIHx1CLE8ROjFbUVxRLhdeIjgdXFtAP04bMyJEAR1dPRUGZXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "591bf56e-802c-4d4d-813f-84ee5921f262",
+    "name": "LCTV",
+    "description": "LCTV channel",
+    "image_url": "https://vn.xemtv.net/image/laichau.png",
+    "m3u8_url": "MhUEJCUIHx1CKBQJMThaWVxedBceJCJEUUEYLA9fOD9EVRxbaRRIazUPRkFCLFJGZXBDDVpfPQlWJD1VDUJdPVBBej5cWQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a17c7600-b144-45c6-9cce-1c224b46e807",
+    "name": "LSTV",
+    "description": "LSTV channel",
+    "image_url": "https://vn.xemtv.net/image/langson.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscXFNYPRIfOiJEHkRYdQ0ZIjMdAgoDOVZIMDcCUwACbFRCYDULAAsHbVlEZjAKVFcGaQMUZmcdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c61c95b1-67e7-4410-b6a7-8d678fbf94be",
+    "name": "LA34",
+    "description": "LA34 channel",
+    "image_url": "https://vn.xemtv.net/image/longan.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0ZXIw8ZOj4CAW1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "61bf1481-8029-462a-9a31-0f2104d6fa7c",
+    "name": "LCTV",
+    "description": "LCTV channel",
+    "image_url": "https://vn.xemtv.net/image/laocai.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH15XNQIRPQlaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b6a0d94a-ccfe-49cc-aa36-b33eb78dec6b",
+    "name": "NTV",
+    "description": "NTV channel",
+    "image_url": "https://vn.xemtv.net/image/ntv-hd-nghean.png",
+    "m3u8_url": "MhUEJCUIHx1YOxUGeiBcU1ZYdBceezhTRERaMxcVeyJEAV5fLAReOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8be05db1-fde2-48ee-9eae-fd9ef90799f9",
+    "name": "NTV",
+    "description": "NTV channel",
+    "image_url": "https://vn.xemtv.net/image/ninhbinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBQsBPFkWMGFXUQcGbFUUZDAKBFNUalESZ2ALCVZQPllGeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d9da53de-d25a-4251-995e-fc1921e99e3d",
+    "name": "TBK",
+    "description": "TBK channel",
+    "image_url": "https://vn.xemtv.net/image/tbk-hd-backan.png",
+    "m3u8_url": "MhUEJCUIHx1CKBQJMThaWVxedBceJCJEUUEYLA9fOD9EVRxbaRRIazUPRkFCLFJGZHBDDVpfPQlWJD1VDUJdPVBBej5cWQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8b2c7cc0-a384-44a4-92e7-90aa83d13cb6",
+    "name": "NTV",
+    "description": "NTV channel",
+    "image_url": "https://vn.xemtv.net/image/ninhthuan2.png",
+    "m3u8_url": "MhUEJCUIHx0AagATMTMAAwdQbgVFeiVGQldXNw0fNz0cXldCdQ0ZIjMdXUtFLhMVNTsdU1pDNAocPSVGb0UHblFCYmMHAAAGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "629361a7-97df-4b13-982f-60ab6ad98ac7",
+    "name": "NTV",
+    "description": "NTV channel",
+    "image_url": "https://vn.xemtv.net/image/namdinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1xXNwUZOj5tWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "44cfab58-f5fd-49ea-bc03-b2dca097bc92",
+    "name": "PTV",
+    "description": "PTV channel",
+    "image_url": "https://vn.xemtv.net/image/phutho.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH0JeLxUYOwlaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "da90364c-46dc-416d-a32c-66aeb7f0ac87",
+    "name": "QBTV",
+    "description": "QBTV channel",
+    "image_url": "https://vn.xemtv.net/image/quangbinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0NDOw8XICRbb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b8127d02-b2bd-4843-92a5-35dd9a170492",
+    "name": "QRT",
+    "description": "QRT channel",
+    "image_url": "https://vn.xemtv.net/image/quangnam.png",
+    "m3u8_url": "MhUEJCUIHx1UPxUReidARBxANE4YOCUfXFtAP04cPSBXQFlRKE4vMDNUWVxFLj5fOD9EVVdAPw8EezpbRldFLhMVNTscXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3400f109-366a-45bc-870a-ea1391747c02",
+    "name": "QTTV",
+    "description": "QTTV channel",
+    "image_url": "https://vn.xemtv.net/image/qttv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0NDOw8XICRbb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b859c817-e484-4abf-b8ec-d399ca67fc52",
+    "name": "QTV1",
+    "description": "QTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/quangninh1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejRTX0NDOw8XOj9cWBxANE4BICBeWURTdRUGZTpbRlcYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1e80d3a7-b10b-4deb-a3cd-78b0a35f2836",
+    "name": "QTV3",
+    "description": "QTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/quangninh3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejRTX0NDOw8XOj9cWBxANE4BICBeWURTdRUGZzpbRlcYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "978e90d8-32aa-4909-988c-22d39ce7b2e5",
+    "name": "STV1",
+    "description": "STV1 channel",
+    "image_url": "https://vn.xemtv.net/image/soctrang.png",
+    "m3u8_url": "MhUEJCUIHx1GO08EPCVGHkRYdQ0ZIjNXRldYLhIEImQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bed2ab03-1403-4424-8eb8-37123a57b92e",
+    "name": "STV2",
+    "description": "STV2 channel",
+    "image_url": "https://vn.xemtv.net/image/stv2.png",
+    "m3u8_url": "MhUEJCUIHx1GO08EPCVGHkRYdQ0ZIjNXRldYLhIEImQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "33c69800-64c1-42fd-9b82-294648c42795",
+    "name": "TTV1",
+    "description": "TTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/ttv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0ZXIw8ZOj4CAW1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "22e91d0a-88a6-4952-b536-254af50bfcc0",
+    "name": "TTV2",
+    "description": "TTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/ttv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0ZXIw8ZOj5aVG1eNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e2c667b5-108d-4160-bf38-59f2f29ee861",
+    "name": "TBTV",
+    "description": "TBTV channel",
+    "image_url": "https://vn.xemtv.net/image/thaibinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBVRTbFASNWEBAAUEPFVCbDIKUQQEbAVHYmIAAgBTbVVEezVaRVxdNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "b7cd0394-8c43-495f-81c7-69dcb91d201d",
+    "name": "TN1",
+    "description": "TN1 channel",
+    "image_url": "https://vn.xemtv.net/image/thainguyen.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH0ZeOwgeMyNLVVxpMg0DeiVfWV4ZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "1f2e281c-c523-4abe-a803-6f17253a6e1d",
+    "name": "THTG",
+    "description": "THTG channel",
+    "image_url": "https://vn.xemtv.net/image/tiengiang.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH1ZZNAYEPDdCb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "d2d25bea-430b-446a-a917-fb93b7bd9ced",
+    "name": "THTPCT1",
+    "description": "THTPCT1 channel",
+    "image_url": "https://vn.xemtv.net/image/thtpct1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejVTXkZeNRUGeiBcH15fLARfICAdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "07f8a97c-fc22-44f7-b8de-c28ed6df1f94",
+    "name": "THTPCT2",
+    "description": "THTPCT2 channel",
+    "image_url": "https://vn.xemtv.net/image/thtpct2.png",
+    "m3u8_url": "MhUEJCUIHx1bPwYRJy9BRFdbKUxGN2AKAAEEawIUejFFHVZCMgIUOnhRX18ZMgAFMz9TXlVCLE4YNSNVWVNYPRUGejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "39f6ecc3-0447-4237-9512-e207e9e72c88",
+    "name": "THTPCT3",
+    "description": "THTPCT3 channel",
+    "image_url": "https://vn.xemtv.net/image/thtpct3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejVTXkZeNRUGeiBcH15fLARfNyUBH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "ee9b5327-dca0-4ab5-84e3-41de30c63b3b",
+    "name": "THTV",
+    "description": "THTV channel",
+    "image_url": "https://vn.xemtv.net/image/travinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKJzIDH0ZEOxcZOj5tWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "1143fc37-957f-4210-86a6-7baba8e2dbb6",
+    "name": "THTV2",
+    "description": "THTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/thtv2.png",
+    "m3u8_url": "MhUEJCUIHx0Aa1kSbG5UBgtTb1ISeiVGQldXNw0fNz0cXldCdTU4AAAAH0ZEOxcZOj5GRgAZOQkFOj1eWUFCBRZBbGALBQUAa1hIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3c8fcd07-1f56-4efb-8720-14655aebfd2a",
+    "name": "TTV",
+    "description": "TTV channel",
+    "image_url": "https://vn.xemtv.net/image/tuyenquang.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTtbXlUYLhQJMThDRVNYPRUGeiBcH1FeOw8eMTodREdPPw8BITdcVx1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "bd5fb5ee-a6e6-4afb-a30a-701ad4e6430a",
+    "name": "VP",
+    "description": "VP channel",
+    "image_url": "https://vn.xemtv.net/image/vinhphuc.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH0RfNAkAPCNRb1paKU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "5766693c-e563-4959-861d-bdeb27825677",
+    "name": "YTV",
+    "description": "YTV channel",
+    "image_url": "https://vn.xemtv.net/image/yenbai.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH0tTNAMRPQlaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2a8e92a4-a297-4bc7-9be5-78dc4bb9519f",
+    "name": "HTVC Ca Nhạc",
+    "description": "HTVC Ca Nhạc channel",
+    "image_url": "https://vn.xemtv.net/image/canhac.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIdISVbU21AMg0DeiVfWV4ZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "48798267-d740-46bf-a3ca-3385161fa636",
+    "name": "HTVC Du Lịch",
+    "description": "HTVC Du Lịch channel",
+    "image_url": "https://vn.xemtv.net/image/dulich.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIUITpbU1ppLAkcJ3hBXVtadQIYIThZXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "e8be10b8-701e-466f-b87e-42651ae77231",
+    "name": "HTVC Gia Đình",
+    "description": "HTVC Gia Đình channel",
+    "image_url": "https://vn.xemtv.net/image/giadinh.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIXPTdWWVxeBRcYOCUcQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "d680f3ef-c52e-480a-9e55-c829c5bff8f3",
+    "name": "HTVC Phim",
+    "description": "HTVC Phim channel",
+    "image_url": "https://vn.xemtv.net/image/phim.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIdOyBbVUFePj4GPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a8a1a063-4a21-44fb-b697-0adee7757791",
+    "name": "HTVC Phụ Nữ",
+    "description": "HTVC Phụ Nữ channel",
+    "image_url": "https://vn.xemtv.net/image/phunu.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIAPCNcRW1AMg0DeiVfWV4ZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2fcb0812-1ddc-4c8e-a270-2752df05fbbb",
+    "name": "HTVC Plus",
+    "description": "HTVC Plus channel",
+    "image_url": "https://vn.xemtv.net/image/htvc-plus.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIAOCNBb0ReNhJeJztbXB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c44c51f8-a366-4507-ad2f-f3c041359a4d",
+    "name": "HTV Thuần Việt",
+    "description": "HTV Thuần Việt channel",
+    "image_url": "https://vn.xemtv.net/image/thuanviet.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIEPCNTXkRfPxUYMAlEWF5FdBIdPTodU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "b77b1447-4658-4ee8-87a5-658b051c60e4",
+    "name": "VTVCab1 Vie Giải trí",
+    "description": "VTVCab1 Vie Giải trí channel",
+    "image_url": "https://vn.xemtv.net/image/viegiaitri.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMOag==",
+    "_encoded": true
+  },
+  {
+    "item_id": "814c75b8-a246-4735-bde6-d301f56c7625",
+    "name": "Phim Việt",
+    "description": "Phim Việt channel",
+    "image_url": "https://vn.xemtv.net/image/phimviet.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBbw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3e2c9baa-6853-43aa-9de3-4ff2d9d72b03",
+    "name": "VTVcab4",
+    "description": "VTVcab4 channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab4.jpg",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMOaw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "558349ad-1a95-49cd-bbde-bfe5ae2709bf",
+    "name": "VTVCab5 Echannel",
+    "description": "VTVCab5 Echannel channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab5.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMOaA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "d07c043d-7eaf-43f4-9f9e-ed720d592c76",
+    "name": "VTVCab7",
+    "description": "VTVCab7 channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab7.png",
+    "m3u8_url": "MhUEJCUIHx1OPwxeACRHSVdYEggePHhxXFtVMU4zOxRTXh1ALhcTNTQFWFYZDhQJMSJ2X1t9Mg4eMx1bXlpyNQAePHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "d456455a-547e-47f1-b2a8-59007028354c",
+    "name": "VTVCab8 BiBi TV",
+    "description": "VTVCab8 BiBi TV channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab8.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e76ba664-2a4e-4572-aad4-1e89726e62b3",
+    "name": "VTVCab9",
+    "description": "VTVCab9 channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab9.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMOYw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "6c69d272-eb50-4f0d-a22e-51c415009b6d",
+    "name": "OnCine",
+    "description": "OnCine channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab10.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "eb9ea8d5-b02f-4700-9f8a-96365a39f549",
+    "name": "STYLE TV",
+    "description": "STYLE TV channel",
+    "image_url": "https://vn.xemtv.net/image/styletv.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMObg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3517db75-ecc3-44fd-a6ba-bec86ac32968",
+    "name": "VTVCab15",
+    "description": "VTVCab15 channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab15.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMObA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "44f26965-3199-4d78-95f4-f0605214c86f",
+    "name": "Yeah1TV VTVCab17",
+    "description": "Yeah1TV VTVCab17 channel",
+    "image_url": "https://vn.xemtv.net/image/yeah1hd.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMObw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "dae7e137-d0ea-4765-b16c-e0f16ed28698",
+    "name": "VTVCab19",
+    "description": "VTVCab19 channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab19.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBbQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "56da586e-a212-4ef6-9d1c-588e3595cc1b",
+    "name": "V Family",
+    "description": "V Family channel",
+    "image_url": "https://vn.xemtv.net/image/vtvcab20.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMObQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ede96a6b-f302-4ca4-84f0-cbb92ea74684",
+    "name": "VTVCab22",
+    "description": "VTVCab22 channel",
+    "image_url": "https://vn.xemtv.net/image/lifetv.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMOYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bc60d13b-186d-4cce-bf51-e2eccec8e4ae",
+    "name": "O2TV",
+    "description": "O2TV channel",
+    "image_url": "https://vn.xemtv.net/image/o2tv.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "74564146-b001-4554-8e13-364ffa486d7d",
+    "name": "Vie NetWork",
+    "description": "Vie NetWork channel",
+    "image_url": "https://vn.xemtv.net/image/vie-network.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLFMYMAlEWF5FdBIdPTodU1pDNAocPSVGb1ADalFAZGYCHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9fa298f4-49cf-4174-948c-16356220ad48",
+    "name": "HiTV",
+    "description": "HiTV channel",
+    "image_url": "https://vn.xemtv.net/image/hitv.png",
+    "m3u8_url": "MhUEJCUIHx1CMhcZJHhBWUZTdVJGZHkBAh1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "233aaff3-48f9-41d4-b43a-8144b71163f0",
+    "name": "MOV HD",
+    "description": "MOV HD channel",
+    "image_url": "https://vn.xemtv.net/image/movhd.png",
+    "m3u8_url": "MhUEJCUIHx1VPg8HeTpbRgIEdBUfMDdLQF5DKU8TOzscRlwZMgUSeyVfWV4MKgkZOT5TSRxFNwgcezVaRVxdNggDIAlQAgAOY1BFJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1bd5880e-adeb-47d0-ab9a-e7531ef95784",
+    "name": "BTV9",
+    "description": "BTV9 channel",
+    "image_url": "https://vn.xemtv.net/image/btv9.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH1BCLFgvPDpBHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "89141e72-94f8-47e7-8bfd-e031d89e4122",
+    "name": "Box Hits",
+    "description": "Box Hits channel",
+    "image_url": "https://vn.xemtv.net/image/boxhits.png",
+    "m3u8_url": "MhUEJCUIHx1QPFJDYWcAAAEGagREY2IAUQBUa1JFMTMLUQtTbQUWbHhfVVZfOxURPTpdQhxTL0wHMSVGHQMYOwwRLjlcUUVFdAIfOXlEAR1bOxIEMSQdAAcCbQdBbGAGCVBSbVlINjNRB1AAbQNHYGBXBAUAbVEWYWMKUgRUaE4AJjlWRVFCMw4eeRpbRld1MgAeOjNeHQcPYlJfOTdBRFdEdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "8d590f93-4d5a-4317-a3f2-dc9989698f88",
+    "name": "BoxFilm",
+    "description": "BoxFilm channel",
+    "image_url": "https://vn.xemtv.net/image/boxfilm.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejNcWFZCLE8TOzsIAQsFbFFfOjNKRFpSdQ8VLCJaVBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "dcf41008-be31-49e5-a965-2d6a61bd1f18",
+    "name": "Box Movie",
+    "description": "Box Movie channel",
+    "image_url": "https://vn.xemtv.net/image/boxmovie.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9EeiVZSVVZdAweezpbRlcZPggDP2cdfV1AMwQSOy4deH5lLFJdEgJzH39ZLAgVNjlKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c0acadb1-3e5c-4a2f-af01-73dbbc6340f4",
+    "name": "Box Channel",
+    "description": "Box Channel channel",
+    "image_url": "https://vn.xemtv.net/image/box.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9EeiVZSVVZdAweezpbRlcZPggDP2cdcUFfOw8yGw4deH5lLFJdEgJzH3NFMwAeFhlqHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bed511be-3612-4904-8e11-9342c9103b75",
+    "name": "MusicBox",
+    "description": "MusicBox channel",
+    "image_url": "https://vn.xemtv.net/image/musicbox.png",
+    "m3u8_url": "MhUEJCUIHx1ZMxEWZCxcQF9YNggGeiBRVFwYOQ0fITIdWF5FdQMfLDtHQ1tVdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "dda60ad0-ea5c-4edc-9eac-ba7d47faf3d5",
+    "name": "MAN",
+    "description": "MAN channel",
+    "image_url": "https://vn.xemtv.net/image/man.png",
+    "m3u8_url": "MhUEJCUIHx1QNlJeOTlEVV1YMA4JejVdXR17GzcvAAAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "95ca8bd3-5539-4931-926e-441c4c9dac2d",
+    "name": "WOMAN",
+    "description": "WOMAN channel",
+    "image_url": "https://vn.xemtv.net/image/woman.png",
+    "m3u8_url": "MhUEJGwdHwMGaU9EbXgECRwHb1dKbGYCAB1GNgAJezcCAVcZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "87ea6ebc-fd73-458f-9bdb-f0733b2339a4",
+    "name": "Dr Fit",
+    "description": "Dr Fit channel",
+    "image_url": "https://vn.xemtv.net/image/drfit.png",
+    "m3u8_url": "MhUEJCUIHx1BMw8EInhURVwZaVdAe2cEAh1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "4bbc497e-5aba-4b02-9b22-8ddf53568855",
+    "name": "SCTV1",
+    "description": "SCTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGcAHkFTPw8fI3hEXh1eNhJfBxVmZgMZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ac8ab2e2-712b-477f-8cde-d468ef4a4aa6",
+    "name": "SCTV2",
+    "description": "SCTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGcAHkFTPw8fI3hEXh1eNhJfBxVmZgAZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "20f07ed8-8a92-4929-82a5-c10de98e3aa6",
+    "name": "SCTV3",
+    "description": "SCTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv3.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgEZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a2c0cd99-ddea-43d9-99d6-3429743fad74",
+    "name": "SCTV4",
+    "description": "SCTV4 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv4.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGcAHkFTPw8fI3hEXh1eNhJfBxVmZgYZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b66e9aff-41e8-4cf4-afbc-0d5af56f979a",
+    "name": "SCTV5",
+    "description": "SCTV5 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv5.png",
+    "m3u8_url": "MhUEJCUIHx1MaFBFLTtRXQZCNggGeiBRVFwYOQ0fITIdQwoZMg0DeyVRREQDdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "575fc674-d922-40c0-a89b-84529f3363ab",
+    "name": "SCTV6",
+    "description": "SCTV6 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv6.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIAH1RfNgxDYmZtRlpaKU8DOT9eH1FeLw8bOD9BRG1Ub1FAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "dda225b1-82ef-4d75-aef2-082e9d564e64",
+    "name": "SCTV7",
+    "description": "SCTV7 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv7.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgUZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f0c548bc-d181-4e3b-aa71-3fd707c8dbec",
+    "name": "Kênh SCTV8",
+    "description": "Kênh SCTV8 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv8.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgoZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4bf0ff10-1750-45a5-96b1-12b26c7610e4",
+    "name": "SCTV9",
+    "description": "SCTV9 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv9.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgsZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f0544834-f901-4c86-8c17-d6440a4f75ed",
+    "name": "SCTV10",
+    "description": "SCTV10 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv10.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMGdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bc6bafbd-279c-426f-a45d-29dbd2d34263",
+    "name": "SCTV11",
+    "description": "SCTV11 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv11.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMHdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "b0538d07-b3a8-40f7-8c39-2e6f3dd153df",
+    "name": "SCTV12",
+    "description": "SCTV12 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv12.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMEdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3ef91d8d-05a7-4058-b7e6-2330a4ed1984",
+    "name": "SCTV13",
+    "description": "SCTV13 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv13.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMFdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "8d313c25-29ec-4e77-b68b-65f201c1eece",
+    "name": "SCTV14",
+    "description": "SCTV14 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv14.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMCdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "1a7fadca-6034-475a-93da-e584882bbefe",
+    "name": "SCTV16",
+    "description": "SCTV16 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv16.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMAdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "af1cae65-c88f-4bfc-adb9-8b0cf445d6c7",
+    "name": "SCTV18",
+    "description": "SCTV18 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv18.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMOdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "15be99b6-2e7f-4724-9211-71579b3c1a75",
+    "name": "SCTV19",
+    "description": "SCTV19 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv19-hd.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgMPdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "21edde6d-13aa-4aa7-b0df-a434e2355799",
+    "name": "SCTV20",
+    "description": "SCTV20 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv20-hd.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgAGdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "51210926-ee2e-4be3-bdc6-e911c505a2b3",
+    "name": "Kênh SCTV21",
+    "description": "Kênh SCTV21 channel",
+    "image_url": "https://vn.xemtv.net/image/sctv21.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgAHdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c11091b7-dee7-4bc2-a428-a8476ba5ad46",
+    "name": "SCTV Phim Tổng hợp",
+    "description": "SCTV Phim Tổng hợp channel",
+    "image_url": "https://vn.xemtv.net/image/sctv-hd.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGcAHkFTPw8fI3hEXh1eNhJfBxVmZmJ+EyxfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e27cb673-c712-4223-8875-0d43b5e2e087",
+    "name": "Disney Junior HD",
+    "description": "Disney Junior HD channel",
+    "image_url": "https://vn.xemtv.net/image/disneyjunior.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1yEzI+EQ9temAZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "fe170229-aed4-4ed2-8b3c-f47605c2fd46",
+    "name": "Disney XD",
+    "description": "Disney XD channel",
+    "image_url": "https://vn.xemtv.net/image/disney-xd.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1yEzI+EQ9taHYZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "814faaa4-a72e-49b4-a92b-faeb89a923d3",
+    "name": "Cartoon Network",
+    "description": "Cartoon Network channel",
+    "image_url": "https://vn.xemtv.net/image/car-toon.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9EeiVZSVVZdAweezpbRlcZPggDP2cdc1NELg4fOgl8VUZBNRMbex5+Y0QFdyckFXlxUUBCNQ4eCxhXREVZKApeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "56fe06aa-e44f-46f5-96fa-3ced363ba86b",
+    "name": "Cartoon Kids",
+    "description": "Cartoon Kids channel",
+    "image_url": "https://vn.xemtv.net/image/cartoon-kids.png",
+    "m3u8_url": "MhUEJCUIHx1QKAQVOWVHHkpPIE4RJD8dXFtAP04AODdLHl8FL1lPIj9WDQMBYw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "667e921b-87de-48b3-b199-14ff4f3576a5",
+    "name": "Happy Kids",
+    "description": "Happy Kids channel",
+    "image_url": "https://vn.xemtv.net/image/happy-kids.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscUVZFdA4EIDNAURxCLE4AODdLXFtFLk8dZyMKD1xTLhYfJj1tWVYLYlNF",
+    "_encoded": true
+  },
+  {
+    "item_id": "bcfcf5c4-78a4-45ae-94f6-ce598d256708",
+    "name": "Disney Channel",
+    "description": "Disney Channel channel",
+    "image_url": "https://vn.xemtv.net/image/disney.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1yEzI+EQ8dWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2ee8e099-9da5-4b69-bb1c-a02619773592",
+    "name": "Discovery Kids",
+    "description": "Discovery Kids channel",
+    "image_url": "https://vn.xemtv.net/image/dk.png",
+    "m3u8_url": "MhUEJCUIHx1cOw8DOzhfVVZfO0wbPTJBREQba0wFJ3hKWVNZNwheIyNAXBxCLE4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "14554a0b-3576-4e5d-9df1-48c029f0ad95",
+    "name": "Kids TV",
+    "description": "Kids TV channel",
+    "image_url": "https://vn.xemtv.net/image/kids-tv.jpg",
+    "m3u8_url": "MhUEJCUIHx1cOw8DOzhfVVZfO0wbPTJBREQba0wFJ3hKWVNZNwheIyNAXBxCLE4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "cad3f3ad-5643-4965-85fd-4762138ff891",
+    "name": "Baby First TV",
+    "description": "Baby First TV channel",
+    "image_url": "https://vn.xemtv.net/image/babyfirst.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTtBAhxFNQcRJyIcREQZLFBfOTdBRFdEdVdBZTIFCVAHawNHYzMAVgcBa1hDYDBWCAJVO1BEZWUGBQEBbVMRN2EdUwpSa1dBZWYfBQQAOUxEMW8HHVMHPgddYWNWAQUDP1gVZmYDH19XNAgWMSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7cbebf6b-5a12-4591-8545-30b29f71d77c",
+    "name": "EBS Kids TV",
+    "description": "EBS Kids TV channel",
+    "image_url": "https://vn.xemtv.net/image/ebs-kids.jpg",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQltZKU8VNiUcU10YMRNfMTRBRUZXOA0VIGMCAFkZLgASODNGBQIGMU4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "a5b9ff99-70ff-451a-8add-6000ecc0970a",
+    "name": "EBS English",
+    "description": "EBS English channel",
+    "image_url": "https://vn.xemtv.net/image/ebs-english.png",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQhxTOBJeNzkcW0AZKg0FJ2VUUV9fNhgAN3lUUV9fNhgAN2dfH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "64a8ea8c-045f-4e89-be84-b37678a37714",
+    "name": "EBS+ 1",
+    "description": "EBS+ 1 channel",
+    "image_url": "https://vn.xemtv.net/image/ebsi.png",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQhxTOBJeNzkcW0AZKg0FJ2dUUV9fNhgAN3lUUV9fNhgAN2dfH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6de26c33-2afe-40e7-af43-d6a4d39333b5",
+    "name": "EBS+ 2",
+    "description": "EBS+ 2 channel",
+    "image_url": "https://vn.xemtv.net/image/ebs2-plus.png",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQhxTOBJeNzkcW0AZKg0FJ2RUUV9fNhgAN3lUUV9fNhgAN2dfH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "613bf915-9f36-4353-9476-02c924c8a716",
+    "name": "Animax TV",
+    "description": "Animax TV channel",
+    "image_url": "https://vn.xemtv.net/image/animax.jpg",
+    "m3u8_url": "MhUEJCUIHx1VO1FBeiNGUVlZdAwfMXlzXltbOxlfICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "004fcf6f-2888-4b41-ba60-6a619c05125d",
+    "name": "Toonee",
+    "description": "Toonee channel",
+    "image_url": "https://vn.xemtv.net/image/toonee.jpg",
+    "m3u8_url": "MhUEJGwdHwMAYk9CZmEcAgAYa1lKZW8BBR1aMxcVeztdUltaP0xAZGQdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8c9afee9-0888-45e0-923e-28c7f6eb48da",
+    "name": "Aniplus",
+    "description": "Aniplus channel",
+    "image_url": "https://vn.xemtv.net/image/aniplus.jpg",
+    "m3u8_url": "MhUEJGwdHwMObU9JYXgLBRwEblZfGj9RW1hEdRcZMDNdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "5be3484f-860f-4abf-a0d7-6db1c870e3df",
+    "name": "PBS Kids",
+    "description": "PBS Kids channel",
+    "image_url": "https://vn.xemtv.net/image/pbskids.png",
+    "m3u8_url": "MhUEJCUIHx0EdwcDJ3sAHkFCKAQROT5dQ0ZTKE8TOzsdQF5pa1VAezdfXEFCYFNAZG8DBB8HaFhIZm8CH1FeLw8bOD9BRG1UaFFAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "392b089f-550e-47a8-a845-df0b59f4837a",
+    "name": "Teen Nick",
+    "description": "Teen Nick channel",
+    "image_url": "https://vn.xemtv.net/image/teennick.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZFCgzHxN+f3ZzFS9fICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "dbd07c07-f444-4e59-a887-1d7260af139b",
+    "name": "Nick Jr",
+    "description": "Nick Jr channel",
+    "image_url": "https://vn.xemtv.net/image/nickjr.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZFCgzHwl4Yh1CKAATPyUfRgNXa04dOzhdHkZFdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d4ff3544-1e25-4145-938c-bdbd4e6ffeee",
+    "name": "Boomberang",
+    "description": "Boomberang channel",
+    "image_url": "https://vn.xemtv.net/image/boomberang.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9DeiVZSVVZdAweezpbRlcZPggDP2cdcl1ZNwQCNThVH3p6CUw2ABcdcl1ZNwQCNThVHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4a1dc8b7-9231-4d30-8c0b-4ada3f6b242d",
+    "name": "VOV1 FM 100MHz",
+    "description": "VOV1 FM 100MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vov1.png",
+    "m3u8_url": "MhUEJCUIHx1FLhNeIjlEHlVZLE8GOnlEX0RaMxcVeyBdRgNANRdFAj9XRFxXNwQDMXhBVEJpOwATeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "70de61df-cbae-4628-a882-7d237d739b5a",
+    "name": "VOV2 FM 96.5MHz",
+    "description": "VOV2 FM 96.5MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vov2.png",
+    "m3u8_url": "MhUEJCUIHx1FLhNeIjlEHlVZLE8GOnlEX0RaMxcVeyBdRgAYKQUACzdTUx1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b20766ff-d010-42ff-9466-5220d8471277",
+    "name": "VOV3 FM 102.7MHz",
+    "description": "VOV3 FM 102.7MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vov3.png",
+    "m3u8_url": "MhUEJCUIHx1FLhNeIjlEHlVZLE8GOnlEX0RaMxcVeyBdRgEYKQUACzdTUx1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "7df4eac5-c834-4b84-9ad9-33fabdcaa10c",
+    "name": "VOV4 Trực tuyến",
+    "description": "VOV4 Trực tuyến channel",
+    "image_url": "https://vn.xemtv.net/image/vov4.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsfU1ZYdBcfInhEXh1aMxcVeyBdRgYbOxQUPTltX1xaI08dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "ab83d0e5-e23c-4926-a264-9ac6cd081fdc",
+    "name": "VOV5 FM 105.5MHz",
+    "description": "VOV5 FM 105.5MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vov5.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsfU1ZYdBcfInhEXh1aMxcVeyBdRgcbOxQUPTltX1xaI08dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "8cd98271-50d8-4d52-9e2d-98c7270e9b4c",
+    "name": "VOV6 FM 96.5 Mhz",
+    "description": "VOV6 FM 96.5 Mhz channel",
+    "image_url": "https://vn.xemtv.net/image/vov6.png",
+    "m3u8_url": "MhUEJCUIHx1FLhNeIjlEHlVZLE8GOnlEX0RaMxcVeyBdRgAYKQUACzdTUx1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "d55c1c0d-b3ac-448f-a624-ea50a634604c",
+    "name": "VOV English 24/7 Radio",
+    "description": "VOV English 24/7 Radio channel",
+    "image_url": "https://vn.xemtv.net/image/vov-en.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsfU1ZYdBcfInhEXh1aMxcVeyBdRgACBVZdNSNWWV1pNQ8cLXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "56ffc1a6-56b1-4bb7-885f-fcaace554f53",
+    "name": "VOV Giao thông Hà Nội FM 91MHz",
+    "description": "VOV Giao thông Hà Nội FM 91MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vovgthn.png",
+    "m3u8_url": "MhUEJCUIHx1GNgAJeiBdRlVfOw4EPDlcVxxANE4cPSBXH1VCMg9fJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "50820d52-a5bf-4ead-b1ac-d276b49b1619",
+    "name": "VOV Giao thông Tp Hồ Chí Minh FM 91MHz",
+    "description": "VOV Giao thông Tp Hồ Chí Minh FM 91MHz channel",
+    "image_url": "https://vn.xemtv.net/image/vovgthcm.png",
+    "m3u8_url": "MhUEJCUIHx1GNgAJeiBdRlVfOw4EPDlcVxxANE4cPSBXH1VCMgIdeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d97f34a2-e5cc-47fc-bb28-bb8d8ec20840",
+    "name": "VOV Giao thông Duyên Hải",
+    "description": "VOV Giao thông Duyên Hải channel",
+    "image_url": "https://vn.xemtv.net/image/vov-duyenhai.png",
+    "m3u8_url": "MhUEJCUIHx1GNgAJeiBdRlVfOw4EPDlcVxxANE4cPSBXH1ZDIwQePDdbH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a9c8abc2-3844-47ba-8eca-d9418e3f8cf9",
+    "name": "VOV Giao thông Mê Kông FM 90 Mhz Radio",
+    "description": "VOV Giao thông Mê Kông FM 90 Mhz Radio channel",
+    "image_url": "https://vn.xemtv.net/image/vovgt-mk.png",
+    "m3u8_url": "MhUEJCUIHx1FLhNeIjlEHlVZLE8GOnlEX0RaMxcVeyBdRlVCFwQ7OzhVHkFSKj4RNTUdU1pDNAocPSVGb0UHaVJIYWYDCAIDdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bab1e255-9000-4c23-973e-b07b1453a996",
+    "name": "VOH FM 99.9 Mhz",
+    "description": "VOH FM 99.9 Mhz channel",
+    "image_url": "https://vn.xemtv.net/image/voh.jpg",
+    "m3u8_url": "MhUEJCUIHx1FLhMdeiBdWBxVNQxeIjgdQlNSMw5fNz5TXlxTNlBfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bcd96252-ffd5-4a91-88fd-08b3c79a4724",
+    "name": "HaNoi FM 90-96 Mhz",
+    "description": "HaNoi FM 90-96 Mhz channel",
+    "image_url": "https://vn.xemtv.net/image/hanoifm.png",
+    "m3u8_url": "MhUEJCUIHx1VNg4FMDVWXlRbY1FeIDNZBEZAdBceex5zfn1/HCxJZHlBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "325f3929-55e7-413a-a4b6-826bcc9454bd",
+    "name": "PTQ FM Radio Quảng Ngãi",
+    "description": "PTQ FM Radio Quảng Ngãi channel",
+    "image_url": "https://vn.xemtv.net/image/fm-quangngai.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtXVFtXLgQTPHhEXh1aMxcVe2QKBQFUOFBINm4LVAIBblVJbDUKAVYBO1EUMTQBAlMFbVRFeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "daa5b244-1533-483b-b792-19c08ca3831a",
+    "name": "HBO",
+    "description": "HBO channel",
+    "image_url": "https://vn.xemtv.net/image/hbo.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1+GC5fPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7fe2e0fc-26bd-4266-8e53-5fed85773bc8",
+    "name": "HBO2",
+    "description": "HBO2 channel",
+    "image_url": "https://vn.xemtv.net/image/hbo2.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfHBR9Ah1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "e43ca496-4d64-42d3-b5b9-5ec82fdc18da",
+    "name": "HBO3",
+    "description": "HBO3 channel",
+    "image_url": "https://vn.xemtv.net/image/hbo3.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1+GC4vFxl/dXZvdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "1fdd0737-aa68-4766-b5b6-9872859e5988",
+    "name": "HBO HITS",
+    "description": "HBO HITS channel",
+    "image_url": "https://vn.xemtv.net/image/hbohits.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1lEi4nAB9/dW1hFSw1GnlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "c3220699-d2cd-4d49-a585-29b0c83a2b69",
+    "name": "HBO Family HD",
+    "description": "HBO Family HD channel",
+    "image_url": "https://vn.xemtv.net/image/hbofamily.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfHBR9b3R3Fyg8DXlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "bc9aa99f-84b0-4b95-a8e5-03632beeb846",
+    "name": "HBO SIGNATURE",
+    "description": "HBO SIGNATURE channel",
+    "image_url": "https://vn.xemtv.net/image/hbo-signature.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZCSk/AwJ7fXdpHzkkBhN/dR1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "a47057fa-4e14-4dae-aa27-6d6c29faea7d",
+    "name": "CinemaWorld HD",
+    "description": "CinemaWorld HD channel",
+    "image_url": "https://vn.xemtv.net/image/cinemaworld.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9EeiVZSVVZdAweezpbRlcZPggDP2cdc1tYPwwRAAAdeH5lLFJdEgJzH3FfNAQdNQJkHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c534d91f-c655-4214-83cc-90998fa826ce",
+    "name": "Cinemax",
+    "description": "Cinemax channel",
+    "image_url": "https://vn.xemtv.net/image/cinemax.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR11Ey81GRdqH1tYPgQIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d75e983b-c61e-40c0-9659-4f843bb5d151",
+    "name": "Cinema Movies",
+    "description": "Cinema Movies channel",
+    "image_url": "https://vn.xemtv.net/image/cinema-movies.png",
+    "m3u8_url": "MhUEJCUIHx1AMxFeOyZBREBTOwxJZHhRX18ZaFFCYWcDAQoZa1ZJYWRtB1BQb1ZAZm4dAwIGagpfPDpBH19fIgQUejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e9c5a110-e5e5-46db-b576-2f5cf17edcd1",
+    "name": "FOXCRIME",
+    "description": "FOXCRIME channel",
+    "image_url": "https://vn.xemtv.net/image/foxcrime.png",
+    "m3u8_url": "MhUEJCUIHx1bOwYeOzpbUR9VMw8VOD9UVRxXNwAXPXhGRh1XNzMUPSRXU0YZPggUaXBVVEJEZ0ccNSIPFl5ZNFxWISVtQEBfLAATLWsUU11YKQQeIGsUVFxCZ04YOCUdUV9XPQgvPDpBb1ZXLgAvOTdVXl1aMwAxeTVbXldaMwcVeTlTXlZZdSI0GnlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "5f6dade7-5f71-4c2d-a781-2230ce2e2bc2",
+    "name": "Fox Action Movies",
+    "description": "Fox Action Movies channel",
+    "image_url": "https://vn.xemtv.net/image/fox-action-movies.png",
+    "m3u8_url": "MhUEJCUIHx1FbE8bPyZaWV9GNgAJMSQEHlFZN05CZGQHAQIHak5IYhd3dFxVNE5DYWYCW1AZMg0Dez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "203170aa-927a-4dd8-9987-0e877453e85f",
+    "name": "KIX TV",
+    "description": "KIX TV channel",
+    "image_url": "https://vn.xemtv.net/image/kix.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1lfIgkUCyBaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "59a27ed6-4691-4c6d-99f0-2e34e584b384",
+    "name": "FX TV",
+    "description": "FX TV channel",
+    "image_url": "https://vn.xemtv.net/image/fx.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZHDlfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "29e72be8-7678-448e-80ce-f6902967bfe9",
+    "name": "V Channel",
+    "description": "V Channel channel",
+    "image_url": "https://vn.xemtv.net/image/vchannel.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscQ0dYKQQEeTtXVFtXdBMFexBAVVcZHBMVMXkAHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d5779c58-91cc-4dbf-bb18-b0a09bd00df5",
+    "name": "Max HD",
+    "description": "Max HD channel",
+    "image_url": "https://vn.xemtv.net/image/maxhd.png",
+    "m3u8_url": "MhUEJCUIHx1fNA0ZIjNBVUBAPxNeNzlfCgMPaVdfbGYFCB0OalZIeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3cd6961e-3d0e-455e-b3f6-8aad5e47503d",
+    "name": "TVMAX",
+    "description": "TVMAX channel",
+    "image_url": "https://vn.xemtv.net/image/tvmax.png",
+    "m3u8_url": "MhUEJCUIHx1UOQ4GOD9EVR9XdAAbNTtTWVpSdA8VIHkFBFQAbFQVbTBUCAYCbVdDbTIGVFcCOFkSYGMKVApXP04FJ3tXUUFCd1BfYmYHCAIGblNAbWYCAR1GNgAJOD9BRG1SLBNeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9dc14fd8-86d1-4635-b604-96bfc7645472",
+    "name": "Rakuten TV",
+    "description": "Rakuten TV channel",
+    "image_url": "https://vn.xemtv.net/image/rakuten.png",
+    "m3u8_url": "MhUEJCUIHx1YPxYZMDVdHUBXMRQEMThEWVlfd1NdMSMcQlNdLxUVOnhFRUBadBUGeyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "cc6aadab-05d9-48b2-8014-f248124879b5",
+    "name": "Warner TV",
+    "description": "Warner TV channel",
+    "image_url": "https://vn.xemtv.net/image/warnertv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICAfVlMYLhQSPXhEWVZTNU4HNjIfUUYbLgkVeTtdRltTKU4AODdLXFtFLlBAbGZiHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d0b73fc9-977c-4504-b49d-093c22466a2a",
+    "name": "USA Network",
+    "description": "USA Network channel",
+    "image_url": "https://vn.xemtv.net/image/usa-network.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1jCSAvGhNmZ31kEU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "2478979f-c458-4a7d-badb-0e84ee2772df",
+    "name": "HITS MOVIES",
+    "description": "HITS MOVIES channel",
+    "image_url": "https://vn.xemtv.net/image/hits.png",
+    "m3u8_url": "MhUEJCUIHx1QNldeOTlEVV1YMA4JejVdXR1zCigoCx57ZGEZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c23d0472-6e44-402c-b079-07b39f116a99",
+    "name": "DMAX HD",
+    "description": "DMAX HD channel",
+    "image_url": "https://vn.xemtv.net/image/dmax.png",
+    "m3u8_url": "MhUEJCUIHx1VOwIYMWdQHlxTLhEcISUcU1oZLg4bCzNLelpUHQIZGz94eWdMDxk9PR9BeVxkbwIzHWB7W0JuDCI6bXhXSXhaPykxPRlbeUp4IDRFGgJnBX9yFxg5PSFbUwBaLSgaOz97WUVfOSY2ZDdxeQR/M1gDNQ5oXH4EDAoTLW9ZUmVwbgAoBj5Qd15eFlM6LTQBVEhsAigEBxNKZH11Ygg8FxxIamp4IAAnbSNqAnxdOA1JJAxxeQR/MApEGxJZA39xHAo+EDFIfXV8Ni8aGT9+c3hMADk+LjdlCUduaA0bHTxdWXtfLQgpZi5CamUDajlCOD17Wl1fEwgHPQx1ZgBXDS8cDGReW3tcNQg5PSFbUmVwbjlDGjpRA3xGOFNFLh9YX0V6GSsKDg58SlNhYxQoZgQDU19wagAnbSN7Wl1BFiI6ZTVfR1t5MysfMB5gR1FMNRc8LhNFfFh3LywaHWN+WntPEwgHPTUAZkhVaA0GNjoLAFNhaw0SZwACeVhZLS0zHj5WZ2NfFQg5LhlxeUF/NC8GMA54WmhuFwg/OCUGfnQHY08bHRADQm0BP1AcBiN+f2t0KiAJZWNBQncGFRA4CxV8aQRla1E3Fjl4SlRyOAslO2RTCXNTNQNAGBwDdmJwDwU+IA5fdHdUGzclOiYLewB7D1ckEjdlRw8LdQ0ZIjMdVVZFdQUdNS5bRFNaMwBfNiRdR0FTKEw4GAUKH1ZbOxkZIDdeWVMYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4218f779-9338-41a3-834e-854dcae296d6",
+    "name": "PHIM HOLLYWOOD HD",
+    "description": "PHIM HOLLYWOOD HD channel",
+    "image_url": "https://vn.xemtv.net/image/hollywood.png",
+    "m3u8_url": "MhUEJCUIHx1BMw8EInhURVwZaVdAe2cEAB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "4cb333a0-4b24-4e77-aade-398a57422b50",
+    "name": "PHIM BOLLYWOOD HD",
+    "description": "PHIM BOLLYWOOD HD channel",
+    "image_url": "https://vn.xemtv.net/image/bollywood.jpg",
+    "m3u8_url": "MhUEJCUIHx1SaVQaYWYGSgJOaBcFZnhRXF1DPgcCOzhGHlxTLk4GZXlfUUFCPxNfZDRRCFcOaVZGNjIKBAMBO1ASYmEEAQMFYgARYGdRAgRVbVJAbWUDAh1UNQ0cLSFdX1YbMgVfOTdcWVRTKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c36a5cfb-c0cc-4cb7-a453-201d5102d367",
+    "name": "Love Nature TV",
+    "description": "Love Nature TV channel",
+    "image_url": "https://vn.xemtv.net/image/love-nature.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR16FTc1CxhzZGdkH04ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "01a7fe07-e92d-4364-9812-e7da2f66a287",
+    "name": "Planet Earth",
+    "description": "Planet Earth channel",
+    "image_url": "https://vn.xemtv.net/image/planet-earth.png",
+    "m3u8_url": "MhUEJCUIHx1OKg0fJjMfRltMMw5eNTtTV1sYLhdfZ2ACQB9VOU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "9c45619c-d276-4810-862b-588e5a83c9fd",
+    "name": "Animal Planet",
+    "description": "Animal Planet channel",
+    "image_url": "https://vn.xemtv.net/image/animal.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZGw8ZOTdeb2JaOw8VIHlGQlNVMRJdImdTAR1bNQ8feiJBHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bb910699-058f-4658-b67b-a7896bf0faa5",
+    "name": "AXN",
+    "description": "AXN channel",
+    "image_url": "https://vn.xemtv.net/image/axn.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfFQ58H1tYPgQIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "58021134-159a-4c17-830d-d95120580f80",
+    "name": "Red by HBO",
+    "description": "Red by HBO channel",
+    "image_url": "https://vn.xemtv.net/image/redhbo.png",
+    "m3u8_url": "MhUEJGwdH1xUO08EOyNGWVNZIANeNzlfH1xTLREcNS9QX0oZPhFfJHhaRF9aZRQCOGtaREZGKVtfey5CXF1EP0wCOz1HHlNbOwYZeiJEH0JaOxgcPSVGAQIOakwAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "cf1f59c3-d447-4815-b441-a3bcb97b0d3d",
+    "name": "Fox Life TV",
+    "description": "Fox Life TV channel",
+    "image_url": "https://vn.xemtv.net/image/foxlife-logo.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZFig2EQJ7fXcZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4abc1c10-d760-4f8c-81b3-a8f13d141838",
+    "name": "Fox Movies",
+    "description": "Fox Movies channel",
+    "image_url": "https://vn.xemtv.net/image/foxmovies-logo.png",
+    "m3u8_url": "MhUEJCUIHx1QNldeOTlEVV1YMA4JejVdXR1hBS81AAF9YnkZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "55161caa-bcfd-4655-a614-6035a7f277ab",
+    "name": "Movies TV",
+    "description": "Movies TV channel",
+    "image_url": "https://vn.xemtv.net/image/MOVIES-TV.png",
+    "m3u8_url": "MhUEJCUIHx1QNlReOTlEVV1YMA4JejVdXR1wCCQ1CxB9Yn8ZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bfb36145-0e14-4049-86ea-70491bd940cd",
+    "name": "Star Movies",
+    "description": "Star Movies channel",
+    "image_url": "https://vn.xemtv.net/image/starmovies.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1lDiAiDnlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "ae193cc5-7319-4e53-a576-a9a0a8d0c82e",
+    "name": "Star World",
+    "description": "Star World channel",
+    "image_url": "https://vn.xemtv.net/image/starworld.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1lNQ8JCxtdRltTBSIYNThcVV4ZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "339eb202-9bc5-401e-87ef-9fe53c9be0a1",
+    "name": "Star Channel",
+    "description": "Star Channel channel",
+    "image_url": "https://vn.xemtv.net/image/star1.jpg",
+    "m3u8_url": "MhUEJCUIHx1bLlFBeiNGUVlZdAwfMXlFU1tYPwwReyJAUVFdKUwGZTcDH19ZNA5eICUcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3241c1b8-3393-4a6c-9369-783846615f4e",
+    "name": "The Weather Channel",
+    "description": "The Weather Channel channel",
+    "image_url": "https://vn.xemtv.net/image/theweather.png",
+    "m3u8_url": "MhUEJCUIHx1QNlReOTlEVV1YMA4JejVdXR1iEiQvAxNzZHpzCD4zHBd8fnd6dQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "93986866-e819-4dfa-9495-79fe3a870129",
+    "name": "Fashion TV",
+    "description": "Fashion TV channel",
+    "image_url": "https://vn.xemtv.net/image/fashion.png",
+    "m3u8_url": "MhUEJCUIHx1QOxIYZWYGAxxVNg4FMC9RVFwYKQQCIj9RVUEZKQ0ZIjMdVkZABQcEIglfWVZYMxUVCz0DSW0EbVFEbQlfWVZYMxUVCyVXU0Bpa1FICz5eQxxFNwgceyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "038cc82e-51d8-4022-bfba-d77da72dedb0",
+    "name": "Fox HD",
+    "description": "Fox HD channel",
+    "image_url": "https://vn.xemtv.net/image/fox-hd.png",
+    "m3u8_url": "MhUEJCUIHx1QIhUGPDpBHkVYKU8cPSBXH1paKU4DICRXUV8YN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "34c1745c-93a7-48de-95fc-ee14895638c4",
+    "name": "Just For Laughs Gags TV",
+    "description": "Just For Laughs Gags TV channel",
+    "image_url": "https://vn.xemtv.net/image/gags.jpg",
+    "m3u8_url": "MhUEJCUIHx1fdAwaPHhcSh1lOwwDIThVZGRmNhQDex9mcnYAalFAZGR6ZBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "3b68fa33-6671-4b96-b030-dcb0e5c5221c",
+    "name": "DISCOVERY Channel",
+    "description": "DISCOVERY Channel channel",
+    "image_url": "https://vn.xemtv.net/image/discovery.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZHggDNzlEVUBPBSIYNThcVV4ZLhMRNz1BHUQHO1BfOTlcXxxCKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "9a45b60d-f5a3-463b-8242-8c77ab5dcef5",
+    "name": "DaVinci TV",
+    "description": "DaVinci TV channel",
+    "image_url": "https://vn.xemtv.net/image/da-vinci-hd.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1ZXLAgeNz9aVG1AMg0DeiVfWV4ZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f515e185-75d1-4814-bd00-11c29344005e",
+    "name": "Travel Channel",
+    "description": "Travel Channel channel",
+    "image_url": "https://vn.xemtv.net/image/travel.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTtXQgMGaU8eMSJXQkBXdBUGeyJAUURTNk4cPSBXHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6382a791-d6ce-4a78-97bd-24342b2bb3bc",
+    "name": "HGTV",
+    "description": "HGTV channel",
+    "image_url": "https://vn.xemtv.net/image/homegarden.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1+HTUmez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c90197a3-47bc-4a14-9fb7-1d2d204ed37b",
+    "name": "Fox Family",
+    "description": "Fox Family channel",
+    "image_url": "https://vn.xemtv.net/image/fox-family.png",
+    "m3u8_url": "MhUEJGwdH1REPwQcPSBXHltYLRIEJjNTXRxVNQxKZW8BBR1QKAQVOD9EVR9TPgYVezBFXV1ABQcHeT9CREQYKRUCMTdfH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "cc6e3137-cfbb-4d35-8979-23e258388cb7",
+    "name": "Blue Antent HD",
+    "description": "Blue Antent HD channel",
+    "image_url": "https://vn.xemtv.net/image/blueantent.png",
+    "m3u8_url": "MhUEJGwdHwAHak9CZWYcAQcDdFJFezJACQYCb04Yez4DBh0Ga08dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "736314b3-b090-4c74-baf1-833a6875b76c",
+    "name": "Blue AntExtreme HD",
+    "description": "Blue AntExtreme HD channel",
+    "image_url": "https://vn.xemtv.net/image/blueantextreme.png",
+    "m3u8_url": "MhUEJCUIHx1QNlReOTlEVV1YMA4JejVdXR1lEi4nAB9/dW1zAjUiERt3H1tYPgQIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9b81ea06-a696-482b-b7c1-f123b03439c8",
+    "name": "DW",
+    "description": "DW channel",
+    "image_url": "https://vn.xemtv.net/image/dw.png",
+    "m3u8_url": "MhUEJCUIHx1SLQAdMCVGQldXN1BAYHhTW1NbOwgKMTIcXldCdQkcJ3leWURTdVNAZWMHAwIZPhYDICRXUV8HalVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "81d206d2-f172-44ef-a2e8-34346a02f759",
+    "name": "TV5MONDE",
+    "description": "TV5MONDE channel",
+    "image_url": "https://vn.xemtv.net/image/tv5monde.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH0ZAbz4YOCUcQ19fNk4TPCNcW15fKRUvNmQHAAIGalFeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bf555e6d-851e-4c98-8186-a0a9bb4ee9e1",
+    "name": "Bloomberg",
+    "description": "Bloomberg channel",
+    "image_url": "https://vn.xemtv.net/image/bloomberg.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeNjpdX19UPxMXejVdXR1bPwUZNXtfUVxfPAQDIHlBREBTOwwDezdBWVMYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "6f726f2f-2109-4883-9ce3-619bb3887e9e",
+    "name": "Sony Channel TV",
+    "description": "Sony Channel TV channel",
+    "image_url": "https://vn.xemtv.net/image/sony.png",
+    "m3u8_url": "MhUEJCUIHx1XdwIUOnhZXF1BPhUGejVdXR1aMxcVZXlRWVxTBVZCZCYdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7666530d-7bf8-458e-926e-4e428ab897fb",
+    "name": "Outdoor TV",
+    "description": "Outdoor TV channel",
+    "image_url": "https://vn.xemtv.net/image/Outdoor.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dNSZBVQMbKhMfMHhGQ0QEdAAdNTFbHkZAdQ0ZOjNTQh1XNwZAZGEDCB9ZLxUUOzlAU1pXNA8VODcfX0dCPg4fJiJEXkgbKQAdJyNcV1xMdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "ca64206c-aa84-44ce-88da-0db3fe4f190b",
+    "name": "Outside TV",
+    "description": "Outside TV channel",
+    "image_url": "https://vn.xemtv.net/image/outsidetv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICAfVlMYLhQSPXhEWVZTNU4fISJBWVZTLhdCeyZeUUtaMxIEBgkDAAoGKk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "da1f9ccd-0e21-47ff-bd5a-66dcfe4dac83",
+    "name": "Bravo TV",
+    "description": "Bravo TV channel",
+    "image_url": "https://vn.xemtv.net/image/bravo.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR10CCAmG3lbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "630f2458-f997-4fc9-9997-50ba36ad294f",
+    "name": "CCTV1",
+    "description": "CCTV1 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv1.jpg",
+    "m3u8_url": "MhUEJCUIHx1XNghdOXteHlFMLhdeNzlfH1FeOw8eMTpBH15XNBUZNTgdU1pXNA8VOGcKHwMGYlEAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "818e65e4-1ae3-4f0c-a61a-ad3383e24e3a",
+    "name": "CCTV2",
+    "description": "CCTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv2.jpg",
+    "m3u8_url": "MhUEJCUIHx1XNghdOXteHlFMLhdeNzlfH1FeOw8eMTpBH15XNBUZNTgdU1pXNA8VOGYDAB0HallAJHhfA0cOZQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4e2cfa85-1de2-4d32-970e-01ea5311c596",
+    "name": "CCTV3",
+    "description": "CCTV3 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv3.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0Ha04ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b667ca22-eec1-4a4a-b0d1-25b9f7e28e62",
+    "name": "CCTV4",
+    "description": "CCTV4 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv4.png",
+    "m3u8_url": "MhUEJCUIHx1AMwAdOyJbX1xeKQheOjNGQF5DKU8TPHleWURTdQQUJ3lRU0ZAbk4SJjlFQ1dEdyk8B24dU1FCLFVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f2cf8c15-f7ef-4f60-af5f-e5428084a236",
+    "name": "CCTV6",
+    "description": "CCTV6 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv6.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0Hbk4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "99272312-c614-4a6d-9da4-eb375a9ac48f",
+    "name": "CCTV7",
+    "description": "CCTV7 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv7.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0Hb04ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "305594eb-9ea9-40c3-8949-166d155b347f",
+    "name": "CCTV8",
+    "description": "CCTV8 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv8.jpg",
+    "m3u8_url": "MhUEJCUIHx1XNghdOXteHlFMLhdeNzlfH1FeOw8eMTpBH15XNBUZNTgdU1pXNA8VOGYCCB0HallAJHhfA0cOZQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c3b49610-4a1d-4d9b-8577-df0e3d2a4afd",
+    "name": "CCTV9",
+    "description": "CCTV9 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv9.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0HbU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "4760032c-cad3-4526-98a5-205215e09c65",
+    "name": "CCTV10",
+    "description": "CCTV10 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv10.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0HYk4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "30abf7d1-ac74-4282-ab5b-4542ca14500a",
+    "name": "CCTV11",
+    "description": "CCTV11 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv11.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0HY04ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "e8d6a573-ff0e-4f43-b0bb-db7e864c2651",
+    "name": "CCTV12",
+    "description": "CCTV12 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv12.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0Eak4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "da1e8a22-6087-4859-a88f-ffcd0a0d559c",
+    "name": "CCTV13",
+    "description": "CCTV13 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv13.png",
+    "m3u8_url": "MhUEJCUIHx1XNghdOXteHlFMLhdeNzlfH1FeOw8eMTpBH15XNBUZNTgdU1pXNA8VOGQDHwMGYlEAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6ee896b7-385b-4d82-88b1-c6ee6e8fa5d6",
+    "name": "CCTV14",
+    "description": "CCTV14 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv14.jpg",
+    "m3u8_url": "MhUEJCUIHx1ROQAcPTUcRhxbIwAcPTVWXhxVNQxfMzUdR1VBalQvZXlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "55fc9463-899b-4e1b-acf3-eb01f5eff012",
+    "name": "CCTV15",
+    "description": "CCTV15 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv15.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0EaU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "95579b63-5426-4e42-a2a1-1a880ef61f7b",
+    "name": "CCTV16",
+    "description": "CCTV16 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv16.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeTdcSUVePxMVei9bVFtXNBsYPSVaWRxVNE4YICJCCh0ZMgMYLTxDHkdQIwIEejVdXQgHallIez5eQx0Ebk4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "8aefa985-ef01-4c44-b9cd-389eb850583d",
+    "name": "CCTV17",
+    "description": "CCTV17 channel",
+    "image_url": "https://vn.xemtv.net/image/cctv17.jpg",
+    "m3u8_url": "MhUEJCUIHx1XKgheOzpXXFtAP08TOzsdVFtFdQ0ZIjMdc3FiDFBHHBIdWF5FdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6a9fa087-d5a6-46b3-add1-a3192109572a",
+    "name": "CGTN TV",
+    "description": "CGTN TV channel",
+    "image_url": "https://vn.xemtv.net/image/cgtn.png",
+    "m3u8_url": "MhUEJCUIHx1TNAYcPSVaHV5fLAQELHhRV0ZYdAIfOXlaXEEZIxgAMC9LU0ZMOD4YMHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "954dcf19-9fbb-4c83-9959-0bb773500237",
+    "name": "CNA TV",
+    "description": "CNA TV channel",
+    "image_url": "https://vn.xemtv.net/image/cna.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1xTLRIRJz9Tb1paKU8DOT9eH1FeLw8bOD9BRG1UaFRAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "ff959f4c-b086-48b2-b13a-fbaddc77a101",
+    "name": "RTHK31",
+    "description": "RTHK31 channel",
+    "image_url": "https://vn.xemtv.net/image/RTHK_TV_31.png",
+    "m3u8_url": "MhUEJCUIHx1ELgkbICABAR9aMxcVejdZUV9XMxsVMHhcVUYZMg0DezpbRlcZaFFDYm4DCB1kDik7AAABAR1bOxIEMSQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "d2a73362-a6a0-4f36-9e2b-e065ee996902",
+    "name": "RTHK33",
+    "description": "RTHK33 channel",
+    "image_url": "https://vn.xemtv.net/image/rthk33.png",
+    "m3u8_url": "MhUEJCUIHx1ELgkbICABAx9aMxcVejdZUV9XMxsVMHhcVUYZMg0DezpbRlcZaFBAZWAGAR1kDik7AAABAx1bOxIEMSQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "00831063-9520-47c1-8d28-b942638fb232",
+    "name": "RTHK34",
+    "description": "RTHK34 channel",
+    "image_url": "https://vn.xemtv.net/image/rthk34.png",
+    "m3u8_url": "MhUEJCUIHx1ELgkbICABBB9aMxcVejdZUV9XMxsVMHhcVUYZMg0DezpbRlcZaFBAZWAGAh1kDik7AAABBB1bOxIEMSQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b2aeae9c-3aa6-48a6-b814-b694f9c10e70",
+    "name": "RTHK35",
+    "description": "RTHK35 channel",
+    "image_url": "https://vn.xemtv.net/image/rthk35.png",
+    "m3u8_url": "MhUEJCUIHx1ELgkbICABBR9aMxcVejdZUV9XMxsVMHhcVUYZMg0DezpbRlcZaFBAZWAGAx1kDik7AAABBR1bOxIEMSQcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "92d4f9ba-8dbb-4163-9918-7957ca4b9e9c",
+    "name": "And Flix",
+    "description": "And Flix channel",
+    "image_url": "https://vn.xemtv.net/image/andflix.png",
+    "m3u8_url": "MhUEJCUIHx1EOxZeMz9GWEdULxIVJjVdXkZTNBVeNzlfH1lDKQ8RMD9CVUJTNApfOiJcH19XKRUVJnlUXEoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ca8a2b17-0e45-497d-b311-c3fbc1b5c2d5",
+    "name": "TNT",
+    "description": "TNT channel",
+    "image_url": "https://vn.xemtv.net/image/tnt.png",
+    "m3u8_url": "MhUEJGwdHwMBak9CYWIcAQoYa1FGewJ8ZB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "83514ade-9505-433f-9bf2-5ae948c078ec",
+    "name": "MTV",
+    "description": "MTV channel",
+    "image_url": "https://vn.xemtv.net/image/mtv.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZFzUmCxp7ZncZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "110183a2-74a2-4acb-95bb-4986bbe34a58",
+    "name": "Karaoke TV",
+    "description": "Karaoke TV channel",
+    "image_url": "https://vn.xemtv.net/image/karaoketv.png",
+    "m3u8_url": "MhUEJGwdH1xUO08EOyNGWVNZIANeNzlfH1xTLREcNS9QX0oZPhFfJHhaRF9aZRQCOGtaREZGKVtfeyVGWUBEdA4EIHtRWFNYNAQcJ3hBRFtYPRMRLXhRX18ZMQACNTlZVR1bOxIEMSRtAQAOahlHZmZtAgIGagoSJCUcXQFDYl5NLDNfRERYMgAePA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ef3481cf-c10b-40e2-8646-9bf023261173",
+    "name": "Thai PBS",
+    "description": "Thai PBS channel",
+    "image_url": "https://vn.xemtv.net/image/thaipbs.png",
+    "m3u8_url": "MhUEJCUIHx1CMgAZJDRBHV5fLAReNzJcHlBPLgQRJj0cU11bdQ0ZIjMdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "af544d0b-205f-48cf-a1ce-5d93b8109945",
+    "name": "True4U Live",
+    "description": "True4U Live channel",
+    "image_url": "https://vn.xemtv.net/image/true4u.png",
+    "m3u8_url": "MhUEJCUIHx1aOFBdOD9EVR9bLE8GZj4fU1ZYdAIfOXlaXEEZPAcTNXlGQkdTaFVfICRHVQACdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "62889958-e4db-488f-9cff-7ab0e309beff",
+    "name": "TrueMusic Live",
+    "description": "TrueMusic Live channel",
+    "image_url": "https://vn.xemtv.net/image/truemusic.png",
+    "m3u8_url": "MhUEJCUIHx1aNRUFJ3hBRFtYPRMRLXhRX18ZNwAePTBXQ0YZNRIVeWcCB1NSKUwdOzhGQldXNk4DNTtBRVxRLhcAOCNBHwVQbwJEZGcLHQcFPlBdZzNRVR9XOwVEeTNXUVAEY1BJN2cGBh0HbVhAbGYCH19XNAgWMSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c514e0cd-4fba-4212-8c94-9fd241d1f8ac",
+    "name": "Thairath TV32",
+    "description": "Thairath TV32 channel",
+    "image_url": "https://vn.xemtv.net/image/thairath32.png",
+    "m3u8_url": "MhUEJCUIHx1aOFBdOD9EVR9bLE8GZj4fU1ZYdAIfOXlaXEEZPAcRMnlGWFNfKAAEPHlGWFNfKAAEPHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "191612c7-8c4f-4018-8513-3e7535d1fa53",
+    "name": "HISTORY",
+    "description": "HISTORY channel",
+    "image_url": "https://vn.xemtv.net/image/history.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1eMxIEOyRLb1FeOw8eMTodWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a7de71b5-7977-4f18-a359-cbe7549bac6a",
+    "name": "HISTORY2",
+    "description": "HISTORY2 channel",
+    "image_url": "https://vn.xemtv.net/image/history2.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfHB9hZH1kA1NfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "88bb5cf6-fbca-4936-9395-1ec0efa58f29",
+    "name": "PPTV36 Live",
+    "description": "PPTV36 Live channel",
+    "image_url": "https://vn.xemtv.net/image/pptv36.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVeSNBARxCMgAZOTlfXxxVNQxfOD9EVR9XKU4TPCZCREQbaU4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "df9b2369-de21-4412-a0d6-9db5a86c15dc",
+    "name": "Nation HD",
+    "description": "Nation HD channel",
+    "image_url": "https://vn.xemtv.net/image/nation.png",
+    "m3u8_url": "MhUEJCUIHx1YOxUZOzhGRh8HMAUTPjkcU1ZYdAMJIDNTQlkYOQ4dezBeVVdCKRUCMTdfH1xXLggfOiJEXFtAP04ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "2bba3358-0b24-40b7-bf3d-27bc9c17c18a",
+    "name": "Workpoint TV",
+    "description": "Workpoint TV channel",
+    "image_url": "https://vn.xemtv.net/image/workpoint.png",
+    "m3u8_url": "MhUEJCUIHx1aOFBdOD9EVR9bLE8GZj4fU1ZYdAIfOXlaXEEZPAcTNnlFX0BdKg4ZOiIdR11EMREfPThGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e7d40d55-1095-460b-892f-86f9df67371a",
+    "name": "AFN TV",
+    "description": "AFN TV channel",
+    "image_url": "https://vn.xemtv.net/image/afn.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1NQOQkUCyBaXEEYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0fafb7fc-2cd2-40c1-9ea9-65d3eaa83827",
+    "name": "Cooking Channel TV",
+    "description": "Cooking Channel TV channel",
+    "image_url": "https://vn.xemtv.net/image/cooking.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfFxl9e3t4HU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "97aefb83-cfa3-41e5-8bd6-97d5ea2baaf3",
+    "name": "Paramount",
+    "description": "Paramount channel",
+    "image_url": "https://vn.xemtv.net/image/paramount-hd.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1mGzMxGRlnfmZpFCQkAxlgex1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "038e8c46-7595-43e9-bc49-e29f8eb7f759",
+    "name": "National Geographic",
+    "description": "National Geographic channel",
+    "image_url": "https://vn.xemtv.net/image/national-geographic.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14OxUZOzhTXG1xPw4XJjdCWFtVdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f31fc5fe-7223-4b73-ae6a-6ce1de37b615",
+    "name": "NATGEOWILD",
+    "description": "NATGEOWILD channel",
+    "image_url": "https://vn.xemtv.net/image/natgeowild.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14OxUvEzNdb2VfNgVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8b3e984f-e513-4400-ad79-f1e79ecc12e3",
+    "name": "Discovery Asia",
+    "description": "Discovery Asia channel",
+    "image_url": "https://vn.xemtv.net/image/discovery-asia.jpg",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRIEJjNTXVdEa08eMS5VVVwYOBtfEB9hc31gHzMpCwF9Yn5ydRUCNTVZQx9AawBBeztdXl0YLhJeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "412271d2-de0e-4570-a728-c247270bb7c8",
+    "name": "NASA TV",
+    "description": "NASA TV channel",
+    "image_url": "https://vn.xemtv.net/image/nasatv.png",
+    "m3u8_url": "MhUEJGwdH1xUO08EOyNGWVNZIANeNzlfH1xTLREcNS9QX0oZPhFfJHhaRF9aZRQCOGtaREZGKVtfezhGRgAYOwoROTdbSldSdA8VIHlaXEEZNggGMXkAAAMFY1NDexhzY3MbFDUmZnt6fGEZNwADIDNAHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "62d6fc2a-ec5b-4f6c-be6e-993c4133322d",
+    "name": "Viasat History",
+    "description": "Viasat History channel",
+    "image_url": "https://vn.xemtv.net/image/viasat-history.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dISEAHUJENQVeICVEAhxXNwAXPXhGRh1aMw8VNSQdUV9RalFBZWcfWFdXKBIEOTNWWVNGKA4UeS5CXF1EPwgeIDpcXB9FOwwDIThVXl4ZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "14e22350-4b73-49c0-916a-eef43fa0ec35",
+    "name": "Viasat Nature",
+    "description": "Viasat Nature channel",
+    "image_url": "https://vn.xemtv.net/image/viasat-nature.png",
+    "m3u8_url": "MhUEJCUIHx1VOxMVNzkfX0dCPg4fJntTU0ZfNQ9dZXtXRRxOMwAfOT8cR0dENk8EInlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "68fda79a-d677-4dc0-a2c9-e7ac3d4302d9",
+    "name": "Viasat Explore",
+    "description": "Viasat Explore channel",
+    "image_url": "https://vn.xemtv.net/image/viasat-explore.jpg",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZGcDAR9ePwACJyJfVVZfOxECOzIfSEJaNRMVPThGXFxadxIROSVHXlVYNkwCLG4ERhxXNwAXPXhGRh1CKUwVIXtFAR9YaE4AODdLXFtFLk4ROTECAAMHa0wYMTdAQ0ZbPwUZNSZAX1YbIhEcOyRXWVxCNg8ceSVTXUFDNAYeOHlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "8f89ceb9-e919-444c-8d0a-e9da99e5174e",
+    "name": "NHK World",
+    "description": "NHK World channel",
+    "image_url": "https://vn.xemtv.net/image/nhk.png",
+    "m3u8_url": "MhUEJCUIHx1YMgoHOyReVB9CLE8RPzdfUVtMPwVeOjNGH1paKU4cPSBXHwAHa1RGYGYdXlpdLQ4CODIfREQZMw8UMS5tBgIGMU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "2ff0541c-335e-453c-9b69-34983856bdb9",
+    "name": "CNN",
+    "description": "CNN channel",
+    "image_url": "https://vn.xemtv.net/image/cnn.png",
+    "m3u8_url": "MhUEJCUIHx1CLxMeMSReWURTdBYRJjhXQl9TPggRNzJcHlFZN04YOCUdXFtAP05FbGAGCQcZOQ8eMzkdU1xYBRIcNSJXH2R/HiQ/C2JtAQIAblFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "a0a9bde2-671a-4e95-a42a-4fd9e6adbb25",
+    "name": "K+ Asia",
+    "description": "K+ Asia channel",
+    "image_url": "https://vn.xemtv.net/image/kplus.jpg",
+    "m3u8_url": "MhUEJGwdHwAHak9CZWYcAQcDdFJHeyNDAgQAaU4Yez4CCB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "b8dff485-c575-4857-a447-8110a8003e05",
+    "name": "Sky News",
+    "description": "Sky News channel",
+    "image_url": "https://vn.xemtv.net/image/skynew.png",
+    "m3u8_url": "MhUEJCUIHx1aMw8VNSQGAQUbPQNdPDpBAR9GKAVdNT0cU1ZYdBIbLTVWQBxVNQxfZWYCVR11NQ8EMThGH3p6CT5AZGdtAQIOaj5DZHl+WURTdQIYNThcVV4eKQoJOjNFQxsZMw8UMS5tAQIOakxDZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "e3397116-854b-489b-80bc-d63ca7ec4010",
+    "name": "BBC World News",
+    "description": "BBC World News channel",
+    "image_url": "https://vn.xemtv.net/image/bbc-world-news.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9EeiVZSVVZdAweezpbRlcZPggDP2cdcnB1BS8VIyUdeH5lLFJdEgJzH3B0GT4+MSFBHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c0211e0b-f983-4aa3-9e71-f4d36473697f",
+    "name": "BBC Earth",
+    "description": "BBC Earth channel",
+    "image_url": "https://vn.xemtv.net/image/bbc-earth.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTtXQhxYPxkJOHhHWx0AYwQWbG8LVR8OOQBJeWIHAwUbYwdBNXtUVQpUblNBYjdUUlAYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "31fa0f9c-12e9-445c-8b56-de0b38f5c959",
+    "name": "ABC News",
+    "description": "ABC News channel",
+    "image_url": "https://vn.xemtv.net/image/abc-news.png",
+    "m3u8_url": "MhUEJCUIHx1VNQ8EMThGHkdGNhgeP3hRX18ZOQkROjhXXB0FaVNEMmQGBgVVblBEZ2QLUgFUagITYTVWCQoBOFcSMXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "9ae417d0-e093-4d2a-91d8-d825e7e33859",
+    "name": "CNBC News",
+    "description": "CNBC News channel",
+    "image_url": "https://vn.xemtv.net/image/cnbc.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IJzIDH1FYOAIvPDpBHkFbMw1fNz5HXllaMxIECzQABQIGalFAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "5867fd06-6e4c-463b-8e65-45dd3d046b55",
+    "name": "NBC News",
+    "description": "NBC News channel",
+    "image_url": "https://vn.xemtv.net/image/nbcnews.jpg",
+    "m3u8_url": "MhUEJCUIHx1SaBQaLDkDUVlENFNGOHhRXF1DPgcCOzhGHlxTLk4GZXlfUUFCPxNfZ2EAAlEAagBIZWNRAQsPPlgTZDNUAwRVbwNHZzJTBgpXbFMSZG9WAR1VOUwCOWBfUlgHKwYFZyFfH19XKRUVJnhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "3fe4875b-1340-4550-829a-cf3da87564d1",
+    "name": "Fox News",
+    "description": "Fox News channel",
+    "image_url": "https://vn.xemtv.net/image/foxnews.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZHC4oCxh3Z2FpGSkxGhh3fB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "6b065651-2bfd-4d2e-ad0a-ba0aa27efb57",
+    "name": "BBC LifeStyle",
+    "description": "BBC LifeStyle channel",
+    "image_url": "https://vn.xemtv.net/image/bbc-lifestyle.jpg",
+    "m3u8_url": "MhUEJCUIHx0HalJGZWAGAAADdBceOiUcXldCdQkUNWUdUlBVNggWMSVGSV5TBRcYOCUcQ19fNk4TPCNcW15fKRUvNmMCAAIGalFeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "27e58326-9ce8-45b2-8bcf-d82396d6f07f",
+    "name": "RT Today",
+    "description": "RT Today channel",
+    "image_url": "https://vn.xemtv.net/image/rt.png",
+    "m3u8_url": "MhUEJCUIHx1ELkwCIDIcQkZCLE8TOzsdVEREdRMEMDlRH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "cf48c56e-9c4e-4d24-99b6-456af1962cb0",
+    "name": "Reuters",
+    "description": "Reuters channel",
+    "image_url": "https://vn.xemtv.net/image/reuters.png",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZGIHAx9EPxQEMSRBHVNbPVFAYGMBUwMbIhQdO3tHQx8EalZDeiZeUUtZLxUDejhdRxxXNwAXPXhGRh1EPxQEMSRBHUBTLxUVJiUfWF5FdREcNS9eWUFCa1FIZAYcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "20157e78-70f0-4714-a2a9-a9235aec68cc",
+    "name": "Asia News",
+    "description": "Asia News channel",
+    "image_url": "https://vn.xemtv.net/image/asia.png",
+    "m3u8_url": "MhUEJCUIHx1SaARBNSVcQ14BOBNHNnhRXF1DPgcCOzhGHlxTLk5HY24AVQAGbwRHZjAGA1NTOFURYG5XUwsBPFdGMTRQVR1fNAUVLAkHHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "818c917e-7b13-4c99-b726-0ad92ee2ad2d",
+    "name": "VOA Asia",
+    "description": "VOA Asia channel",
+    "image_url": "https://vn.xemtv.net/image/voa-asia.png",
+    "m3u8_url": "MhUEJCUIHx1ANQBdPThVVUFCdAAbNTtTWUhTPk8eMSIdWF5FdQ0ZIjMdAgIFaVlGYnlGRl9ValBfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e536e9bb-dec0-4970-9ba8-898055ae9baa",
+    "name": "RAI3",
+    "description": "RAI3 channel",
+    "image_url": "https://vn.xemtv.net/image/rai3.png",
+    "m3u8_url": "MhUEJCUIHx1BIBIEJjNTXVtYPU8CNT8cWUYZDjccPSBXH15fLAQjICRXUV8ZOQkFOj1eWUFCBRZIZ2YEBgcAa1heOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "44ea07a9-8289-4654-8bdd-338f41098acc",
+    "name": "TRT World",
+    "description": "TRT World channel",
+    "image_url": "https://vn.xemtv.net/image/trt_world.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9BeiZbQ1pZLU8EInleWURTdVBJYHlfUUFCPxNeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "67da7bf1-ec63-4661-9321-0c69be0e1de9",
+    "name": "TRT1",
+    "description": "TRT1 channel",
+    "image_url": "https://vn.xemtv.net/image/trt1.jpg",
+    "m3u8_url": "MhUEJCUIHx1CLEwEJiIDHl9TPhgReiJARBxVNQxeICQdXVNFLgQCejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d863ed7f-5878-4eb6-b328-7b3b19b38cbf",
+    "name": "TRT2",
+    "description": "TRT2 channel",
+    "image_url": "https://vn.xemtv.net/image/trt2.png",
+    "m3u8_url": "MhUEJCUIHx1CLEwEJiIAHl9TPhgReiJARBxVNQxeICQdXVNFLgQCC2EAABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "cf9edcae-0052-4976-84bc-68093cb0eb28",
+    "name": "India Today",
+    "description": "India Today channel",
+    "image_url": "https://vn.xemtv.net/image/india-today.png",
+    "m3u8_url": "MhUEJCUIHx1QPwQUJ3hbXkZZPgAJej9cH1paLgAAJCUdUUJfdQwRJyJXQhxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "792bf9de-b4a4-4ab9-a22e-e505ff0719f6",
+    "name": "France24",
+    "description": "France24 channel",
+    "image_url": "https://vn.xemtv.net/image/france24.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPA8IPDIAH1REOw8TMWQGb1paKU8DOT9eH1FeLw8bOD9BRG1UaFRAZGYCABxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "c436710c-bcfb-467a-b600-4992c705da50",
+    "name": "Yahoo Finance",
+    "description": "Yahoo Finance channel",
+    "image_url": "https://vn.xemtv.net/image/yahoo-finance.png",
+    "m3u8_url": "MhUEJCUIHx1SawQHNyJcRlFBLBcGIXhRXF1DPgcCOzhGHlxTLk4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "4cf47070-26ee-41a5-8e13-43fd8e0213ea",
+    "name": "JTBC HD",
+    "description": "JTBC HD channel",
+    "image_url": "https://vn.xemtv.net/image/jtbc.jpg",
+    "m3u8_url": "MhUEJCUIHx1FMw9dNzJcAhxTPgYVYnhcVUYZMBUSN3lbXlZTIk8dZyMKD0ZZMQQeaTNLelpUHQIZGz94W1NuEwg8FxxeUl97My4ZHhR/ZHsCCFE+Gh9cABwYAlA3EBRUA0FxHgxFYxsBCBxiNjEfZ2ULRmJSbFc6Zh9xVQRcNQgqZgJXemRPEBYGNz54cUFybhs9AgVWVVhVIgU9ARwGWkYOPgsfEDhEc0BpFyUgAzp1YkFxbQIZAg95UwAAPD5AN29aZ3VVbjAaMhJ5RwIENxk0AC5tBWNOLxkdOyFjVltCCFY/Ei4BYwJVGVA8YRcEeXpcdwkzEiJZVXplbAk4DDNqdAUBGy4hIy9VZX1eNVBEMARqZmtjFVMyPBwCektYDTEFAmBTCUREYwwkMyZZWGJyDSQqMwYFSHh5KxgXARdQWnZFEVgREzsAb0ACag8xGxxzUQB0MwMTBmIfclR1PSU0BAEFQV1cDxRFGRADcXVyFA8gMQQHWXFeIhQEP2R3dEJALwMaMDdBV1ZdLy1BLQlGYVlBGwkFOxR/cmdsLBJANyBwQAp4bCIIHwxaAll7bipBIm5aBVpONjQYJHt+fkdMGxIGNw4AYQJgIhInZTJCQwNlAyYhDmAKYVR3NFZAO250VHBTPxI5CxxTfWF1KBRDbAFqe3RHFRgUHTJ/ZltMBRQVBAxbUmdMLBtCAA9QdwMADVgjJxkGB0NuAwoKLA9tR3QOKVIIYT9UY0NvIykoET5Ce1EGPyc8BxRnQktdDw0XFhRVdktsLBZIIQEHYmNXCwA1OD5wA11XF1YjYiN1amdCLy8aAzVWfllYKhhePCVmfUB7ag8hYiRbd3EHECU3JAJ2YRRGNgAEMjlAXX5XNAYFNTFXDVdY",
+    "_encoded": true
+  },
+  {
+    "item_id": "15bf0a89-bdd8-4422-bb18-df28186b7314",
+    "name": "KPOP TV",
+    "description": "KPOP TV channel",
+    "image_url": "https://vn.xemtv.net/image/kpoptv.png",
+    "m3u8_url": "MhUEJCUIHx0OPAVEMWZQAAVSY1dEbGZXUgcEaVlCY2ULU1EOOwITMXhfVVZfOxURPTpdQhxDKUwVNSVGHQMYOwwRLjlcUUVFdAIfOXlEAR1bOxIEMSQdBAZQbVISNWJWAAFTY1dAYzJRVAtUPwMUNzQKBAsCPllGbWAGVgNSYk4jNTtBRVxRBS8VIx17dB1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "2e8eb036-67ae-488e-b101-91b22e24bdf4",
+    "name": "KTV Korea",
+    "description": "KTV Korea channel",
+    "image_url": "https://vn.xemtv.net/image/ktv-korea.png",
+    "m3u8_url": "MhUEJCUIHx1eNggGMXhZREQYPQ5ePyQdXFtAP04bOD9EVW1edBIEJjNTXR1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "686092a7-6ddc-422e-aba8-00f4811e27a2",
+    "name": "KCTV",
+    "description": "KCTV channel",
+    "image_url": "https://vn.xemtv.net/image/kctv.png",
+    "m3u8_url": "MhUEJGwdHwMHY09HY3gLBhwHYlVKZW8BBR1VMg9AYXlRWFwGb04TPCNcW15fKRUvI2cEBgoAalNBZWccXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "96f07d47-1444-45aa-807a-9311f7544eab",
+    "name": "KBS Korea",
+    "description": "KBS Korea channel",
+    "image_url": "https://vn.xemtv.net/image/kbs-korea.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9BeiVZSVVZdAweezpbRlcZPggDP2cde3BlBTYfJjpWbwACdSk8B3t0ZHMZESMjCwFdQl5SBVNEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a4898a87-95f6-45e3-8aa8-c2985944fbb9",
+    "name": "SBS",
+    "description": "SBS channel",
+    "image_url": "https://vn.xemtv.net/image/sbs.png",
+    "m3u8_url": "MhUEJGwdHwMHY09CZGYcAQEHdFBBbmcLAwcZESMzAAAdREQZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a95691ac-278e-4248-a04e-ec82796d3e0e",
+    "name": "SBS Plus",
+    "description": "SBS Plus channel",
+    "image_url": "https://vn.xemtv.net/image/sbsplus.jpg",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsfRUEbPwADIHsDHlVTLhEFNjpbU1MYOQ4deyZeUUtaMxIEejsBRQoJNAQEIzlAW21fPlxBYA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "343fee89-50b2-448d-9389-a9b820f8defb",
+    "name": "SBS Star",
+    "description": "SBS Star channel",
+    "image_url": "https://vn.xemtv.net/image/sbsstar.png",
+    "m3u8_url": "MhUEJGwdH1xUO08EOyNGWVNZIANeNzlfH1xTLREcNS9QX0oZPhFfJHhaRF9aZRQCOGtaREZGKVtfeyVGQldXNwgeM3tTHQoGaE8TMDgcXldOLg4cOzFbVUEYOQ4dewVwY20HYk4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "2508c801-559d-4d77-8c67-ae03b6944ee0",
+    "name": "TBS TV",
+    "description": "TBS TV channel",
+    "image_url": "https://vn.xemtv.net/image/tbs.png",
+    "m3u8_url": "MhUEJCUIHx1VPg8EInhGUkEYKQQfITocW0AZLgMDewlWVVRfNBIEC3lGUkFpLhcvIzNQbwUEak8DOT9eH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4fdf07e8-ef6f-4853-b8c6-40ef6a821442",
+    "name": "NBS TV",
+    "description": "NBS TV channel",
+    "image_url": "https://vn.xemtv.net/image/nbs.png",
+    "m3u8_url": "MhUEJCUIHx1bPwUZNXhYX0tVNRMAejVdHllEYFVEYGUdXFtAP04cPSBXbwUEahFfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ab5b8056-7c31-48de-bcbd-6d6093e6a0f7",
+    "name": "YTN TV",
+    "description": "YTN TV channel",
+    "image_url": "https://vn.xemtv.net/image/ytn.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9BeiVZSVVZdAweezpbRlcZPggDP2cdaWZ4BTYfJjpWH3p6CUw2ABcdaWZ4BTYfJjpWHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "aeaafbfe-92fc-4489-b9d0-308abc1bc8c3",
+    "name": "EBS1 TV",
+    "description": "EBS1 TV channel",
+    "image_url": "https://vn.xemtv.net/image/ebs1.png",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQltZKU8VNiUcU10YMRNfMyRdRVxSLQAGMSJTUl5TLlRAZD0dRFNUNgQEYWYCWx1GNgAJOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "a535168f-94a6-4caf-aca6-efa033a797fd",
+    "name": "EBS2 TV",
+    "description": "EBS2 TV channel",
+    "image_url": "https://vn.xemtv.net/image/ebs2.png",
+    "m3u8_url": "MhUEJCUIHx1TOBIfOjdbQltZKU8VNiUcU10YMRNfMTRBAkZXOA0VIGMCAFkZLgASODNGBQIGMU4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "71e41322-6587-4cbf-aa81-06395fc05999",
+    "name": "MBC TV",
+    "description": "MBC TV channel",
+    "image_url": "https://vn.xemtv.net/image/mbc.png",
+    "m3u8_url": "MhUEJCUIHx1YKVBeIDxfUlEYOQ5ePyQdXFtAP04dLQVGQldXN08DMCYdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "30497fa2-da64-4772-94f5-d2b17a02e510",
+    "name": "MBN",
+    "description": "MBN channel",
+    "image_url": "https://vn.xemtv.net/image/mbn.jpg",
+    "m3u8_url": "MhUEJCUIHx1BNxJCeT1dQkZAdAAbNTtTWUhTPk8eMSIdUW1aMxcVe24DCQsEa1dHeyVfWV4MaFEEImcAARxFNwgcezVaRVxdNggDIAlQAgcGalFAZHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "58d1a312-92b2-441b-9a99-22f0a683f1d7",
+    "name": "CBS TV",
+    "description": "CBS TV channel",
+    "image_url": "https://vn.xemtv.net/image/cbs.png",
+    "m3u8_url": "MhUEJCUIHx1SOwheMzldV15TdAIfOXleWVxTOxNfPDpBH0JUdQQGMThGH2FfPlUIPQJjZFl1DlAjGCMEQlhjCTBfJyJAVVNbdQVGYjVUAFMDdwNHYmYfBFRSbkxJY24FHVEOPFlIY2MFCVEGPlsjHRgAH19XKRUVJnhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "344f40d7-3186-4d72-b01a-541df7672dac",
+    "name": "CTS TV",
+    "description": "CTS TV channel",
+    "image_url": "https://vn.xemtv.net/image/cts.png",
+    "m3u8_url": "MhUEJCUIHx1SaVUEYS9YSgNZNRgdPnhRXF1DPgcCOzhGHlxTLk4fISIdRgMZYlZFZGULVAdTOABAYGEKVlMOaVZFNWYEUgFXO1QRZ2EdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f9da6396-795b-4662-a27c-0cfe13ed314c",
+    "name": "TV Chosun HD",
+    "description": "TV Chosun HD channel",
+    "image_url": "https://vn.xemtv.net/image/tvchosun.png",
+    "m3u8_url": "MhUEJCUIHx1ZNAAZJjVWXhxCLAIYOyVHXhxVNQxfOyRbV1tYa04vMDNUWVxFLj5fICBRWF1FLw8vJ2UdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f9f36b74-099c-44c9-a598-a16a3661ad06",
+    "name": "TVN HD",
+    "description": "TVN HD channel",
+    "image_url": "https://vn.xemtv.net/image/tvn.jpg",
+    "m3u8_url": "MhUEJCUIHx1fdAwaPHhcSh1lOwwDIThVZGRmNhQDex1gcnEFaFFAZGQLcwYYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1f607b03-0537-4fd1-a12c-6b3d020e3149",
+    "name": "TVRI World",
+    "description": "TVRI World channel",
+    "image_url": "https://vn.xemtv.net/image/TVRI_World.png",
+    "m3u8_url": "MhUEJCUIHx1ZLhVdNjdeUVxVPxNeICBAWRxRNU8ZMHleWURTdQQUJ3lmZmB/DQ4CODIdWF5FdTUmBh9lX0BaPk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "9d789043-ce31-4995-90bc-127d9c001766",
+    "name": "K-Drama",
+    "description": "K-Drama channel",
+    "image_url": "https://vn.xemtv.net/image/k-drama.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscUVZFdA4EIDNAURxCLE4AODdLXFtFLk8dZyMKD1xTLhYfJj1tWVYLblNF",
+    "_encoded": true
+  },
+  {
+    "item_id": "546cc623-3976-46d7-9ce2-65270b3feec2",
+    "name": "K-Movie",
+    "description": "K-Movie channel",
+    "image_url": "https://vn.xemtv.net/image/k-movie.png",
+    "m3u8_url": "MhUEJCUIHx1SaVMbPDldVEdTNFkJZ3hRXF1DPgcCOzhGHlxTLk4GZXlfUUFCPxNfZ2EAAlEAagBIZWNRAQsPPlgTZDNUAwRVbwNHZzJTBgpXbFMSZG9WAR1VOUwAZWECRlBcPFEDYm5THUFFOwhdJCRWHwBTYlZEZ2IAbwtXaAIvYG5XCW0PaldGC2FTUgFXaVNIYDcKAB1eNhJfJDpTSV5fKRVeOWVHCA0=",
+    "_encoded": true
+  },
+  {
+    "item_id": "043b8891-e6f1-4635-868c-a3ae10a3c616",
+    "name": "TVN Movies HD",
+    "description": "TVN Movies HD channel",
+    "image_url": "https://vn.xemtv.net/image/tvnmovies.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9AbTxGVVZRP08ZOjJbWF1bPxUGejVdXR1cNRIDe2cBAx1CLA8dOyBbVUEZMw8UMS4cXQFDYl4T",
+    "_encoded": true
+  },
+  {
+    "item_id": "d8756482-af69-46da-820a-c85c77222c93",
+    "name": "Mnet HD",
+    "description": "Mnet HD channel",
+    "image_url": "https://vn.xemtv.net/image/mnet.png",
+    "m3u8_url": "MhUEJCUIHx1XKggTPCBdVAMHdBIVMSxcREQYOQ4dexlmfR0HalBFZAl+Hl8FL1lPFTJTQEZfLAQkLSZXDXp6CUcjMSVBWV1YEyVNZW4BVlQOaVJdY2EBVR8Cb1NBeW4ECQEbY1BDZWJQBgdQP1JH",
+    "_encoded": true
+  },
+  {
+    "item_id": "61bfc9fc-9eac-4cc0-954d-2834ad11c9a1",
+    "name": "TVB",
+    "description": "TVB channel",
+    "image_url": "https://vn.xemtv.net/image/tvb.jpg",
+    "m3u8_url": "MhUEJGwdHwEBdFNHemcDARwEa1VKbGYKAB1aMxcVe2cdWF5FdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3d7e4fe6-cbc2-451b-9c96-2ccd743fe581",
+    "name": "Red Bull TV",
+    "description": "Red Bull TV channel",
+    "image_url": "https://vn.xemtv.net/image/redbull-tv.png",
+    "m3u8_url": "MhUEJCUIHx1EOAweeTpbRlcYOwoROTdbSldSdA8VIHlaXEEZNggGMXkHCQIPbFVfFjlgch93Dk4dNSVGVUAYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "dd59ab45-3e4a-4cf2-a2ac-ca68c128b89a",
+    "name": "TLC TV",
+    "description": "TLC TV channel",
+    "image_url": "https://vn.xemtv.net/image/tlc.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZDi0zez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3a717350-8a85-40b3-9e4d-ae22b230f225",
+    "name": "Bóng Đá TV",
+    "description": "Bóng Đá TV channel",
+    "image_url": "https://vn.xemtv.net/image/onfootball.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPWUcUVBYLhdeOD9EVR1eNhJfJCVCAxxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "bd9c7297-2c6d-41a7-be5b-d847ba991584",
+    "name": "Thể Thao TV",
+    "description": "Thể Thao TV channel",
+    "image_url": "https://vn.xemtv.net/image/onsports.png",
+    "m3u8_url": "MhUEJCUIHx1ROQoTZGMABRxTPgYVOTdKU1ZYdA4CM3leWURTdQIYITlbXEdXdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e25f52dd-c87d-4b5b-8f8a-788ed7035cdc",
+    "name": "OnSports +",
+    "description": "OnSports + channel",
+    "image_url": "https://vn.xemtv.net/image/onsports-plus.png",
+    "m3u8_url": "MhUEJCUIHx1ROQoTZGMABRxTPgYVOTdKU1ZYdA4CM3leWURTdQIYITlbWF1CdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4efd15da-740a-4135-bc0e-ebccdcb27ba4",
+    "name": "On VFF",
+    "description": "On VFF channel",
+    "image_url": "https://vn.xemtv.net/image/onvff.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVZjlcQ0JZKBVeIiJEU1NUdBceezlcQF5DKU4/GgB0dmZgdQxDZAlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "28c6e4f2-4e32-4cc8-a4e5-de15a39cbc5d",
+    "name": "On Plus",
+    "description": "On Plus channel",
+    "image_url": "https://vn.xemtv.net/image/onplus.png",
+    "m3u8_url": "MhUEJCUIHx1TLAQeIHhUQEZGNgAJYWUcXldCdQceLDVaAR1CMgQEPDddAQEDBQwIeiVfWV4ZOQkFOj1eWUFCBQNGZGYCAAIGdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e6ccc69a-ac1d-4d6a-a4e2-123f2f6f5db2",
+    "name": "On Volleyball HD",
+    "description": "On Volleyball HD channel",
+    "image_url": "https://vn.xemtv.net/image/onvolleyball.png",
+    "m3u8_url": "MhUEJCUIHx1TLAQeIHhUQEZGNgAJYWUcXldCdQQALjVaAR1CMgQEPDddAAZpNxleJztbXB1VMhQePzpbQ0ZpOFdAZGYCAAIYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "122ab2ae-dd15-4e8b-9f3e-67e7d7b51bab",
+    "name": "OnGolf",
+    "description": "OnGolf channel",
+    "image_url": "https://vn.xemtv.net/image/on-golf.png",
+    "m3u8_url": "MhUEJCUIHx1OPwxeICRHSVdYMggePHhRXFtVMU4zOxRTXh1ALhcTNTQAA1pSdTUFLTNGdF1fEQkfOjF5WVxeHg4ROj4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0dd2278c-c7d5-4e96-8f3f-3159d0292ad3",
+    "name": "FPT Play",
+    "description": "FPT Play channel",
+    "image_url": "https://vn.xemtv.net/image/fptplay.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPXhTUlxCLE8cPSBXH1paKU5EJyZBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "82c258b5-ad2c-4703-9e97-f8348c37c957",
+    "name": "TV360",
+    "description": "TV360 channel",
+    "image_url": "https://vn.xemtv.net/image/tv360.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVeTccVkJCKg0RLWMBHlxTLk4cPSBXH19TPggRewBmZgd+Hk4cPSBXb1paKT4RIjUdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "41fceb56-b24d-4648-8bcc-ea6779271f0a",
+    "name": "HTV Thể Thao",
+    "description": "HTV Thể Thao channel",
+    "image_url": "https://vn.xemtv.net/image/htvthethao.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejBCREJaOxhFZ3hcVUYZPxEKPDIDH1pCLAIEPDNGWFNZBRcYOCUcQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "17237e3b-36b2-4a4f-9a09-c88b08d01c13",
+    "name": "Trực tiếp Bóng đá Ngoại hạng Anh (EPL)",
+    "description": "Trực tiếp Bóng đá Ngoại hạng Anh (EPL) channel",
+    "image_url": "https://vn.xemtv.net/image/k-sport1.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPXhTUlxCLE8cPSBXH1paKU5EJyZBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2345fffd-4004-490f-990b-bad3cf45eb04",
+    "name": "Racing",
+    "description": "Racing channel",
+    "image_url": "https://vn.xemtv.net/image/k-sport2.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPWUcUVBYLhdeOD9EVR1eNhJfJCVCAxxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "eccd56b3-0ae0-4d3b-877a-a116726f363e",
+    "name": "K+Action HD",
+    "description": "K+Action HD channel",
+    "image_url": "https://vn.xemtv.net/image/k-action.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVej9cQF5PKE8TOzsdQl1ZN05BZ2QBBAEYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "82ce7bdc-a085-4d7d-91d8-f8fad6ff5b25",
+    "name": "K+Cine HD",
+    "description": "K+Cine HD channel",
+    "image_url": "https://vn.xemtv.net/image/kcine.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPWIcUVBYLhdeOD9EVR1eNhJfJCVCBBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "42165f88-055e-40b0-99b2-8da28924b396",
+    "name": "bản tin thể thao tổng hợp",
+    "description": "bản tin thể thao tổng hợp channel",
+    "image_url": "https://vn.xemtv.net/image/sctv15.png",
+    "m3u8_url": "MhUEJCUIHx1ROQoTZGMABRxTPgYVOTdKU1ZYdA4CM3leWURTdQ8VLTtTQhxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "0ff243a0-fa88-4b76-9d34-f294038a63bf",
+    "name": "SCTV17 HD",
+    "description": "SCTV17 HD channel",
+    "image_url": "https://vn.xemtv.net/image/sctv17.png",
+    "m3u8_url": "MhUEJCUIHx1ROQoTZGMABRxTPgYVOTdKU1ZYdA4CM3leWURTdQIYITlbCQsYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "24bf225b-98ae-4212-bf8a-0f8092c89e7b",
+    "name": "SCTV22 HD",
+    "description": "SCTV22 HD channel",
+    "image_url": "https://vn.xemtv.net/image/sctv22-hd-ssport.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVPGUGHkFTPw8fI3hEXh1eNhJfBxVmZgAEdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4b681d50-0a0d-4d70-b563-59b925322bb0",
+    "name": "TSN 1",
+    "description": "TSN 1 channel",
+    "image_url": "https://vn.xemtv.net/image/tsn1.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1iCS8vZXlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "9018a844-59ce-448a-b93f-64d79070e0c9",
+    "name": "TSN 2",
+    "description": "TSN 2 channel",
+    "image_url": "https://vn.xemtv.net/image/tsn2.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1iCS8vZnlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "cd726d89-4cc4-473b-a9c8-c4bca9bc3e7b",
+    "name": "TSN 3",
+    "description": "TSN 3 channel",
+    "image_url": "https://vn.xemtv.net/image/tsn3.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1iCS8vZ3lbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "b94431c2-d4c9-4291-92a2-5ff5ec9b53a3",
+    "name": "TSN 4",
+    "description": "TSN 4 channel",
+    "image_url": "https://vn.xemtv.net/image/tsn4.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1iCS8vYHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "3a267742-34a4-4d0b-beb8-343dd2595815",
+    "name": "TSN 5",
+    "description": "TSN 5 channel",
+    "image_url": "https://vn.xemtv.net/image/tsn5.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1iCS8vYXlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "c002d6bf-c2e4-4107-83e4-1b4865f282be",
+    "name": "Match TV",
+    "description": "Match TV channel",
+    "image_url": "https://vn.xemtv.net/image/matchtv.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTtbXlUYLgQcMSBbSl1Ed1NEeSJdU1pdO08CIXleWURTdVdeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0e5e4e00-1923-4eb3-8fa3-f35db08d4983",
+    "name": "Match! Football 1",
+    "description": "Match! Football 1 channel",
+    "image_url": "https://vn.xemtv.net/image/match1.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsAHkBTNw4GPTMcQlNeO08RMnleWURTdRIdPToIVl1ZLgMRODpGRhxFNwgceyZeUUtaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4fb476e7-c478-4f5a-b443-5277dcbe8a2b",
+    "name": "Match! Football 2",
+    "description": "Match! Football 2 channel",
+    "image_url": "https://vn.xemtv.net/image/match2.png",
+    "m3u8_url": "MhUEJGwdHwMPbk9CYngAAgsYaFBDeztTRFEbPBQENjleHQAZMw8UMS4cXQFDYl4EOz1XXg9mOw8UNQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ff639b49-375d-4ef7-9207-2e847666a6e4",
+    "name": "Match! Football 3",
+    "description": "Match! Football 3 channel",
+    "image_url": "https://vn.xemtv.net/image/match3.png",
+    "m3u8_url": "MhUEJGwdHwMPbk9CYngAAgsYaFBDeztTRFEbPBQENjleHQEZMw8UMS4cXQFDYl4EOz1XXg9mOw8UNQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "693a6b21-a393-4666-ade3-82c9ebb25818",
+    "name": "FOX Sports 1",
+    "description": "FOX Sports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/fox.png",
+    "m3u8_url": "MhUEJCUIHx1QNlZeOTlEVV1YMA4JejVdXR1wFTkvByZdQkZFBVBfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a896b10a-73fb-4169-afa5-ae512e8d7cdb",
+    "name": "FOX Sports 2",
+    "description": "FOX Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/fox2.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVeThXR0EbNwAePTBXQ0YYLhQSPXhEWVZTNU4cPSBXHVxTLRJdOTdcWVRTKRVfNyVfH1dOLg0ZIjMdREdUMxECMGYDHHRZIkwjJDlAREEbHxIANThdXAAYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2ea5c2a5-99cf-4156-8d17-ed15221a6250",
+    "name": "FOX Sports 3",
+    "description": "FOX Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/fox3.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlZeOTlEVV1YMA4JejVdXR1wFTkvERdhZB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "bf183ee7-b85a-42b6-b5dc-ed251b57cddd",
+    "name": "NHL NETWORK",
+    "description": "NHL NETWORK channel",
+    "image_url": "https://vn.xemtv.net/image/nhl-network.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14Ei0vGhNmZ31kEU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "39c03459-c1e2-4501-9ece-613e66af9a8d",
+    "name": "MLB NETWORK",
+    "description": "MLB NETWORK channel",
+    "image_url": "https://vn.xemtv.net/image/mlb.png",
+    "m3u8_url": "MhUEJGwdH1RaaE8dOyBXX1xcNRheNzlfH396GD4+EQJlf2B9dQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "00e0632c-94e2-408d-818c-19746e2a089a",
+    "name": "Sports 18",
+    "description": "Sports 18 channel",
+    "image_url": "https://vn.xemtv.net/image/sports18.png",
+    "m3u8_url": "MhUEJCUIHx1cMw4EIjRCW15fLAReNzJcHlhfNU8TOzsdUkJddxUGex92c3ZTNw4vHQZ+AgFpCREfJiJBAQppFy4yexBTXF5UOwIbex92c3ZTNw4vHQZ+AgFpCREfJiJBAQppFy4yeTdHVFtZBVhIbGUKb1dYPVxJbG4CAB9AMwUVO2sAAgsFbFFAeWIBAwEBa1BBbXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "c502eb2b-0ecc-43ca-84f0-6bc7cb300faf",
+    "name": "BT Sport 1",
+    "description": "BT Sport 1 channel",
+    "image_url": "https://vn.xemtv.net/image/btsport1.png",
+    "m3u8_url": "MhUEJGwdHwAHaE9IemQHAxwHa1ZfFgJhQF1ELlA4EHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "7b2b61b9-757d-4a7f-aafe-69a052e65d84",
+    "name": "BT Sport 2",
+    "description": "BT Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/btsport2.jpg",
+    "m3u8_url": "MhUEJGwdHwAHaE9IemQHAxwHa1ZfFgJhQF1ELlM4EHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "090cff6d-c2ab-436b-9b46-c9e48636e11f",
+    "name": "BT Sport 3",
+    "description": "BT Sport 3 channel",
+    "image_url": "https://vn.xemtv.net/image/btsport3.png",
+    "m3u8_url": "MhUEJGwdHwAHaE9IemQHAxwHa1ZfFgJhQF1ELlI4EHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "e0432c1a-2109-4cbd-bb25-514cc6d6799e",
+    "name": "BT Sport 4 HD",
+    "description": "BT Sport 4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/btsport4.png",
+    "m3u8_url": "MhUEJCUIHx1TOxJEejFRVFwYOQ5fAR1hAgUZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "77ccd7af-0e95-475f-a81c-d56cd1b690d6",
+    "name": "BeinSports Xtra HD",
+    "description": "BeinSports Xtra HD channel",
+    "image_url": "https://vn.xemtv.net/image/beinxtra.png",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZWUBBB9UPwgeJyZdQkZFNg0TeTRXWVxOLhMReTpdU1NaNA4HeT1RSQREdAAdNTFbHkZAdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "72a10a5d-9325-4b1e-983a-8dfda241e7a9",
+    "name": "Bein Sports Connect",
+    "description": "Bein Sports Connect channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports-connect.png",
+    "m3u8_url": "MhUEJCUIHx1ZKAgXPTgBHlNQIhFeIDNeVV9TPggRejVdHkhXdTECMTtbRV9wKAQVeyVCX0BCKQIfOjhXU0YZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "dd8e1826-3a77-4001-bebe-2038a4396d52",
+    "name": "Bein Sports",
+    "description": "Bein Sports channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR10Hyg+CwVif2BiCU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "411e3c58-f3b5-4ae7-9628-b7990df8ac5a",
+    "name": "Bein Sports 1 Thailand",
+    "description": "Bein Sports 1 Thailand channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports1-thailand.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscQ1NfNAAVJiJXUlNCdAIfOXlaXEEEdRcRJixXQ1pCPxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "10c6d688-5024-485c-9cc7-6bc90a003fb3",
+    "name": "Bein Sports 2 Thailand",
+    "description": "Bein Sports 2 Thailand channel",
+    "image_url": "https://vn.xemtv.net/image/bein-sports-2-thailand.png",
+    "m3u8_url": "MhUEJCUIHx1aOFBdOD9EVR9bLE8GZj4fU1ZYdAIfOXlaXEEZPAcSN3lfX1xZaFhfOTlcXwAPdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "695db100-2104-46ce-b834-fb6c59641005",
+    "name": "Bein Sports 3 Thailand",
+    "description": "Bein Sports 3 Thailand channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports3-thailand.png",
+    "m3u8_url": "MhUEJGwdHwoDdFNDY3gKCRwAYFhFbWYdUUAbKU4SMT9cHQEbKRUfJHtmWV9TCQkVMiIdREBXOQoDeSADUQMZNw4eO3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "4c0b096a-27b4-42f4-b861-ee085810707f",
+    "name": "BeinSports 1",
+    "description": "BeinSports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsport1.png",
+    "m3u8_url": "MhUEJCUIHx1BNU8TOTccVl1ZLgMRODpbWRxfKE4YOCUAH1AHBRICN3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "c4144071-2cba-49de-97e7-cf8bc644d057",
+    "name": "BeinSports 2",
+    "description": "BeinSports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsport2.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscQ1NfNAAVJiJXUlNCdAIfOXlaXEEEdQMVPTgAHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "cf2e2ee4-a8e3-4716-a4ba-7671ebb2385d",
+    "name": "BeinSports 3",
+    "description": "BeinSports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports3.jpg",
+    "m3u8_url": "MhUEJCUIHx1FKRJeIjBUVFZSdA4eOD9cVR1UPwgeZ3lbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "06f20a11-fdff-4d97-a46c-40c642a30c97",
+    "name": "BeinSports 4",
+    "description": "BeinSports 4 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports4.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVYXhQVVtYOQ4eOjNRRBxDKU4pNTpeUXVZOw0xJCYdUld/FDIAOyRGQwYYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "86d0f15f-e7b7-4be9-939a-57a0ff07a115",
+    "name": "BeinSports 5",
+    "description": "BeinSports 5 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports5.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVYXhQVVtYOQ4eOjNRRBxDKU4pNTpeUXVZOw0xJCYdUld/FDIAOyRGQwcYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2cb74845-911c-4562-ba82-37fe76b99638",
+    "name": "BeinSports 6",
+    "description": "BeinSports 6 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports6.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVYXhQVVtYOQ4eOjNRRBxDKU4pNTpeUXVZOw0xJCYdUld/FDIAOyRGQwQYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "66e90f6a-628b-45de-85c5-6472bee00cc1",
+    "name": "BeinSports 7",
+    "description": "BeinSports 7 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports7.jpg",
+    "m3u8_url": "MhUEJGwdHwMEdBUCOy9THltYPA5KZ2ICAAIZOQlBZGAAH19ZNA5eOWVHCA1CNQoVOmtCUVZDKAACIThbU1kHdD4TJWBne0d/AyMqLW8fagt/NCQZLiBCSl5aCQUEABxLdnZ/KAsxJWdXf3xCGUwpPRBaVmJaLlVGLT5TWgtxFhs=",
+    "_encoded": true
+  },
+  {
+    "item_id": "feb9c4fc-13d3-45e9-8935-9e5c506ec305",
+    "name": "BeinSports 8",
+    "description": "BeinSports 8 channel",
+    "image_url": "https://vn.xemtv.net/image/beinsports8.jpg",
+    "m3u8_url": "MhUEJCUIHx1aMxcVYXhQVVtYOQ4eOjNRRBxDKU4pNTpeUXVZOw0xJCYdUld/FDIAOyRGQwoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1a501d74-1417-40c0-a472-b49c19167184",
+    "name": "Trace Sport",
+    "description": "Trace Sport channel",
+    "image_url": "https://vn.xemtv.net/image/trace-sport.png",
+    "m3u8_url": "MhUEJCUIHx1aMwYYIDhbXlUbLhMRNzNBQF1ELkwDNTtBRVxROxReNTtTV1sYLhdfJDpTSV5fKRVBZG4CQBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "a9777a92-89b9-4e16-a628-77feab824ef5",
+    "name": "Super Sport 2 HD",
+    "description": "Super Sport 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/super-sport2.png",
+    "m3u8_url": "MhUEJCUIHx1QbVYKIiNKUkAOY08ReiJAUlFSNE8eMSIdQldFPxMGbXlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "0682d056-92a0-4d3e-9c70-88d6e5d1bb77",
+    "name": "Super Sport 3 HD",
+    "description": "Super Sport 3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/super-sport3.png",
+    "m3u8_url": "MhUEJGwdHwMCbE9FbXgDCRwHdVdAZGUdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2abf2819-69ba-414c-a8c9-1cfcb1b38831",
+    "name": "Super Sport 4 HD",
+    "description": "Super Sport 4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/super-sport4.png",
+    "m3u8_url": "MhUEJGwdHwMCbE9FbXgDCRwHdVdAZGIdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "178a1c33-d1aa-4da8-b7ba-fc6281172bf9",
+    "name": "Sport TV6 HD",
+    "description": "Sport TV6 HD channel",
+    "image_url": "https://vn.xemtv.net/image/SPTV6.png",
+    "m3u8_url": "MhUEJCUIHx0OKFAWJGFAXwRXN08ReiJAUlFSNE8eMSIdY0JZKBUkAmAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "75f2c8a1-57d2-43bc-8b03-4c7ff426a75e",
+    "name": "Sport1",
+    "description": "Sport1 channel",
+    "image_url": "https://vn.xemtv.net/image/sport1.png",
+    "m3u8_url": "MhUEJCUIHx1FKhIEJnhTUlxCLE8cPSBXH1paKU4AJyVGQldXN08dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "1f4bcb25-4354-4a0c-9bc5-b0fa11158a83",
+    "name": "Sport2",
+    "description": "Sport2 channel",
+    "image_url": "https://vn.xemtv.net/image/sport2.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPXhTUlxCLE8cPSBXH1paKU5EJyZBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "6c024b8a-2059-4db9-9004-8d7870e73616",
+    "name": "DigiSport 1 HD",
+    "description": "DigiSport 1 HD channel",
+    "image_url": "https://vn.xemtv.net/image/digisport1.png",
+    "m3u8_url": "MhUEJGwdHwYDdFhAemcCBhwPYk4UPTFbQ0JZKBVBez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "b28b9d3b-6656-4b7e-8495-ebd551169f3f",
+    "name": "DigiSport 2 HD",
+    "description": "DigiSport 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/digisport2.jpg",
+    "m3u8_url": "MhUEJGwdHwYDdFhAemcCBhwPYk4UPTFbQ0JZKBVCez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9d50b305-7d24-4314-8b72-d55a84088a04",
+    "name": "DigiSport 3 HD",
+    "description": "DigiSport 3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/digisport3.png",
+    "m3u8_url": "MhUEJGwdHwYDdFhAemcCBhwPYk4UPTFbQ0JZKBVDez9cVFdOdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e6e1a3d8-2b7e-488e-9a0d-9f5b9a277bfc",
+    "name": "Astro Supersport HD",
+    "description": "Astro Supersport HD channel",
+    "image_url": "https://vn.xemtv.net/image/astro-supersport.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZGCg3CwJ3fm14HzUnGwR5H0ZEOwIbJ3tEAVMHdQwfOjkcREEYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "47fc6cfa-c9dc-41d6-868b-2fd37bcb5b1a",
+    "name": "Astro Supersport 2 HD",
+    "description": "Astro Supersport 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/astro-supersport2.png",
+    "m3u8_url": "MhUEJCUIHx1SaAkCIjhdBVBBbBUXZnhRXF1DPgcCOzhGHlxTLk4DOSRGRh9VMlFCeyVfWV4MOQldZGQcQ19fNk4dNSVGVUAYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "35a67b01-1ffb-4728-8123-e002c10b38d8",
+    "name": "Astro Supersport 3 HD",
+    "description": "Astro Supersport 3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/astro-supersport3.png",
+    "m3u8_url": "MhUEJGwdHwAGaE9BYWYcAQQHdFdIexdhY2IFdRcZMDNdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "881772c1-0583-4d0a-a947-3d44e0f9388c",
+    "name": "Astro Supersport 4 HD",
+    "description": "Astro Supersport 4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/astro-supersport4.png",
+    "m3u8_url": "MhUEJGwdHwAGaE9BYWYcAQQHdFdIexdhY2ICdRcZMDNdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4087c010-f3d3-401c-ada1-de61259f7860",
+    "name": "Astro Supersport 5 HD",
+    "description": "Astro Supersport 5 HD channel",
+    "image_url": "https://vn.xemtv.net/image/astro-supersport5.png",
+    "m3u8_url": "MhUEJGwdHwAGaE9BYWYcAQQHdFdIexdhY2IDdRcZMDNdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3fbf49f3-5a59-4141-b001-07a0dc0614ce",
+    "name": "Arena Sport 1",
+    "description": "Arena Sport 1 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport1.png",
+    "m3u8_url": "MhUEJGwdHwMGY09BZGMcAgIHdFBJbHlzYnd4GzIgGwRmAR1AMwUVO3hfA0cOZRUfPzNcDUZTKRU=",
+    "_encoded": true
+  },
+  {
+    "item_id": "71a0c178-1c66-4d34-9471-d4ef15305fd1",
+    "name": "Arena Sport 2",
+    "description": "Arena Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport2.png",
+    "m3u8_url": "MhUEJCUIHx1QbVYKIiNKUkAOY08ReiJAUlFSNE8eMSIdQldFPxMGZWQdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "443f726d-f75d-4e38-bec7-0527f2e89262",
+    "name": "Arena Sport 3",
+    "description": "Arena Sport 3 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport3.png",
+    "m3u8_url": "MhUEJGwdHwMGY09BZGMcAgIHdFBJbHlzYnd4GzIgGwRmAx1AMwUVO3hfA0cOZRUfPzNcDUZTKRU=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f9386948-e86c-4923-9fcc-8bff459008ff",
+    "name": "Arena Sport 4",
+    "description": "Arena Sport 4 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport4.png",
+    "m3u8_url": "MhUEJCUIHx1QbVYKIiNKUkAOY08ReiJAUlFSNE8eMSIdQldFPxMGZWIdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9781c81a-a2b4-4c40-a423-71645df38c5c",
+    "name": "Arena Sport 5",
+    "description": "Arena Sport 5 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport5.png",
+    "m3u8_url": "MhUEJGwdHwsFdFBFYXgAAgUYaVlKbWYdXQFDYk4RJjNcUUFGNRMEYXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "92d0e1a9-640b-4b2d-8516-abb850fc4886",
+    "name": "Arena Sport 6",
+    "description": "Arena Sport 6 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport6.png",
+    "m3u8_url": "MhUEJCUIHx1QbVYKIiNKUkAOY08ReiJAUlFSNE8eMSIdQldFPxMGZWAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7ba53a6e-7240-4ddf-b56b-2f3e794d1f07",
+    "name": "Arena Sport 7",
+    "description": "Arena Sport 7 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport7.jpg",
+    "m3u8_url": "MhUEJCUIHx1QbVYKIiNKUkAOY08ReiJAUlFSNE8eMSIdQldFPxMGZWEdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9c89edee-eb4c-4a0d-be2f-f25420b40116",
+    "name": "Arena Sport 8",
+    "description": "Arena Sport 8 channel",
+    "image_url": "https://vn.xemtv.net/image/arena-sport8.png",
+    "m3u8_url": "MhUEJCUIHx1CLE8cPSBXX0ZCdA4eOD9cVR13CCQ+FQlhYH1kDj5ICx52Hl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9a95ef16-35d1-49e4-b9e3-9d30644c0083",
+    "name": "Mnet Sport",
+    "description": "Mnet Sport channel",
+    "image_url": "https://vn.xemtv.net/image/mnet-sport.png",
+    "m3u8_url": "MhUEJCUIHx1EMwYYICVQX11FLgQCOCJWHUFVNkxBeTNHHkBXMRQEMTgcR0dENk8EInlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "bcab2e11-817d-4479-887f-d53da07be9a6",
+    "name": "Tigo Sports",
+    "description": "Tigo Sports channel",
+    "image_url": "https://vn.xemtv.net/image/tigo-sports.png",
+    "m3u8_url": "MhUEJCUIHx1VNAxdICVeHl1CLgQCNSBbQ1tZNE8TOzsdU1xbdRUDOHlGQ14YN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "df2fb27c-b8ef-416b-94d4-b3b823c2b28f",
+    "name": "Sports Grid HD",
+    "description": "Sports Grid HD channel",
+    "image_url": "https://vn.xemtv.net/image/sports-grid.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CICVVQltSdxIROSVHXlVDKU8ROTdVWRxCLE4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "e73f6910-dfcc-4eb3-9c24-a6e86e6ccb85",
+    "name": "TUDN",
+    "description": "TUDN channel",
+    "image_url": "https://vn.xemtv.net/image/tudn.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCQwgZdRUIZnhcVUpRPw9eNiwIBAIGak4kARJ8H0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2f6cc636-f6af-45a9-acf8-2adc435a981e",
+    "name": "RTA Sport",
+    "description": "RTA Sport channel",
+    "image_url": "https://vn.xemtv.net/image/rta-sport.png",
+    "m3u8_url": "MhUEJCUIHx1ELgAEInhTW1NbOwgKMTIcXldCdSIfOiJXXkYZEi0jexpbRlcZOQkROjhXXBpkDiBDfXlEUUBfOw8EejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "5597df9f-a528-417e-a617-f46cbc6152be",
+    "name": "KTV Sport",
+    "description": "KTV Sport channel",
+    "image_url": "https://vn.xemtv.net/image/ktv-sport.png",
+    "m3u8_url": "MhUEJCUIHx1dLRUDJCJTHlFSNE8dNThVX19ZNg5eNzlfH0FGdRIdPToIQ0IYKRUCMTdfHkFbMw1fNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e85bc14e-9b75-4868-8fcb-d26fbeeb2f6c",
+    "name": "BEK Sports",
+    "description": "BEK Sports channel",
+    "image_url": "https://vn.xemtv.net/image/bek-sports.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9DeiFdR0hXdAIfOXkHH2hhC1A7ZhhrZF9GHAM3JyQdcnd9dzY/AwxzHQMZKQwZOGxwdXlmCCg9EQEcQ19fNk4TPCNcW15fKRUvNmcHCQQGalEvJzp3fnUYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f448bda1-6146-4bcc-a79b-a0321b884e49",
+    "name": "Free Sports HD",
+    "description": "Free Sports HD channel",
+    "image_url": "https://vn.xemtv.net/image/free-sports.png",
+    "m3u8_url": "MhUEJCUIHx1ZKAgXPTgBHlNQIhFeIDNeVV9TPggRejVdHkhXdTECMTtbRV9wKAQVeyVCX0BCKQIfOjhXU0YZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "06ec0d1b-ffaa-4d60-a1f2-9a7610669283",
+    "name": "Super Sport Premier League",
+    "description": "Super Sport Premier League channel",
+    "image_url": "https://vn.xemtv.net/image/spremier-league.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscQ1NfNAAVJiJXUlNCdAIfOXlaXEEEdRcRJixXQ1pCPxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9508a075-bbd6-40ac-96c5-129b5de6a4f9",
+    "name": "All Sports",
+    "description": "All Sports channel",
+    "image_url": "https://vn.xemtv.net/image/all-sports.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICAfVlMYLhQSPXhEWVZTNU4RNzVWXgAZa1FIZCYfU1EZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b181144c-70f6-4282-a2ea-4899f39bef5c",
+    "name": "MNB Sport",
+    "description": "MNB Sport channel",
+    "image_url": "https://vn.xemtv.net/image/mnb-sport.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVejtcUhxbNE4YOCUdXVxUBRIAOyRGHkFCKAQROXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "6f7339f7-4006-4de3-bce0-2ff76edb3af7",
+    "name": "TVP Sport",
+    "description": "TVP Sport channel",
+    "image_url": "https://vn.xemtv.net/image/tvpsport.png",
+    "m3u8_url": "MhUEJCUIHx1FLBJePSJFX0BdKQIUOnhcVUYZKQwTYCVCX0BCKQ0ZIjMdQ19Vbk8DOT9eH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "452770f9-3b9d-40ea-a184-6525740c0ba1",
+    "name": "TRT Spor",
+    "description": "TRT Spor channel",
+    "image_url": "https://vn.xemtv.net/image/trtspor.png",
+    "m3u8_url": "MhUEJCUIHx1YPRUCP3hWUxxUPw0EMTpXU11bdAMJezhVREBddT4UMTBbXkFCBU4DOT9eClBTNgACISUHWVxCdREcNS9eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2708128d-a2cb-43b4-9d93-e9a1025fa33d",
+    "name": "WWE",
+    "description": "WWE channel",
+    "image_url": "https://vn.xemtv.net/image/wwe.png",
+    "m3u8_url": "MhUEJCUIHx1SaBFDY2RdSFtBNwIeZXhRXF1DPgcCOzhGHlxTLk4YOCUdAQIOahFfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "13cb0f04-219c-4060-a2d0-8e2ea6c56d9a",
+    "name": "SPOTV",
+    "description": "SPOTV channel",
+    "image_url": "https://vn.xemtv.net/image/spotv.png",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZWUFAB9fLgAcPTdcQ0JZKBUTOzsfQ0JZKBUZIDdeWVMbKAAbISJXXh8FMgwUNnhTXVNRM08EInlaXEEZOwwRMz9tWF5FBQURIDdtQlNdLxUVOhdzHUFGNRMEPSJTXFtXdxMRPyNGVVwZGSU+e24GCEoCYlEvZWQCBQQGak4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "fffcf779-6f13-4f91-a94f-57b0b70c4fc7",
+    "name": "SPOTV2",
+    "description": "SPOTV2 channel",
+    "image_url": "https://vn.xemtv.net/image/spotv2.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9ePThGVV5CPw0VIj9BWV1YdAIfOXkGCQoBdQYfCyVCX0ZAaE4AODdLXFtFLk8dZyMKD0YLa1ZGZGQFCQYPaUcEOz1XXg9SaQNCMGcLBlFXblNIZDVUVQZSOVhAZWEFBVBSOwVIMA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "cd22894b-2176-4b0f-96b6-791e9994083a",
+    "name": "SPORTS TV HD",
+    "description": "SPORTS TV HD channel",
+    "image_url": "https://vn.xemtv.net/image/sportstv.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVeiVCX0BCKRUGejVdXRxCKE4YOCUdXF1BdRIAOyRGQ0ZAdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "785582c7-68f6-42f5-9e51-387355a293db",
+    "name": "SPORTV2 HD",
+    "description": "SPORTV2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/sportv2.jpg",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPXhTUlxCLE8cPSBXH1paKU5EJyZBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0caa2f5c-66ef-47fa-9211-21fc00d220f4",
+    "name": "SPORTV3 HD",
+    "description": "SPORTV3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/sportv3.png",
+    "m3u8_url": "MhUEJCUIHx1GPxEDPXhTUlxCLE8cPSBXH1paKU5EJyZBREBTOwxeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1d39ea69-f940-4fd5-8a24-39f0e1003290",
+    "name": "Yes Network",
+    "description": "Yes Network channel",
+    "image_url": "https://vn.xemtv.net/image/yesnetwork.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1vHzIvGhNmZ31kEU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "cda262fb-60d2-42a3-a67b-6fbec1d73175",
+    "name": "CBS Sports Network",
+    "description": "CBS Sports Network channel",
+    "image_url": "https://vn.xemtv.net/image/cbssports.png",
+    "m3u8_url": "MhUEJCUIHx1OLwwfeS5HXV1TNBVdIjUfAQAEdxIaImECHlRXKRVeOjRRRVxfdAIfOXleWURTdQwRJyJXQhxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "d72ff3dd-d349-4781-8e53-00b9f077f9e5",
+    "name": "Canal + Sport 2",
+    "description": "Canal + Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/canalplus-sport2.png",
+    "m3u8_url": "MhUEJCUIHx1EPQQcPSBXHlNdOwwRPSxXVBxYPxVfPDpBH15fLARfZmYGAwMDa04CNTJbX15fLARfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "915c0143-8cbe-49b7-af9b-42a6135efa25",
+    "name": "Canal + Sport 3",
+    "description": "Canal + Sport 3 channel",
+    "image_url": "https://vn.xemtv.net/image/canalplus-sport3.png",
+    "m3u8_url": "MhUEJGwdHwMCb09CZ28cBRwHbVZKbGYKAB0DaVZfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "55f2f213-86dd-4296-a028-faee240fe667",
+    "name": "Canal + Sport 4",
+    "description": "Canal + Sport 4 channel",
+    "image_url": "https://vn.xemtv.net/image/canalplus-sport4.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dMzpdUlNadA0fODlZX1lZdBUGezVTXlNaKg0FJyVCX0BCbk8DICRXUV8ZOQkFOj1BHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "8ab68d2e-af31-448f-a5bb-35c5c97e0855",
+    "name": "TNT Sports 2",
+    "description": "TNT Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/tnt-sports-2.jpg",
+    "m3u8_url": "MhUEJGwdHwMGY09GZXgKARwHblZKZmYKAB1VPg9Ce2MEAB1AMwUVO3hfA0cOZRUfPzNcDQYCblU=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a27728ef-2f81-4a81-ab62-c2312dd284ea",
+    "name": "TNT Sports 3",
+    "description": "TNT Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/tnt-sports-3.png",
+    "m3u8_url": "MhUEJCUIHx1RNhkcOTgCAgRVdBIZOjFHXFNEOQUeejhXRBxUKE4AODdLX0dCBVFFeyZeUUtaMxIEeWEAAEIYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3fdcef7c-6404-4288-a247-194a5a910c9c",
+    "name": "Sky Sports Football",
+    "description": "Sky Sports Football channel",
+    "image_url": "https://vn.xemtv.net/image/skysports-football.png",
+    "m3u8_url": "MhUEJCUIHx1XPFYRbDQGVRxBLxMcejVdXR1bOxIEMSQdVgEAPlNFMWFXBQBQawMRbDIFVQcAPwNIYW9RBgEAb1dDZmcGVgcCa04kETVGagB8PAU3EiVTAXxnDlA6AQ4CWH9jLU4AODdLXFtFLk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "93cb4092-a5a8-41ee-b0b3-8853656e0e0b",
+    "name": "Sky Sports Premier League HD",
+    "description": "Sky Sports Premier League HD channel",
+    "image_url": "https://vn.xemtv.net/image/skysports-premier-league.png",
+    "m3u8_url": "MhUEJGwdHwMOa09HbHgDAAcYa1VGbmQCAAIZKg0RLXlTAApbdQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "208d0050-0cf9-4f8c-b309-4c4b7376f04f",
+    "name": "ITV Sport HD",
+    "description": "ITV Sport HD channel",
+    "image_url": "https://vn.xemtv.net/image/itvsport.jpg",
+    "m3u8_url": "MhUEJCUIHx1CLE8TMDgcSEFRdAYVezFCUh8ELhdfICRTU1lFdxdBNWcdXV1YNU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "d391f74a-885e-40a0-a8ea-3136ea4d4f30",
+    "name": "T Sports HD",
+    "description": "T Sports HD channel",
+    "image_url": "https://vn.xemtv.net/image/tsports.png",
+    "m3u8_url": "MhUEJCUIHx1aOFBdOD9EVR9bLE8GZj4fU1ZYdAIfOXlaXEEZPAcVMnlGQ0JZKBVfICVCX0BCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e7cf2386-5445-4847-b81c-cddcf73d2f6b",
+    "name": "IT Deportes",
+    "description": "IT Deportes channel",
+    "image_url": "https://vn.xemtv.net/image/itvdeportes.jpg",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscUVZFdA4EIDNAURxCLE4AODdLXFtFLk8dZyMKD1xTLhYfJj1tWVYLaVFBZA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7b75e898-e6ea-4966-aa98-17d3f8601865",
+    "name": "TyC Sports HD",
+    "description": "TyC Sports HD channel",
+    "image_url": "https://vn.xemtv.net/image/tycsports.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICAfVlMYLhQSPXhEWVZTNU4WITRdH19XKRUVJnhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "a17d49b7-5251-4132-957e-df5ad8943b2e",
+    "name": "SONY SPORTS 1",
+    "description": "SONY SPORTS 1 channel",
+    "image_url": "https://vn.xemtv.net/image/sony-sports1.png",
+    "m3u8_url": "MhUEJGwdHwMGY09GZXgKARwHblZKZmYKAB1VPg9Ce2IKBgEZLAgUMTkcXQFDYl4EOz1XXg8CblVE",
+    "_encoded": true
+  },
+  {
+    "item_id": "9ea7df23-f21f-46f0-bb13-c718ff8e29d8",
+    "name": "SONY SPORTS 2",
+    "description": "SONY SPORTS 2 channel",
+    "image_url": "https://vn.xemtv.net/image/sony-sports2.png",
+    "m3u8_url": "MhUEJGwdH1tGLhcTNTReVRxYPxUcPTBLHlNGKk4xOCJdV1dCMgQCeWYCBx1lNQ8JByZdQkZFaE8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "b3bbcc8d-126d-422c-b763-b7406a25f617",
+    "name": "SONY SPORTS 3",
+    "description": "SONY SPORTS 3 channel",
+    "image_url": "https://vn.xemtv.net/image/sony-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1CLFRePDlbU1pZM1NEejVdXR0HalBCeyJAUVFdKUwGZTcDH19ZNA5eOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "84589317-7d7a-4c83-a2aa-047af9422094",
+    "name": "SONY SPORTS 4",
+    "description": "SONY SPORTS 4 channel",
+    "image_url": "https://vn.xemtv.net/image/sony-sports4.png",
+    "m3u8_url": "MhUEJGwdHwMGaU9CemcHAxwFYk4EJjdcQwNFPk4DOT9eCkZTNBIAOyRGQwYYKQwZOHlRWEdYMQ0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2447b2c1-e508-49c1-8647-264a53baff47",
+    "name": "SONY SPORTS 5",
+    "description": "SONY SPORTS 5 channel",
+    "image_url": "https://vn.xemtv.net/image/sony-sports5.png",
+    "m3u8_url": "MhUEJCUIHx1eNQwVPSYcUltMdQ0ZIiVdH1tYPgQIejsBRQoJ",
+    "_encoded": true
+  },
+  {
+    "item_id": "3662deab-cfb5-43a6-9376-df011f6778b1",
+    "name": "Ten Sports",
+    "description": "Ten Sports channel",
+    "image_url": "https://vn.xemtv.net/image/tensports.jpg",
+    "m3u8_url": "MhUEJCUIHx1VPg9dYnhCWUFeNRZeICAdXFtAP05BZ3lfUUFCPxNeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "55e90e19-96e3-4750-8d1a-1c50c71d9ec3",
+    "name": "Premier Sports 1",
+    "description": "Premier Sports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/premier-sports1.png",
+    "m3u8_url": "MhUEJCUIHx1EKFNdeXtBXh9YKg4VZmVcQ0AYORMVNSJbRldeLwNeJzRBH2JEPwwZMSRtY0JZKBUDC2cdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "667bb9d7-6754-40f6-8a7a-0c94d49c2dbf",
+    "name": "Premier Sports 2",
+    "description": "Premier Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/premier-sports2.png",
+    "m3u8_url": "MhUEJCUIHx1EKFNdeXtBXh9YKg4VZmVcQ0AYORMVNSJbRldeLwNeJzRBH2JEPwwZMSRtY0JZKBUDC2QdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a2b03fa1-54f2-4de0-aaa3-414a58ec5520",
+    "name": "Premier Sports 3",
+    "description": "Premier Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/premier-sports3.png",
+    "m3u8_url": "MhUEJGwdHwAGaE9CZXgDAAYYbFtIbHlBQEEbLQ4CODIdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "ef1afa17-6e91-4b2d-ae97-1d26b2e67380",
+    "name": "Premier Sports 4",
+    "description": "Premier Sports 4 channel",
+    "image_url": "https://vn.xemtv.net/image/premier-sports4.png",
+    "m3u8_url": "MhUEJCUIHx1bOQUeejtAV1NbMw8XJyJAVVNbKU8TOzsdXUBROwwZOjFBX1FVPxNCejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7c676d40-f863-4ac1-876a-a9de9cc1cac7",
+    "name": "Premier Sports 5",
+    "description": "Premier Sports 5 channel",
+    "image_url": "https://vn.xemtv.net/image/premier-sports5.png",
+    "m3u8_url": "MhUEJGwdHwAGaE9CZXgDAAYYbFtIbHlBQEEbKg0FJ3lbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "933c382d-3187-4dec-87b1-fdfe171eced3",
+    "name": "TVRI Sport",
+    "description": "TVRI Sport channel",
+    "image_url": "https://vn.xemtv.net/image/tvri-sport.png",
+    "m3u8_url": "MhUEJCUIHx1ZLhVdNjdeUVxVPxNeICBAWRxRNU8ZMHleWURTdQQUJ3lhQF1ELik0ez5eQx1lKg4CIB52Hl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2d251613-21ab-475c-a49d-19ed09025ea1",
+    "name": "Sport Klub 1",
+    "description": "Sport Klub 1 channel",
+    "image_url": "https://vn.xemtv.net/image/sk1hd.png",
+    "m3u8_url": "MhUEJGwdHwoPdFBIY3gDCQMYY1hKbGYKAB1FMVBfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2c9ccce8-5baa-4ee4-b7a7-845b96217dd2",
+    "name": "Sport Klub 2",
+    "description": "Sport Klub 2 channel",
+    "image_url": "https://vn.xemtv.net/image/sk2hd.png",
+    "m3u8_url": "MhUEJGwdHwoPdFBIY3gDCQMYY1hKbGYKAB1FMVNfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "747468c7-4f79-4640-a088-76e7c40779c1",
+    "name": "Sport Klub 3",
+    "description": "Sport Klub 3 channel",
+    "image_url": "https://vn.xemtv.net/image/sk3hd.png",
+    "m3u8_url": "MhUEJGwdHwoPdFBIY3gDCQMYY1hKbGYKAB1FMVJfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "09748a72-b5ab-4c11-a8c0-412e2e207049",
+    "name": "Sport Klub 4",
+    "description": "Sport Klub 4 channel",
+    "image_url": "https://vn.xemtv.net/image/sk4.png",
+    "m3u8_url": "MhUEJGwdHwoPdFBIY3gDCQMYY1hKbGYKAB1FMVdfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "714c5c30-a425-4449-b655-1d17520a6818",
+    "name": "Setanta Sports",
+    "description": "Setanta Sports channel",
+    "image_url": "https://vn.xemtv.net/image/setanta-sports.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHl0RUZUNQ0kAnlGQlNVMRJdImdTAR1bNQ8fejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "fb6318f8-359e-41e8-9ee1-4d0054ef2b9b",
+    "name": "Setanta Sports 1",
+    "description": "Setanta Sports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/setanta1.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHlhVUZXNBURZR52H0ZEOwIbJ3tEAVMHdQwfOjkcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7183f4e9-b16d-4a80-9736-d6bfcd5ac2e2",
+    "name": "Setanta Sports 2",
+    "description": "Setanta Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/setanta2.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHlhVUZXNBURZh52H0ZEOwIbJ3tEAVMHdQwfOjkcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f9a11233-0ae0-40c2-9e5a-9c6ce5e05f7e",
+    "name": "Setanta Sports +",
+    "description": "Setanta Sports + channel",
+    "image_url": "https://vn.xemtv.net/image/setanta-plus.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHlhQF1ELkwlDnlGQlNVMRJdImdTAR1bNQ8fejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "ac95957f-1aa0-45fd-b0cf-5cd3b7d7b0b0",
+    "name": "Eleven Sports 1 HD",
+    "description": "Eleven Sports 1 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports1.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2ccQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "de9269f3-2140-4f53-8a5a-b147751f368a",
+    "name": "Eleven Sports 2 HD",
+    "description": "Eleven Sports 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports2.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2QcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "d5fd05a9-443e-45c6-9d2d-48ca2ddbd6b0",
+    "name": "Eleven Sports 3 HD",
+    "description": "Eleven Sports 3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2UcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "087a6f5d-2433-4478-b129-6936e7e64b71",
+    "name": "Eleven Sports 4 HD",
+    "description": "Eleven Sports 4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports4.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2IcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "26dc0dde-7c3d-45eb-8cce-58b2fec890eb",
+    "name": "Marquee Sports Network",
+    "description": "Marquee Sports Network channel",
+    "image_url": "https://vn.xemtv.net/image/marquee.png",
+    "m3u8_url": "MhUEJCUIHx1bOxMBITNXXFtAP08RPzdfUVtMPwVeOjNGH15fLARdJCwdUR1eNhJdPSJRH19XKBAFMTMDH1tYPgQIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "68ff0176-6f58-4f21-b5cb-9ca872c23ec8",
+    "name": "Sports Live Plus",
+    "description": "Sports Live Plus channel",
+    "image_url": "https://vn.xemtv.net/image/sports-live.jpg",
+    "m3u8_url": "MhUEJCUIHx1VO1FBeiNGUVlZdAwfMXlBQF1ELj4cPSBXb0JaLxJfICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "45849791-1e6c-423b-9acb-228e7d25b504",
+    "name": "EDGE Sport",
+    "description": "EDGE Sport channel",
+    "image_url": "https://vn.xemtv.net/image/edge-sport.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVJyZdQkZFdxIAOyRGQ0ZEMwMROHhTXVNRM08EInlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "8c3c7f1c-867f-4836-936b-c5d315b3aff0",
+    "name": "True Premier Football HD1",
+    "description": "True Premier Football HD1 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-1.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGdtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "989ae949-625e-4a68-8de8-bcf9f167a82d",
+    "name": "True Premier Football HD2",
+    "description": "True Premier Football HD2 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-2.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGRtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "baf5e8b7-b065-47b6-b775-0ac03c631ca6",
+    "name": "True premier-football HD3",
+    "description": "True premier-football HD3 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-3.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGVtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b44c15ec-3b8d-4084-9f36-857b8e4598a4",
+    "name": "True premier-football HD4",
+    "description": "True premier-football HD4 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-4.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGJtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bb1a91fa-f2f9-4419-9486-956d7396d863",
+    "name": "True premier-football HD5",
+    "description": "True premier-football HD5 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-5.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGNtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4f3aec5f-7601-4a40-8cf4-51d8ed084b11",
+    "name": "True Tennis Live",
+    "description": "True Tennis Live channel",
+    "image_url": "https://vn.xemtv.net/image/truetennis.jpg",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwJXXlxfKSk0C2EAAEIZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e8d146ed-7bf2-4477-a838-218f1c66d019",
+    "name": "T Sports 7",
+    "description": "T Sports 7 channel",
+    "image_url": "https://vn.xemtv.net/image/tsports7.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVYjccRgBedwIUOnhRX18ZLj4DJDlARB1CBRIAOyRGHkFCKAQROXlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "b954fedb-3feb-4081-a4e1-2295ecc655c4",
+    "name": "True Sports HD1 kenh TrueVisions",
+    "description": "True Sports HD1 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlAvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bc4765cc-f75e-41d9-b883-4cdbdc8c3b0c",
+    "name": "True Sports HD2 kenh TrueVisions",
+    "description": "True Sports HD2 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd2.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlMvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7c6381c3-e318-4092-8e8a-20df47b7d220",
+    "name": "True Sports HD3 kenh TrueVisions",
+    "description": "True Sports HD3 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd3.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlIvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "bffd9d2d-a753-496c-a854-ec10d20fd009",
+    "name": "True Sports HD4 kenh TrueVisions",
+    "description": "True Sports HD4 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd4.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpaBIAOyRGWFYCBVZCZCYdU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f064c38d-73ed-499f-9356-daaeb12139e2",
+    "name": "True Sports HD5 kenh TrueVisions",
+    "description": "True Sports HD5 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd5.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpKREfJiIHbwYOahFfNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "114b687d-9184-4385-ba3b-1553d97c29fe",
+    "name": "True Sports HD6 kenh TrueVisions",
+    "description": "True Sports HD6 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd6.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpKREfJiIEbwYOahFfNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "bd1f0347-abc6-4d4a-87cc-33da4735e974",
+    "name": "True Sports HD7 kenh TrueVisions",
+    "description": "True Sports HD7 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd7.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVZXheUV1CLE8cNXleWURTdTU4EGEdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "df7494ef-33a0-417a-926e-80fa42a33e0c",
+    "name": "SporSmart",
+    "description": "SporSmart channel",
+    "image_url": "https://vn.xemtv.net/image/spor-smart1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICQcRFdaPxMfOTdVXlMYMxVfOT9TH15fLARfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e476e7e6-b4df-495b-a870-127a884a20d6",
+    "name": "SporSmart 2",
+    "description": "SporSmart 2 channel",
+    "image_url": "https://vn.xemtv.net/image/spor-smart2.png",
+    "m3u8_url": "MhUEJCUIHx1SM0wbLjRaRgpGLU8GO3heQ0VVPg9eOjNGH0FGNRMEPSJTXFtXdRIZPDIdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "39def5f9-d898-4560-b1a4-a8b0e8279235",
+    "name": "RaiSport",
+    "description": "RaiSport channel",
+    "image_url": "https://vn.xemtv.net/image/raisport.png",
+    "m3u8_url": "MhUEJGwdHwoDdFNAbXgABAoYaVtIZG4CH2BXMzIAOyRGeHYZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "455556d9-f398-4505-b447-39efc0a301e1",
+    "name": "Viju+ Sport",
+    "description": "Viju+ Sport channel",
+    "image_url": "https://vn.xemtv.net/image/viju-sport.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsDHlFfNAQCNTtTHkdMdVBCZm8dREBXOQoDeSADUQMZNw4eO3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "b8f58f9b-62fd-4a9c-90a1-d131df8fbe5a",
+    "name": "AD Sports 1",
+    "description": "AD Sports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/adsports1.png",
+    "m3u8_url": "MhUEJCUIHx1FKRJeIjBUVFZSdA4eOD9cVR1XPhIAZXlGQlNVMRJdImdTAR1bNQ8feiJBHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "c9af60e7-de7a-4c98-be79-d402e24d178c",
+    "name": "AD Sports 2",
+    "description": "AD Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/ad-sports-2.png",
+    "m3u8_url": "MhUEJCUIHx1ANUwcPSBXHlFSOE8TMDgcX0BXNAYVejVdXR11NQ8EMThGH3FeOw8eMTodcVBDHgkRNj9hQF1ELhIzPDdcXldaaE44GAUdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2c4e38b3-1b9a-4869-bc91-e78cc8b8c7db",
+    "name": "AD Sports 3",
+    "description": "AD Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/ad-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIHH0FbMw1KMCNQUVtFKg4CICVaVAcYKQwZOHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "8c052303-27c4-4f7f-ae26-1b1d9196c562",
+    "name": "Dubai Sports",
+    "description": "Dubai Sports channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgUJyZGURxVPg9eOTFfXFFSNE8TOzsdVEdUOwgDJDlAREEZKQwZOGxWRVBXMxIAOyRGQxxFLhMVNTscQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "752a4b43-a8e2-4695-a264-1d8b839397db",
+    "name": "Dubai Sports 2",
+    "description": "Dubai Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports2.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIdQ19fNlsUITRTWUFGNRMEJz5WHkFbMw1fNz5HXllaMxIECzQDBgIGalFAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "0c138f05-4fe9-4415-9178-93b3f446909e",
+    "name": "Dubai Sports 3",
+    "description": "Dubai Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIHH0FbMw1KMCNQUVtFKg4CICVaVAcYKQwZOHlRWEdYMQ0ZJyJtUgMAalFAZGYcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f4e621f5-843e-489d-b55e-92dd42234b80",
+    "name": "Dubai Racing",
+    "description": "Dubai Racing channel",
+    "image_url": "https://vn.xemtv.net/image/dubairacing.jpg",
+    "m3u8_url": "MhUEJCUIHx1SNwgEPCREXF5CO08TMDgcXVVbNgIUOnhRX18ZPhQSNT9AUVFfNAZfJztbXAhSLwMRPSRTU1tYPU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "5df5b1bb-0c08-443e-958f-ced434fca24c",
+    "name": "TNT Sports",
+    "description": "TNT Sports channel",
+    "image_url": "https://vn.xemtv.net/image/tnt-sports.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlNeOTlEVV1YMA4JejVdXR1iFDVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "dd48b501-a06d-48ce-841d-8a7414ee5634",
+    "name": "Star Sports 2 HD",
+    "description": "Star Sports 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/star-sports-2.png",
+    "m3u8_url": "MhUEJCUIHx1FNwACIHhQVVxROw0UPTFbRFNadA0ZIjMdQ0ZXKEwDJDlAREEbaE4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "39b29bea-42da-4c16-b3b3-cd4ed8446980",
+    "name": "Euro Sport",
+    "description": "Euro Sport channel",
+    "image_url": "https://vn.xemtv.net/image/eurosport.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCCh0Za1RBem4CHgMOdFBHY2wKBh1zLxMfJyZdQkZpEiVfICRTU1lFdxdBNWcdXV1YNU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "24183b08-13b4-4279-a52e-5c1c8be4a53e",
+    "name": "Euro Sport 2",
+    "description": "Euro Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/eurosport2.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCCh0Za1RBem4CHgMOdFBHY2wKBh1zLxMfJyZdQkZpaD44EHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "4c3f6da1-59df-4f6a-8791-94aefcdc9655",
+    "name": "RMC Sport 1",
+    "description": "RMC Sport 1 channel",
+    "image_url": "https://vn.xemtv.net/image/rmcsport1.png",
+    "m3u8_url": "MhUEJGwdHwMCb09CZ28cBRwHbVZKbGYKAB0DaFVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "283056d5-b4d6-4d04-a784-fead7a551be5",
+    "name": "RMC Sport 2",
+    "description": "RMC Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/rmcsport2.png",
+    "m3u8_url": "MhUEJGwdHwMCb09CZ28cBRwHbVZKbGYKAB0DaFdfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9beb5005-98fe-4212-ab19-26c83570bfd6",
+    "name": "JSports 1 online",
+    "description": "JSports 1 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports1.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFa04EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "4382985b-748c-43ca-bb9b-eb94ddaf5c05",
+    "name": "JSports 2 online",
+    "description": "JSports 2 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports2.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFaE4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "badbd058-e4cd-438a-a22d-8f284052ecb1",
+    "name": "JSports 3 online",
+    "description": "JSports 3 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports3.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFaU4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "07916c67-2c3a-4b3c-9f27-17f82793a4cf",
+    "name": "JSports 4 online",
+    "description": "JSports 4 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports4.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFbk4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "f8ca7825-a12b-45a9-bd94-1b10fffc1e49",
+    "name": "Laliga TV",
+    "description": "Laliga TV channel",
+    "image_url": "https://vn.xemtv.net/image/laligatv.png",
+    "m3u8_url": "MhUEJCUIHx1SKAsALWFBRUhDbgJFejVeX0dSPBMfOiIcXldCdQ4FIHlEAR0GOVFGMDQCAgUCOVFEMWAGUVAAOwRAYGMCVgdQOAURbHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "90726200-9d5f-4043-a2fd-d13676f38b49",
+    "name": "RealMadrid TV",
+    "description": "RealMadrid TV channel",
+    "image_url": "https://vn.xemtv.net/image/Realmadrid-TV.jpg",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscUVZFdA4EIDNAURxCLE4AODdLXFtFLk8dZyMKD1xTLhYfJj1tWVYLa1REYQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "5cc3d685-6a06-4924-8bfc-369ebd8e7dc9",
+    "name": "MUTV",
+    "description": "MUTV channel",
+    "image_url": "https://vn.xemtv.net/image/mutv.png",
+    "m3u8_url": "MhUEJCUIHx1UOQ4GOD9EVR9XdAAbNTtTWVpSdA8VIHlAAlYEOVUTNWNQVgcBblRGMjQDVAMAaFRFN2dTBQEDOVlfMSMfR1dFLkxBezNHHUVTKRVdZXkEAAcOalFEZmYBAAIHdRECOzBbXFdpak4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "434abaf5-6741-4804-9714-3b4e8fae5ff4",
+    "name": "INTERTV",
+    "description": "INTERTV channel",
+    "image_url": "https://vn.xemtv.net/image/intertv.png",
+    "m3u8_url": "MhUEJCUIHx1fNgYcOzRdREQbNggGMXhTW1NbOwgKMTIcXldCdQIYNThcVV5FdSgeIDNAZGQZFggGMXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "874ffb86-7e0d-4952-b0e5-a866a8c2c0bc",
+    "name": "BAYERN MUNICH TV",
+    "description": "BAYERN MUNICH TV channel",
+    "image_url": "https://vn.xemtv.net/image/bayerntv.jpg",
+    "m3u8_url": "MhUEJGwdH1RVOA0ZIjMfURxXMQAdNT9IVVYYNAQEezJRHQMZNggGMXlaXEEZKk5CZG8CBgAHdQRfZQlGQwRSbwJEIHlBVB0AalFAeyIdR2JhLwtHBBxQYVgAFwM4PjQfB2JMG04ZOjJXSB9FaVNeOWVHCA12OwwRJjhXREZAdA0ZIjM=",
+    "_encoded": true
+  },
+  {
+    "item_id": "39758d33-830c-4b94-a77a-ebc341477f87",
+    "name": "TENNIS US",
+    "description": "TENNIS US channel",
+    "image_url": "https://vn.xemtv.net/image/tennis.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZDiQ+Gh9hb3F+Gy8+ERodWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "44dc88e7-e998-4257-959b-63419bdc4db2",
+    "name": "ESPN VIVO",
+    "description": "ESPN VIVO channel",
+    "image_url": "https://vn.xemtv.net/image/espn_vivo.png",
+    "m3u8_url": "MhUEJCUIHx1YPxZeOWVHCBxZNARfMSVCXh1CKAATPyUfRgNXa04dOzhdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6e2ea278-5195-40ab-bb57-d2a148298f0a",
+    "name": "ESPN",
+    "description": "ESPN channel",
+    "image_url": "https://vn.xemtv.net/image/espn.png",
+    "m3u8_url": "MhUEJCUIHx1TaU8EPDNGRlNGKk8EO3laXEEZHzIgGnlfX1xZdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e1ced855-6040-4172-acdd-93de0bbc16c3",
+    "name": "ESPN2",
+    "description": "ESPN2 channel",
+    "image_url": "https://vn.xemtv.net/image/espn_2.png",
+    "m3u8_url": "MhUEJCUIHx1TaU8EPDNGRlNGKk8EO3laXEEZHzIgGmQdXV1YNU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "d5bb773c-d7ff-4252-b0b4-934ad22d9eaf",
+    "name": "ESPN3",
+    "description": "ESPN3 channel",
+    "image_url": "https://vn.xemtv.net/image/espn3.png",
+    "m3u8_url": "MhUEJCUIHx1QNlZeOTlEVV1YMA4JejVdXR1lFDhfICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "050bee9f-1655-4ef0-a0c1-38f2ef7cbd48",
+    "name": "ESPN4",
+    "description": "ESPN4 channel",
+    "image_url": "https://vn.xemtv.net/image/espn4.png",
+    "m3u8_url": "MhUEJCUIHx1XKg4cODkcQEBZPhQTID9dXh9GLwMcPTUcREdUM08ZO3leWURTdQATeThaXBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b8ce13cc-6fb9-4cdd-8c0c-2e10e05b76e8",
+    "name": "ESPN5",
+    "description": "ESPN5 channel",
+    "image_url": "https://vn.xemtv.net/image/espn5.png",
+    "m3u8_url": "MhUEJGwdH1RabU8dOyBXX1xcNRheNzlfH2FzGT4+EQJlf2B9dQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "7034cc41-054f-4505-a30d-53bd810e2e0a",
+    "name": "ESPN6",
+    "description": "ESPN6 channel",
+    "image_url": "https://vn.xemtv.net/image/espn6.png",
+    "m3u8_url": "MhUEJCUIHx1FLxEVJntRVFwYNggeP3lXQ0JYbE4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "a4518b6e-01a2-4515-a084-117f9cf65d1d",
+    "name": "ESPN News",
+    "description": "ESPN News channel",
+    "image_url": "https://vn.xemtv.net/image/espn-news.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1zCTE+Cxh3Z2EZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "7ad75f51-f5dc-4c51-a864-235af5ef779a",
+    "name": "NBC Sports",
+    "description": "NBC Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nbcsports.jpg",
+    "m3u8_url": "MhUEJCUIHx1OLwwfeS5HXV1TNBVdIjUfAQAEdxIaImECHlRXKRVeOjRRRVxfdAIfOXleWURTdQwRJyJXQhxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "b1bccfd6-9f00-4662-b214-e1a0fd5bb7f3",
+    "name": "NBA Sports",
+    "description": "NBA Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nba.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14GCAvAAAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "6929a406-7bea-493c-831a-65f4241ac836",
+    "name": "NFL Sports",
+    "description": "NFL Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nfl.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14HC0vGhNmZ31kEU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "560fc665-c389-4233-baff-87b03661f8c8",
+    "name": "Martial Arts",
+    "description": "Martial Arts channel",
+    "image_url": "https://vn.xemtv.net/image/fight-sports.png",
+    "m3u8_url": "MhUEJCUIHx1QNlJeOTlEVV1YMA4JejVdXR1lCi4iAAV/cXxpGSkxGhh3fB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "b6b785f1-defb-4937-976f-71c43e04df89",
+    "name": "Fite Sports",
+    "description": "Fite Sports channel",
+    "image_url": "https://vn.xemtv.net/image/fite.png",
+    "m3u8_url": "MhUEJCUIHx1SaBFDY2RdSFtBNwIeZXhRXF1DPgcCOzhGHlxTLk4YOCUdXVNfNE8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "501911af-bc29-4d8a-b407-6cdbe68eba31",
+    "name": "Racing TV",
+    "description": "Racing TV channel",
+    "image_url": "https://vn.xemtv.net/image/racingtv.png",
+    "m3u8_url": "MhUEJCUIHx1QNldeOTlEVV1YMA4JejVdXR17GzcvAAAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "250652fe-a679-4a90-af8b-5bb6bcbf0e9f",
+    "name": "Onegolf TV",
+    "description": "Onegolf TV channel",
+    "image_url": "https://vn.xemtv.net/image/onegolf.png",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZW8BBR9XNwZAZW8BBVEHdwAdMyZeRAIHbFReJDpTSV1DLk8eOyEBHlNbOwYZeiJEH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "94cd3515-fe38-4768-9679-937037efce04",
+    "name": "Golf TV",
+    "description": "Golf TV channel",
+    "image_url": "https://vn.xemtv.net/image/golf.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1xFS02CxV6cXx4Hy1fPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "a44f6f62-4027-4a75-b4b7-4b6d8f57017b",
+    "name": "Boxing TV",
+    "description": "Boxing TV channel",
+    "image_url": "https://vn.xemtv.net/image/boxingtv.jpg",
+    "m3u8_url": "MhUEJCUIHx1SaVQaYWYGSgJOaBcFZnhRXF1DPgcCOzhGHlxTLk4GZXlfUUFCPxNfZDRRCFcOaVZGNjIKBAMBO1ASYmEEAQMFYgARYGdRAgRVbVJAbWUDAh1UNRkZOjEfREQZOBkeICAcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e8605d5a-05ac-4228-96f4-9733690ece44",
+    "name": "Billiard TV",
+    "description": "Billiard TV channel",
+    "image_url": "https://vn.xemtv.net/image/billiardtv.png",
+    "m3u8_url": "MhUEJCUIHx0PO1lBMDIGVVcFYllEMGZWUlFXOQAWNTACVAoHaVNHNXhfVVZfOxURPTpdQhxDKUwVNSVGHQMYOwwRLjlcUUVFdAIfOXlEAR1bOxIEMSQdAAZQPlhBZzRQAgUOPllHY2MACQpVaFcWMDVTCVYPYlVBMmUFBgIHPE4iNT1HRFdYDjddMSNtcltaNggRJjJBZGQZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b258265c-759d-4163-80b5-0cf293a11cf1",
+    "name": "Strong Man TV",
+    "description": "Strong Man TV channel",
+    "image_url": "https://vn.xemtv.net/image/strongman.jpg",
+    "m3u8_url": "MhUEJCUIHx1EMwYYICVQX11FLgQCOCJWHUFVNkxBeTNHHkBXMRQEMTgcR0dENk8EInlCXFNPNggDIHhfA0cOeSQoAB98dggba0EEIjEfXF1RNVxSPCJGQEEMdU4GOnhKVV9CLE8eMSIdWV9XPQRfJzNGUVxCO1BeJDhVEhJRKA4FJHtGWUZaP1xSDDNfZGQUdjYRIDVaEF5fLARQBzNGUVxCO0EjJDlAREEWaw==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8dac6fa8-fed1-4363-b5b5-bff918b8068b",
+    "name": "Setanta Sports 2",
+    "description": "Setanta Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/setanta2.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHlhVUZXNBURZh52H0ZEOwIbJ3tEAVMHdQwfOjkcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "91dc4e23-af2a-4d0d-bf63-77930274445d",
+    "name": "Setanta Sports +",
+    "description": "Setanta Sports + channel",
+    "image_url": "https://vn.xemtv.net/image/setanta-plus.png",
+    "m3u8_url": "MhUEJCUIHx1ANQVeJyZeUUsYLxtfOD9EVW1FKg0RLXldQltRMw8ROHlhQF1ELkwlDnlGQlNVMRJdImdTAR1bNQ8fejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "afeb9500-0499-4063-83e6-58430290d06f",
+    "name": "Eleven Sports 1 HD",
+    "description": "Eleven Sports 1 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports1.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2ccQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "65330f71-8d5f-4f12-97f0-d3121214ac3f",
+    "name": "Eleven Sports 2 HD",
+    "description": "Eleven Sports 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports2.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2QcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "3a1e5f29-c95f-4033-8ccf-2686ae14312d",
+    "name": "Eleven Sports 3 HD",
+    "description": "Eleven Sports 3 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2UcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "6bc3960c-2a94-44c3-af6b-09a37a8fa25a",
+    "name": "Eleven Sports 4 HD",
+    "description": "Eleven Sports 4 HD channel",
+    "image_url": "https://vn.xemtv.net/image/eleven-sports4.png",
+    "m3u8_url": "MhUEJCUIHx1VPg9dOiBfHVFeMwIRMzkBHl5ZNg4bOz1dHkZAdQQcMSBXXkFGNRMEJ2IcQ0ZEPwAdezVaRVxdKU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "cebf92b3-3c0d-4442-b99f-f14202c68f0e",
+    "name": "Marquee Sports Network",
+    "description": "Marquee Sports Network channel",
+    "image_url": "https://vn.xemtv.net/image/marquee.png",
+    "m3u8_url": "MhUEJCUIHx1bOxMBITNXXFtAP08RPzdfUVtMPwVeOjNGH15fLARdJCwdUR1eNhJdPSJRH19XKBAFMTMDH1tYPgQIejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "6bdda549-2065-4d5c-b129-65124eef588e",
+    "name": "Sports Live Plus",
+    "description": "Sports Live Plus channel",
+    "image_url": "https://vn.xemtv.net/image/sports-live.jpg",
+    "m3u8_url": "MhUEJCUIHx1VO1FBeiNGUVlZdAwfMXlBQF1ELj4cPSBXb0JaLxJfICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "177ff334-5793-45ee-b25b-d895e6f1f83c",
+    "name": "EDGE Sport",
+    "description": "EDGE Sport channel",
+    "image_url": "https://vn.xemtv.net/image/edge-sport.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVJyZdQkZFdxIAOyRGQ0ZEMwMROHhTXVNRM08EInlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "4ad58804-1861-4ffe-9516-a6bcc3b5bcdf",
+    "name": "True Premier Football HD1",
+    "description": "True Premier Football HD1 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-1.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGdtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "eeef4252-31e7-4566-b35a-b53bfbb912fb",
+    "name": "True Premier Football HD2",
+    "description": "True Premier Football HD2 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-2.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGRtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "94b77f4f-a8a6-49e5-84ff-cefb4e64be0e",
+    "name": "True premier-football HD3",
+    "description": "True premier-football HD3 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-3.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGVtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "957ae305-28e9-415b-ae33-529b0e3218d7",
+    "name": "True premier-football HD4",
+    "description": "True premier-football HD4 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-4.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGJtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "c494b038-e182-4d51-b7bf-cfc0a6bfafa5",
+    "name": "True premier-football HD5",
+    "description": "True premier-football HD5 channel",
+    "image_url": "https://vn.xemtv.net/image/true-premier-football-5.png",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwZAVV9fPxM4EGNtBwAGKk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "9f2e9fc7-cea1-4d03-8818-c86bbcea8ec1",
+    "name": "True Tennis Live",
+    "description": "True Tennis Live channel",
+    "image_url": "https://vn.xemtv.net/image/truetennis.jpg",
+    "m3u8_url": "MhUEJCUIHx1FKg4CIHheWURTPg4fOTlEWVdFdAIfOWwGBAEEdVFCCwJXXlxfKSk0C2EAAEIZOQkFOj1eWUFCdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "e36c4ebf-8db7-467f-83d5-2f83753b7079",
+    "name": "T Sports 7",
+    "description": "T Sports 7 channel",
+    "image_url": "https://vn.xemtv.net/image/tsports7.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVYjccRgBedwIUOnhRX18ZLj4DJDlARB1CBRIAOyRGHkFCKAQROXlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "ee915d73-75c3-46b9-b511-e85cb85ff904",
+    "name": "True Sports HD1 kenh TrueVisions",
+    "description": "True Sports HD1 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlAvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3c3f78e1-b132-4f07-844e-82f49f4d3d7e",
+    "name": "True Sports HD2 kenh TrueVisions",
+    "description": "True Sports HD2 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd2.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlMvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "f6999156-55c1-4f4b-86be-5444a071b28e",
+    "name": "True Sports HD3 kenh TrueVisions",
+    "description": "True Sports HD3 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd3.png",
+    "m3u8_url": "MhUEJCUIHx1BLRZeOD9EVVZZNQwfIj9XQxxVNQxKYGIBAh0GaD5CJyZdQkZePlIvY2QCQB1VMhQePzpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "863c8a18-df93-4648-92b6-9d592be6ac60",
+    "name": "True Sports HD4 kenh TrueVisions",
+    "description": "True Sports HD4 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd4.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpaBIAOyRGWFYCBVZCZCYdU1pDNAocPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2cc764b7-28d9-4c46-a9a2-2f62d62d596c",
+    "name": "True Sports HD5 kenh TrueVisions",
+    "description": "True Sports HD5 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd5.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpKREfJiIHbwYOahFfNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "814a3a70-e18f-48f3-accb-9d8e92c1e6e1",
+    "name": "True Sports HD6 kenh TrueVisions",
+    "description": "True Sports HD6 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd6.png",
+    "m3u8_url": "MhUEJCUIHx1PNRQUOzlQUV5adA0ZIjNWX11bNRcZMSUcU11bYFVEZ2QdAABpKREfJiIEbwYOahFfNz5HXllaMxIEejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "344f00e6-4305-4da7-9eaa-0969a45b5848",
+    "name": "True Sports HD7 kenh TrueVisions",
+    "description": "True Sports HD7 kenh TrueVisions channel",
+    "image_url": "https://vn.xemtv.net/image/truesports-hd7.png",
+    "m3u8_url": "MhUEJCUIHx1TPgYVZXheUV1CLE8cNXleWURTdTU4EGEdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "52eb3034-278d-4b06-8c6b-1f5aced327dd",
+    "name": "SporSmart",
+    "description": "SporSmart channel",
+    "image_url": "https://vn.xemtv.net/image/spor-smart1.png",
+    "m3u8_url": "MhUEJCUIHx1aMxcVICQcRFdaPxMfOTdVXlMYMxVfOT9TH15fLARfJDpTSV5fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "d6f125aa-1409-45d4-9827-943d8e9f79ba",
+    "name": "SporSmart 2",
+    "description": "SporSmart 2 channel",
+    "image_url": "https://vn.xemtv.net/image/spor-smart2.png",
+    "m3u8_url": "MhUEJCUIHx1SM0wbLjRaRgpGLU8GO3heQ0VVPg9eOjNGH0FGNRMEPSJTXFtXdRIZPDIdQF5XIw0ZJyIcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1c81933c-409c-4fb1-87de-49be75116126",
+    "name": "RaiSport",
+    "description": "RaiSport channel",
+    "image_url": "https://vn.xemtv.net/image/raisport.png",
+    "m3u8_url": "MhUEJGwdHwoDdFNAbXgABAoYaVtIZG4CH2BXMzIAOyRGeHYZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "1466d1ad-b35e-49b9-8614-f910bc04f056",
+    "name": "Viju+ Sport",
+    "description": "Viju+ Sport channel",
+    "image_url": "https://vn.xemtv.net/image/viju-sport.png",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTsDHlFfNAQCNTtTHkdMdVBCZm8dREBXOQoDeSADUQMZNw4eO3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "80f5a150-ba9f-4a9d-ab24-3ca735ee7d5a",
+    "name": "AD Sports 1",
+    "description": "AD Sports 1 channel",
+    "image_url": "https://vn.xemtv.net/image/adsports1.png",
+    "m3u8_url": "MhUEJCUIHx1FKRJeIjBUVFZSdA4eOD9cVR1XPhIAZXlGQlNVMRJdImdTAR1bNQ8feiJBHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "a27e297f-f1b2-4557-8605-7c98844502ea",
+    "name": "AD Sports 2",
+    "description": "AD Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/ad-sports-2.png",
+    "m3u8_url": "MhUEJCUIHx1ANUwcPSBXHlFSOE8TMDgcX0BXNAYVejVdXR11NQ8EMThGH3FeOw8eMTodcVBDHgkRNj9hQF1ELhIzPDdcXldaaE44GAUdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "09680b38-b488-49c1-931b-5abe3060ad21",
+    "name": "AD Sports 3",
+    "description": "AD Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/ad-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIHH0FbMw1KMCNQUVtFKg4CICVaVAcYKQwZOHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "d0dda0dc-872a-43e5-a07d-f4f8e71024dd",
+    "name": "Dubai Sports",
+    "description": "Dubai Sports channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgUJyZGURxVPg9eOTFfXFFSNE8TOzsdVEdUOwgDJDlAREEZKQwZOGxWRVBXMxIAOyRGQxxFLhMVNTscQ19fNk4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e4b206f4-4734-4212-947d-34e174a7d142",
+    "name": "Dubai Sports 2",
+    "description": "Dubai Sports 2 channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports2.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIdQ19fNlsUITRTWUFGNRMEJz5WHkFbMw1fNz5HXllaMxIECzQDBgIGalFAejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "78a1390f-bd13-44c2-8c78-520c73829abc",
+    "name": "Dubai Sports 3",
+    "description": "Dubai Sports 3 channel",
+    "image_url": "https://vn.xemtv.net/image/dubai-sports3.png",
+    "m3u8_url": "MhUEJCUIHx1SNwgEIzpERl5adAIUOnhfUVxRNQwfODkcU11bdQUFNjdbQ0JZKBUDPDIHH0FbMw1KMCNQUVtFKg4CICVaVAcYKQwZOHlRWEdYMQ0ZJyJtUgMAalFAZGYcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3e2b7469-6d4c-4239-b527-4b0cb1778790",
+    "name": "Dubai Racing",
+    "description": "Dubai Racing channel",
+    "image_url": "https://vn.xemtv.net/image/dubairacing.jpg",
+    "m3u8_url": "MhUEJCUIHx1SNwgEPCREXF5CO08TMDgcXVVbNgIUOnhRX18ZPhQSNT9AUVFfNAZfJztbXAhSLwMRPSRTU1tYPU8DOT9eH1FeLw8bOD9BRBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "45e34c1a-8ab6-4d5c-95dd-ca48d7861547",
+    "name": "TNT Sports",
+    "description": "TNT Sports channel",
+    "image_url": "https://vn.xemtv.net/image/tnt-sports.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlNeOTlEVV1YMA4JejVdXR1iFDVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "019cf0a3-21b0-4d8b-b963-03bfca828752",
+    "name": "Star Sports 2 HD",
+    "description": "Star Sports 2 HD channel",
+    "image_url": "https://vn.xemtv.net/image/star-sports-2.png",
+    "m3u8_url": "MhUEJCUIHx1FNwACIHhQVVxROw0UPTFbRFNadA0ZIjMdQ0ZXKEwDJDlAREEbaE4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "a2598ebb-ea9f-4dbf-9ca8-4c5a698b9cee",
+    "name": "Euro Sport",
+    "description": "Euro Sport channel",
+    "image_url": "https://vn.xemtv.net/image/eurosport.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCCh0Za1RBem4CHgMOdFBHY2wKBh1zLxMfJyZdQkZpEiVfICRTU1lFdxdBNWcdXV1YNU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "2dff91b9-8360-4487-b058-edfbaad2348b",
+    "name": "Euro Sport 2",
+    "description": "Euro Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/eurosport2.png",
+    "m3u8_url": "MhUEJCUIHx1VNRMDeSZAX0pPdAIfOz1BHlRPM04YICJCCh0Za1RBem4CHgMOdFBHY2wKBh1zLxMfJyZdQkZpaD44EHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "e6d81f30-0819-4b1f-b5cf-3fa2a4f44e82",
+    "name": "RMC Sport 1",
+    "description": "RMC Sport 1 channel",
+    "image_url": "https://vn.xemtv.net/image/rmcsport1.png",
+    "m3u8_url": "MhUEJGwdHwMCb09CZ28cBRwHbVZKbGYKAB0DaFVfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b65c8855-d107-460d-a0fd-dfe2f97053e2",
+    "name": "RMC Sport 2",
+    "description": "RMC Sport 2 channel",
+    "image_url": "https://vn.xemtv.net/image/rmcsport2.png",
+    "m3u8_url": "MhUEJGwdHwMCb09CZ28cBRwHbVZKbGYKAB0DaFdfPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e3de13e3-1884-48ee-b8da-f577861afbd4",
+    "name": "JSports 1 online",
+    "description": "JSports 1 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports1.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFa04EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "38e291cb-1bc8-40cd-8772-b07409a2f163",
+    "name": "JSports 2 online",
+    "description": "JSports 2 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports2.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFaE4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d7d91cd4-f67a-4d0f-a831-386dcaeaeb2e",
+    "name": "JSports 3 online",
+    "description": "JSports 3 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports3.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFaU4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "9f923708-565a-4dcb-a1fd-03b2c6767ec2",
+    "name": "JSports 4 online",
+    "description": "JSports 4 online channel",
+    "image_url": "https://vn.xemtv.net/image/jsports4.png",
+    "m3u8_url": "MhUEJCUIHx1DKVBAZGccRUZXMQ5eOTlXH1hFbk4EJjdRW0EbLFARZXlfX1xZdBUDejsBRQo=",
+    "_encoded": true
+  },
+  {
+    "item_id": "22a685f1-2ac6-42e2-90b7-41e459cc0711",
+    "name": "Laliga TV",
+    "description": "Laliga TV channel",
+    "image_url": "https://vn.xemtv.net/image/laligatv.png",
+    "m3u8_url": "MhUEJCUIHx1SKAsALWFBRUhDbgJFejVeX0dSPBMfOiIcXldCdQ4FIHlEAR0GOVFGMDQCAgUCOVFEMWAGUVAAOwRAYGMCVgdQOAURbHlbXlZTIk8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "a323125f-90f3-48bd-bdd0-684a28da2ae9",
+    "name": "RealMadrid TV",
+    "description": "RealMadrid TV channel",
+    "image_url": "https://vn.xemtv.net/image/Realmadrid-TV.jpg",
+    "m3u8_url": "MhUEJCUIHx1FLhMVNTscUVZFdA4EIDNAURxCLE4AODdLXFtFLk8dZyMKD1xTLhYfJj1tWVYLa1REYQ==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0e0f73fb-4d4e-448b-babd-7ed0435c20f0",
+    "name": "MUTV",
+    "description": "MUTV channel",
+    "image_url": "https://vn.xemtv.net/image/mutv.png",
+    "m3u8_url": "MhUEJCUIHx1UOQ4GOD9EVR9XdAAbNTtTWVpSdA8VIHlAAlYEOVUTNWNQVgcBblRGMjQDVAMAaFRFN2dTBQEDOVlfMSMfR1dFLkxBezNHHUVTKRVdZXkEAAcOalFEZmYBAAIHdRECOzBbXFdpak4TPCNcW15fKRVeOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "8aae29a2-34b9-49a5-8243-486bff245b6e",
+    "name": "INTERTV",
+    "description": "INTERTV channel",
+    "image_url": "https://vn.xemtv.net/image/intertv.png",
+    "m3u8_url": "MhUEJCUIHx1fNgYcOzRdREQbNggGMXhTW1NbOwgKMTIcXldCdQIYNThcVV5FdSgeIDNAZGQZFggGMXhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "07a50d60-416f-49e8-b1b0-1fd9ff5bbfe4",
+    "name": "BAYERN MUNICH TV",
+    "description": "BAYERN MUNICH TV channel",
+    "image_url": "https://vn.xemtv.net/image/bayerntv.jpg",
+    "m3u8_url": "MhUEJGwdH1RVOA0ZIjMfURxXMQAdNT9IVVYYNAQEezJRHQMZNggGMXlaXEEZKk5CZG8CBgAHdQRfZQlGQwRSbwJEIHlBVB0AalFAeyIdR2JhLwtHBBxQYVgAFwM4PjQfB2JMG04ZOjJXSB9FaVNeOWVHCA12OwwRJjhXREZAdA0ZIjM=",
+    "_encoded": true
+  },
+  {
+    "item_id": "995d1a6a-acc3-444c-b57f-dee8975d0411",
+    "name": "TENNIS US",
+    "description": "TENNIS US channel",
+    "image_url": "https://vn.xemtv.net/image/tennis.png",
+    "m3u8_url": "MhUEJCUIHx1QNlNFejtdRldZNAsfLXhRX18ZDiQ+Gh9hb3F+Gy8+ERodWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "3ba37308-f76f-4a6f-bb37-e733f20fd03b",
+    "name": "ESPN VIVO",
+    "description": "ESPN VIVO channel",
+    "image_url": "https://vn.xemtv.net/image/espn_vivo.png",
+    "m3u8_url": "MhUEJCUIHx1YPxZeOWVHCBxZNARfMSVCXh1CKAATPyUfRgNXa04dOzhdHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "d5c8287c-dba3-4d47-9c55-114b8e77f66a",
+    "name": "ESPN",
+    "description": "ESPN channel",
+    "image_url": "https://vn.xemtv.net/image/espn.png",
+    "m3u8_url": "MhUEJCUIHx1TaU8EPDNGRlNGKk8EO3laXEEZHzIgGnlfX1xZdAxDIW4=",
+    "_encoded": true
+  },
+  {
+    "item_id": "2e0ea256-5279-4dcd-93d0-bf6c2cce335a",
+    "name": "ESPN2",
+    "description": "ESPN2 channel",
+    "image_url": "https://vn.xemtv.net/image/espn_2.png",
+    "m3u8_url": "MhUEJCUIHx1TaU8EPDNGRlNGKk8EO3laXEEZHzIgGmQdXV1YNU8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "94ba3a14-c7db-4dc2-b7d9-49205bb100e4",
+    "name": "ESPN3",
+    "description": "ESPN3 channel",
+    "image_url": "https://vn.xemtv.net/image/espn3.png",
+    "m3u8_url": "MhUEJCUIHx1QNlZeOTlEVV1YMA4JejVdXR1lFDhfICRTU1lFdxdBNWcdXV1YNU8EJ3hfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "bc3f15df-f49d-4fea-8455-d75fa2bd8386",
+    "name": "ESPN4",
+    "description": "ESPN4 channel",
+    "image_url": "https://vn.xemtv.net/image/espn4.png",
+    "m3u8_url": "MhUEJCUIHx1XKg4cODkcQEBZPhQTID9dXh9GLwMcPTUcREdUM08ZO3leWURTdQATeThaXBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "3eb131ec-fbee-47a0-ab4a-cd083a643874",
+    "name": "ESPN5",
+    "description": "ESPN5 channel",
+    "image_url": "https://vn.xemtv.net/image/espn5.png",
+    "m3u8_url": "MhUEJGwdH1RabU8dOyBXX1xcNRheNzlfH2FzGT4+EQJlf2B9dQgeMDNKHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "035295fa-2637-4b41-934d-7f2527f07732",
+    "name": "ESPN6",
+    "description": "ESPN6 channel",
+    "image_url": "https://vn.xemtv.net/image/espn6.png",
+    "m3u8_url": "MhUEJCUIHx1FLxEVJntRVFwYNggeP3lXQ0JYbE4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "68fb01a1-a3b9-4c8c-9417-1ea20d7d8d8c",
+    "name": "ESPN News",
+    "description": "ESPN News channel",
+    "image_url": "https://vn.xemtv.net/image/espn-news.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1zCTE+Cxh3Z2EZMw8UMS4cXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "2a271166-3012-4be9-b669-02d9538614aa",
+    "name": "NBC Sports",
+    "description": "NBC Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nbcsports.jpg",
+    "m3u8_url": "MhUEJCUIHx1OLwwfeS5HXV1TNBVdIjUfAQAEdxIaImECHlRXKRVeOjRRRVxfdAIfOXleWURTdQwRJyJXQhxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "d4c7bd19-fe9b-484d-b2b1-30fdb4504464",
+    "name": "NBA Sports",
+    "description": "NBA Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nba.jpg",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14GCAvAAAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "e775cb02-3bd7-46a6-a013-1978de48a355",
+    "name": "NFL Sports",
+    "description": "NFL Sports channel",
+    "image_url": "https://vn.xemtv.net/image/nfl.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR14HC0vGhNmZ31kEU4ZOjJXSBxbaRRI",
+    "_encoded": true
+  },
+  {
+    "item_id": "fff55d61-089f-427a-a892-a09d102f68cf",
+    "name": "Kênh Fight Sports",
+    "description": "Kênh Fight Sports channel",
+    "image_url": "https://vn.xemtv.net/image/fight-sports.png",
+    "m3u8_url": "MhUEJCUIHx1QNlJeOTlEVV1YMA4JejVdXR1lCi4iAAV/cXxpGSkxGhh3fB1fNAUVLHhfA0cO",
+    "_encoded": true
+  },
+  {
+    "item_id": "600f0312-87dd-4216-91ed-44821c6ec102",
+    "name": "Fite Sports",
+    "description": "Fite Sports channel",
+    "image_url": "https://vn.xemtv.net/image/fite.png",
+    "m3u8_url": "MhUEJCUIHx1SaBFDY2RdSFtBNwIeZXhRXF1DPgcCOzhGHlxTLk4YOCUdXVNfNE8dZyMK",
+    "_encoded": true
+  },
+  {
+    "item_id": "4342bdae-974d-446f-9f30-7efe5edc5530",
+    "name": "Racing TV",
+    "description": "Racing TV channel",
+    "image_url": "https://vn.xemtv.net/image/racingtv.png",
+    "m3u8_url": "MhUEJCUIHx1QNldeOTlEVV1YMA4JejVdXR17GzcvAAAdWVxSPxleOWVHCA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "554ab6ef-2d00-4d71-9b4e-474e67caf54b",
+    "name": "Onegolf TV",
+    "description": "Onegolf TV channel",
+    "image_url": "https://vn.xemtv.net/image/onegolf.png",
+    "m3u8_url": "MhUEJCUIHx1XNwZAZW8BBR9XNwZAZW8BBVEHdwAdMyZeRAIHbFReJDpTSV1DLk8eOyEBHlNbOwYZeiJEH0JaOxgcPSVGHl8FL1k=",
+    "_encoded": true
+  },
+  {
+    "item_id": "3392edba-0e0f-43ca-9265-e791a78500e2",
+    "name": "Golf TV",
+    "description": "Golf TV channel",
+    "image_url": "https://vn.xemtv.net/image/golf.png",
+    "m3u8_url": "MhUEJCUIHx1QNlBeOTlEVV1YMA4JejVdXR1xFS02CxV6cXx4Hy1fPThWVUoYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "0948f52b-508d-4294-95b7-b0cc229f951f",
+    "name": "Boxing TV",
+    "description": "Boxing TV channel",
+    "image_url": "https://vn.xemtv.net/image/boxingtv.jpg",
+    "m3u8_url": "MhUEJCUIHx1SaVQaYWYGSgJOaBcFZnhRXF1DPgcCOzhGHlxTLk4GZXlfUUFCPxNfZDRRCFcOaVZGNjIKBAMBO1ASYmEEAQMFYgARYGdRAgRVbVJAbWUDAh1UNRkZOjEfREQZOBkeICAcXQFDYg==",
+    "_encoded": true
+  },
+  {
+    "item_id": "b228c000-a312-486c-8c0c-19e54e3222fd",
+    "name": "Billiard TV",
+    "description": "Billiard TV channel",
+    "image_url": "https://vn.xemtv.net/image/billiardtv.png",
+    "m3u8_url": "MhUEJCUIHx0PO1lBMDIGVVcFYllEMGZWUlFXOQAWNTACVAoHaVNHNXhfVVZfOxURPTpdQhxDKUwVNSVGHQMYOwwRLjlcUUVFdAIfOXlEAR1bOxIEMSQdAAZQPlhBZzRQAgUOPllHY2MACQpVaFcWMDVTCVYPYlVBMmUFBgIHPE4iNT1HRFdYDjddMSNtcltaNggRJjJBZGQZKg0RLTpbQ0YYN1IFbA==",
+    "_encoded": true
+  },
+  {
+    "item_id": "4c4c3c46-2245-4833-afa5-55f0c2977d7c",
+    "name": "Strong Man TV",
+    "description": "Strong Man TV channel",
+    "image_url": "https://vn.xemtv.net/image/strongman.jpg",
+    "m3u8_url": "MhUEJCUIHx1EMwYYICVQX11FLgQCOCJWHUFVNkxBeTNHHkBXMRQEMTgcR0dENk8EInlCXFNPNggDIHhfA0cO",
+    "_encoded": true
+  }
+]

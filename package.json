@@ -8,8 +8,9 @@
     "packages/*"
   ],
   "scripts": {
+    "encode-channels": "node scripts/encode-channels.js",
     "dev:web": "npm run dev -w web",
-    "build:web": "npm run build -w web",
+    "build:web": "npm run encode-channels && npm run build -w web",
     "dev:mobile": "npm run start -w mobile",
     "build:channels": "npm run build -w @dummyyy/channels",
     "typecheck": "npm run typecheck --workspaces --if-present"
