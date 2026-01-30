@@ -1,0 +1,63 @@
+.channel-list-screen {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  background: var(--bg-primary);
+}
+
+.channel-list-screen__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  padding: 0 8px;
+}
+
+.channel-list-screen__header h1 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.channel-list-screen__hint {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.channel-list-screen__grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 16px;
+  overflow-y: auto;
+  flex: 1;
+  padding: 8px;
+  scroll-behavior: smooth;
+}
+
+/* Responsive grid for different TV sizes */
+@media (max-width: 1600px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (max-width: 1280px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 960px) {
+  .channel-list-screen__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+}
