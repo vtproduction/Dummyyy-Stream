@@ -151,6 +151,12 @@ export default function PlayerScreen() {
           }
           break;
         }
+        case 'ArrowUp': {
+          // D-Pad Up on LG TV remote - toggle favorite
+          e.preventDefault();
+          if (id) toggleFavorite(id);
+          break;
+        }
         case 'ArrowLeft': {
           e.preventDefault();
           if (id) {
@@ -256,10 +262,16 @@ export default function PlayerScreen() {
           <button className="player-screen__back" onClick={() => navigate('/')}>
             ← Back
           </button>
+          <button
+            className="player-screen__favorite-btn"
+            onClick={() => id && toggleFavorite(id)}
+            title={id && isFavorite(id) ? 'Remove from favorites' : 'Add to favorites'}
+          >
+            {id && isFavorite(id) ? '★' : '☆'}
+          </button>
           <div className="player-screen__channel-info">
             <img src={channel.logo} alt="" className="player-screen__logo" />
             <span className="player-screen__name">{channel.name}</span>
-            {id && isFavorite(id) && <span className="player-screen__fav">★</span>}
           </div>
         </div>
         
@@ -267,7 +279,7 @@ export default function PlayerScreen() {
           <div className="player-screen__hints">
             <span>Space: Play/Pause</span>
             <span>←/→: Prev/Next Channel</span>
-            <span>F: Favorite</span>
+            <span>↑/F: Favorite</span>
             <span>Esc: Back</span>
           </div>
         </div>
