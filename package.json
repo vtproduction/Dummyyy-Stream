@@ -8,6 +8,7 @@
     "packages/*"
   ],
   "scripts": {
+    "admin": "node apps/admin/server.js",
     "encode-channels": "node scripts/encode-channels.js",
     "dev:web": "npm run dev -w web",
     "build:web": "npm run encode-channels && npm run build -w web",

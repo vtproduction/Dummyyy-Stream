@@ -1,5 +1,6 @@
-import { memo, useState, useCallback } from 'react';
+import { memo, useState, useCallback, useEffect } from 'react';
 import type { Channel } from '@dummyyy/channels';
+
 import './ChannelCard.css';
 
 interface ChannelCardProps {
@@ -16,6 +17,15 @@ function LazyImage({ src, alt }: { src: string; alt: string }) {
   const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState(false);
 
+  // Use the direct URL (now local)
+  const activeSrc = src;
+
+  // Reset state when src changes
+  useEffect(() => {
+    setLoaded(false);
+    setError(false);
+  }, [src]);
+
   const handleLoad = useCallback(() => setLoaded(true), []);
   const handleError = useCallback(() => setError(true), []);
 
@@ -29,7 +39,7 @@ function LazyImage({ src, alt }: { src: string; alt: string }) {
 
   return (
     <img
-      src={src}
+      src={activeSrc}
       alt={alt}
       loading="lazy"
       onLoad={handleLoad}
@@ -38,6 +48,7 @@ function LazyImage({ src, alt }: { src: string; alt: string }) {
     />
   );
 }
+
 
 function ChannelCard({
   channel,
