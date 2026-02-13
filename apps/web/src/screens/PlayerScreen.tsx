@@ -2,12 +2,17 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Hls from 'hls.js';
 import { useChannels } from '../hooks/useChannels';
+
 import './PlayerScreen.css';
 
 type PlayerState = 'loading' | 'playing' | 'paused' | 'error';
 
 export default function PlayerScreen() {
   const { id } = useParams<{ id: string }>();
+  // ... (rest of imports and component logic) ...
+
+  // Inside return statement
+
   const navigate = useNavigate();
   const videoRef = useRef<HTMLVideoElement>(null);
   const hlsRef = useRef<Hls | null>(null);
